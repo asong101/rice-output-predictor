@@ -1,0 +1,2496 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Agro_economic_assessment_Kanghot_1st_cycle_2022_polygons" id="Agro_economic_assessment_Kanghot_1st_cycle_2022_polygons">
+	<SimpleField name="Nb" type="int"></SimpleField>
+	<SimpleField name="ID" type="int"></SimpleField>
+	<SimpleField name="Farmer name" type="string"></SimpleField>
+	<SimpleField name="Block" type="string"></SimpleField>
+	<SimpleField name="Village" type="string"></SimpleField>
+	<SimpleField name="Code of the plot" type="string"></SimpleField>
+	<SimpleField name="Surface (ha)" type="float"></SimpleField>
+	<SimpleField name="Dei Meas" type="string"></SimpleField>
+	<SimpleField name="Biofunctool" type="string"></SimpleField>
+	<SimpleField name="Contact" type="string"></SimpleField>
+	<SimpleField name="Latitude" type="float"></SimpleField>
+	<SimpleField name="Longtitude" type="float"></SimpleField>
+	<SimpleField name="ISWM ID plot" type="string"></SimpleField>
+	<SimpleField name="Diversification" type="string"></SimpleField>
+	<SimpleField name="Cropping system" type="string"></SimpleField>
+	<SimpleField name="ISWM_WUG" type="string"></SimpleField>
+	<SimpleField name="ISWM_WUSG" type="string"></SimpleField>
+	<SimpleField name="PlotID" type="string"></SimpleField>
+	<SimpleField name="ISWM_Surface" type="string"></SimpleField>
+	<SimpleField name="ISWM_FARMERID" type="string"></SimpleField>
+	<SimpleField name="ISWM_WUG-WUSG" type="string"></SimpleField>
+	<SimpleField name="wkt_geom" type="string"></SimpleField>
+	<SimpleField name="Nb_min" type="int"></SimpleField>
+</Schema>
+<Folder><name>Agro_economic_assessment_Kanghot_1st_cycle_2022_polygons</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Agro_economic_assessment_Kanghot_1st_cycle_2022_polygons">
+		<SimpleData name="Nb">1</SimpleData>
+		<SimpleData name="ID">1</SimpleData>
+		<SimpleData name="Farmer name">Sao Samuth</SimpleData>
+		<SimpleData name="Block">E</SimpleData>
+		<SimpleData name="Village">Domnak Dangkor</SimpleData>
+		<SimpleData name="Code of the plot">DD_Sao Samuth 02</SimpleData>
+		<SimpleData name="Surface (ha)">0.4</SimpleData>
+		<SimpleData name="Dei Meas">Yes</SimpleData>
+		<SimpleData name="Biofunctool">Yes</SimpleData>
+		<SimpleData name="Contact">096 540 2672</SimpleData>
+		<SimpleData name="Latitude">12.97561</SimpleData>
+		<SimpleData name="Longtitude">103.26437</SimpleData>
+		<SimpleData name="Diversification">LongCC</SimpleData>
+		<SimpleData name="Cropping system">Long CC/Broadcast</SimpleData>
+		<SimpleData name="ISWM_WUG">SC8</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG3</SimpleData>
+		<SimpleData name="PlotID">SG3-4929</SimpleData>
+		<SimpleData name="ISWM_Surface">0,40</SimpleData>
+		<SimpleData name="ISWM_FARMERID">DK081</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC8-SG3</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.26436999999999955 12.97560999999999964)</SimpleData>
+		<SimpleData name="Nb_min">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>103.26419526754,12.9751599376092 103.264178172292,12.9751944534312 103.264168099666,12.9752403043139 103.264142606129,12.9753998909049 103.264076018707,12.9758586274884 103.264539960793,12.9759124245829 103.264647489302,12.9752093878539 103.26419526754,12.9751599376092</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Agro_economic_assessment_Kanghot_1st_cycle_2022_polygons">
+		<SimpleData name="Nb">2</SimpleData>
+		<SimpleData name="ID">1</SimpleData>
+		<SimpleData name="Farmer name">Sao Samuth</SimpleData>
+		<SimpleData name="Block">E</SimpleData>
+		<SimpleData name="Village">Domnak Dangkor</SimpleData>
+		<SimpleData name="Code of the plot">DD_Sao Samuth 04</SimpleData>
+		<SimpleData name="Surface (ha)">0.7</SimpleData>
+		<SimpleData name="Dei Meas">Yes</SimpleData>
+		<SimpleData name="Biofunctool">Yes</SimpleData>
+		<SimpleData name="Contact">096 540 2672</SimpleData>
+		<SimpleData name="Latitude">12.97622</SimpleData>
+		<SimpleData name="Longtitude">103.26385</SimpleData>
+		<SimpleData name="Diversification">LongCC</SimpleData>
+		<SimpleData name="Cropping system">Long CC/Broadcast</SimpleData>
+		<SimpleData name="ISWM_WUG">SC8</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG3</SimpleData>
+		<SimpleData name="PlotID">SG3-4938</SimpleData>
+		<SimpleData name="ISWM_Surface">0,67</SimpleData>
+		<SimpleData name="ISWM_FARMERID">DK081</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC8-SG3</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.26385000000000502 12.97621999999999964)</SimpleData>
+		<SimpleData name="Nb_min">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>103.264396173989,12.9759204232041 103.263951675038,12.9758761305686 103.263549337812,12.9758286748031 103.263527160682,12.9761568410381 103.263510668558,12.9765091522036 103.264007824632,12.9765560930828 103.264307287325,12.9765844945561 103.264396173989,12.9759204232041</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Agro_economic_assessment_Kanghot_1st_cycle_2022_polygons">
+		<SimpleData name="Nb">3</SimpleData>
+		<SimpleData name="ID">1</SimpleData>
+		<SimpleData name="Farmer name">Sao Samuth</SimpleData>
+		<SimpleData name="Block">E</SimpleData>
+		<SimpleData name="Village">Domnak Dangkor</SimpleData>
+		<SimpleData name="Code of the plot">DD_Sao Samuth 08</SimpleData>
+		<SimpleData name="Surface (ha)">0.4</SimpleData>
+		<SimpleData name="Dei Meas">Yes</SimpleData>
+		<SimpleData name="Biofunctool">Yes</SimpleData>
+		<SimpleData name="Contact">096 540 2672</SimpleData>
+		<SimpleData name="Latitude">12.97574</SimpleData>
+		<SimpleData name="Longtitude">103.26577</SimpleData>
+		<SimpleData name="Diversification">LongCC</SimpleData>
+		<SimpleData name="Cropping system">Long CC/Broadcast</SimpleData>
+		<SimpleData name="ISWM_WUG">SC8</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG3</SimpleData>
+		<SimpleData name="PlotID">SG3-4926</SimpleData>
+		<SimpleData name="ISWM_Surface">0,38</SimpleData>
+		<SimpleData name="ISWM_FARMERID">DK037</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC8-SG3</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.26577000000000339 12.97574000000000005)</SimpleData>
+		<SimpleData name="Nb_min">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>103.265741794238,12.9753366391132 103.265691108203,12.9760261419599 103.266142966618,12.9760721576305 103.266193731529,12.9753906116219 103.26603780974,12.9753689091231 103.265741794238,12.9753366391132</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Agro_economic_assessment_Kanghot_1st_cycle_2022_polygons">
+		<SimpleData name="Nb">4</SimpleData>
+		<SimpleData name="ID">1</SimpleData>
+		<SimpleData name="Farmer name">Sao Samuth</SimpleData>
+		<SimpleData name="Block">E</SimpleData>
+		<SimpleData name="Village">Domnak Dangkor</SimpleData>
+		<SimpleData name="Code of the plot">DD_Sao Samuth 09</SimpleData>
+		<SimpleData name="Surface (ha)">0.35</SimpleData>
+		<SimpleData name="Dei Meas">Yes</SimpleData>
+		<SimpleData name="Biofunctool">Yes</SimpleData>
+		<SimpleData name="Contact">096 540 2672</SimpleData>
+		<SimpleData name="Latitude">12.97571</SimpleData>
+		<SimpleData name="Longtitude">103.26591</SimpleData>
+		<SimpleData name="Diversification">LongCC</SimpleData>
+		<SimpleData name="Cropping system">Long CC/Broadcast</SimpleData>
+		<SimpleData name="ISWM_WUG">SC8</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG3</SimpleData>
+		<SimpleData name="PlotID">SG3-4926</SimpleData>
+		<SimpleData name="ISWM_Surface">0,38</SimpleData>
+		<SimpleData name="ISWM_FARMERID">DK037</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC8-SG3</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.2659100000000052 12.97570999999999941)</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Agro_economic_assessment_Kanghot_1st_cycle_2022_polygons">
+		<SimpleData name="Nb">5</SimpleData>
+		<SimpleData name="ID">2</SimpleData>
+		<SimpleData name="Farmer name">Seng Oeun</SimpleData>
+		<SimpleData name="Block">E</SimpleData>
+		<SimpleData name="Village">Domnak Dangkor</SimpleData>
+		<SimpleData name="Code of the plot">DD_Seng Oeun 01</SimpleData>
+		<SimpleData name="Surface (ha)">0.3</SimpleData>
+		<SimpleData name="Dei Meas">Yes</SimpleData>
+		<SimpleData name="Biofunctool">Yes</SimpleData>
+		<SimpleData name="Contact">096 672 2193</SimpleData>
+		<SimpleData name="Latitude">12.97848</SimpleData>
+		<SimpleData name="Longtitude">103.2715</SimpleData>
+		<SimpleData name="Diversification">LongCC</SimpleData>
+		<SimpleData name="Cropping system">Long CC/Broadcast</SimpleData>
+		<SimpleData name="ISWM_WUG">SC8</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG12</SimpleData>
+		<SimpleData name="PlotID">SG12-5690</SimpleData>
+		<SimpleData name="ISWM_Surface">0,23</SimpleData>
+		<SimpleData name="ISWM_FARMERID">DK032</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC8-SG12</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.27150000000000318 12.97847999999999935)</SimpleData>
+		<SimpleData name="Nb_min">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>103.271448999266,12.9780620451945 103.271360439023,12.9787377940649 103.271420134025,12.9787470573077 103.271624507376,12.9787787710779 103.271730637721,12.9781012255372 103.271448999266,12.9780620451945</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Agro_economic_assessment_Kanghot_1st_cycle_2022_polygons">
+		<SimpleData name="Nb">6</SimpleData>
+		<SimpleData name="ID">2</SimpleData>
+		<SimpleData name="Farmer name">Seng Oeun</SimpleData>
+		<SimpleData name="Block">E</SimpleData>
+		<SimpleData name="Village">Domnak Dangkor</SimpleData>
+		<SimpleData name="Code of the plot">DD_Seng Oeun 02</SimpleData>
+		<SimpleData name="Surface (ha)">0.5</SimpleData>
+		<SimpleData name="Dei Meas">Yes</SimpleData>
+		<SimpleData name="Biofunctool">Yes</SimpleData>
+		<SimpleData name="Contact">096 672 2193</SimpleData>
+		<SimpleData name="Latitude">12.97849</SimpleData>
+		<SimpleData name="Longtitude">103.27203</SimpleData>
+		<SimpleData name="Diversification">LongCC</SimpleData>
+		<SimpleData name="Cropping system">Long CC/Broadcast</SimpleData>
+		<SimpleData name="ISWM_WUG">SC8</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG12</SimpleData>
+		<SimpleData name="PlotID">SG12-5691</SimpleData>
+		<SimpleData name="ISWM_Surface">0,56</SimpleData>
+		<SimpleData name="ISWM_FARMERID">DK032</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC8-SG12</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.27203000000000088 12.97849000000000075)</SimpleData>
+		<SimpleData name="Nb_min">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>103.272360969582,12.9784985887827 103.272394462594,12.9781687737226 103.272285169268,12.9781747440865 103.272042461455,12.9781482591893 103.271730637721,12.9781012255372 103.271624507376,12.9787787710779 103.27179048936,12.9788071927357 103.272314525005,12.9788675396284 103.272360969582,12.9784985887827</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Agro_economic_assessment_Kanghot_1st_cycle_2022_polygons">
+		<SimpleData name="Nb">7</SimpleData>
+		<SimpleData name="ID">3</SimpleData>
+		<SimpleData name="Farmer name">Naev Sombo</SimpleData>
+		<SimpleData name="Block">E</SimpleData>
+		<SimpleData name="Village">Domnak Dangkor</SimpleData>
+		<SimpleData name="Code of the plot">DD_Naev Sombo 13</SimpleData>
+		<SimpleData name="Surface (ha)">1</SimpleData>
+		<SimpleData name="Dei Meas">Yes</SimpleData>
+		<SimpleData name="Biofunctool">Yes</SimpleData>
+		<SimpleData name="Contact">069 848 954</SimpleData>
+		<SimpleData name="Latitude">12.9759</SimpleData>
+		<SimpleData name="Longtitude">103.27279</SimpleData>
+		<SimpleData name="Diversification">LongCC</SimpleData>
+		<SimpleData name="Cropping system">Long CC/Broadcast</SimpleData>
+		<SimpleData name="ISWM_WUG">SC8</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG5</SimpleData>
+		<SimpleData name="PlotID">SG5-5126</SimpleData>
+		<SimpleData name="ISWM_Surface">1,10</SimpleData>
+		<SimpleData name="ISWM_FARMERID">RL039</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC8-SG5</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.27279000000000053 12.97589999999999932)</SimpleData>
+		<SimpleData name="Nb_min">7</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>103.272380355681,12.9755896926785 103.272306170143,12.9759422360107 103.272231221091,12.9762861252177 103.272679132531,12.9763453500483 103.273135568625,12.9764132212758 103.273187317031,12.9756995353732 103.273221968647,12.9754276995084 103.273235969641,12.9752959335481 103.272850586288,12.9752478935884 103.272486674593,12.9752294056427 103.27242562142,12.9755951984472 103.272380355681,12.9755896926785</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Agro_economic_assessment_Kanghot_1st_cycle_2022_polygons">
+		<SimpleData name="Nb">8</SimpleData>
+		<SimpleData name="ID">4</SimpleData>
+		<SimpleData name="Farmer name">Chhuy Chantrea</SimpleData>
+		<SimpleData name="Block">E</SimpleData>
+		<SimpleData name="Village">Domnak Dangkor</SimpleData>
+		<SimpleData name="Code of the plot">DD_Chhuy Chantrea 02</SimpleData>
+		<SimpleData name="Surface (ha)">0.6</SimpleData>
+		<SimpleData name="Dei Meas">Doesn't want </SimpleData>
+		<SimpleData name="Biofunctool">Yes</SimpleData>
+		<SimpleData name="Contact">097 201 1001</SimpleData>
+		<SimpleData name="Latitude">12.97653</SimpleData>
+		<SimpleData name="Longtitude">103.2667</SimpleData>
+		<SimpleData name="Diversification">LongCC</SimpleData>
+		<SimpleData name="Cropping system">Long CC/Broadcast</SimpleData>
+		<SimpleData name="ISWM_WUG">SC8</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG3</SimpleData>
+		<SimpleData name="PlotID">SG3-4946</SimpleData>
+		<SimpleData name="ISWM_Surface">0,55</SimpleData>
+		<SimpleData name="ISWM_FARMERID">DK029</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC8-SG3</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.26670000000000016 12.97653000000000034)</SimpleData>
+		<SimpleData name="Nb_min">8</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>103.267151796496,12.9762349679772 103.266379956017,12.9761311006892 103.266283111644,12.9767618296358 103.266590665236,12.976805205866 103.266800016723,12.9768307080555 103.266942689831,12.9768500260244 103.267030203565,12.9765521411183 103.267151796496,12.9762349679772</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Agro_economic_assessment_Kanghot_1st_cycle_2022_polygons">
+		<SimpleData name="Nb">9</SimpleData>
+		<SimpleData name="ID">5</SimpleData>
+		<SimpleData name="Farmer name">CT 01 (Hann Jane)</SimpleData>
+		<SimpleData name="Block">E</SimpleData>
+		<SimpleData name="Village">Domnak Dangkor</SimpleData>
+		<SimpleData name="Code of the plot">CT</SimpleData>
+		<SimpleData name="Surface (ha)">0.7</SimpleData>
+		<SimpleData name="Dei Meas">CT</SimpleData>
+		<SimpleData name="Biofunctool">Yes</SimpleData>
+		<SimpleData name="Contact">071 469 2048</SimpleData>
+		<SimpleData name="Latitude">12.97542</SimpleData>
+		<SimpleData name="Longtitude">103.26365</SimpleData>
+		<SimpleData name="Diversification">Conventional</SimpleData>
+		<SimpleData name="Cropping system">Conventional</SimpleData>
+		<SimpleData name="ISWM_WUG">SC8</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG3</SimpleData>
+		<SimpleData name="PlotID">SG3-4931</SimpleData>
+		<SimpleData name="ISWM_Surface">0,37</SimpleData>
+		<SimpleData name="ISWM_FARMERID">OV003</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC8-SG3</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.26364999999999839 12.97541999999999973)</SimpleData>
+		<SimpleData name="Nb_min">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>103.263283760233,12.975054364324 103.263246368303,12.9753709494155 103.263206659824,12.9757514216711 103.263633482757,12.9758126255006 103.26367743083,12.975383393437 103.263709185142,12.9750997134906 103.263705622794,12.9750992721232 103.263283760233,12.975054364324</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Agro_economic_assessment_Kanghot_1st_cycle_2022_polygons">
+		<SimpleData name="Nb">10</SimpleData>
+		<SimpleData name="ID">6</SimpleData>
+		<SimpleData name="Farmer name">CT 02 (Chab Theung)</SimpleData>
+		<SimpleData name="Block">E</SimpleData>
+		<SimpleData name="Village">Domnak Dangkor</SimpleData>
+		<SimpleData name="Code of the plot">CT</SimpleData>
+		<SimpleData name="Surface (ha)">0.3</SimpleData>
+		<SimpleData name="Dei Meas">CT</SimpleData>
+		<SimpleData name="Biofunctool">Yes</SimpleData>
+		<SimpleData name="Latitude">12.97667</SimpleData>
+		<SimpleData name="Longtitude">103.26358</SimpleData>
+		<SimpleData name="Diversification">Conventional</SimpleData>
+		<SimpleData name="Cropping system">Conventional</SimpleData>
+		<SimpleData name="ISWM_WUG">SC8</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG3</SimpleData>
+		<SimpleData name="PlotID">SG3-4936</SimpleData>
+		<SimpleData name="ISWM_Surface">0,37</SimpleData>
+		<SimpleData name="ISWM_FARMERID">DK020</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC8-SG3</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.26358000000000459 12.97667000000000037)</SimpleData>
+		<SimpleData name="Nb_min">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>103.263177619073,12.9764774960773 103.263131927872,12.9768338278602 103.263628956928,12.9768991359168 103.263911921485,12.9769434990769 103.264007824632,12.9765560930828 103.263510668558,12.9765091522036 103.263177619073,12.9764774960773</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Agro_economic_assessment_Kanghot_1st_cycle_2022_polygons">
+		<SimpleData name="Nb">11</SimpleData>
+		<SimpleData name="ID">7</SimpleData>
+		<SimpleData name="Farmer name">CT 03 (Seng Oeun)</SimpleData>
+		<SimpleData name="Block">E</SimpleData>
+		<SimpleData name="Village">Domnak Dangkor</SimpleData>
+		<SimpleData name="Code of the plot">CT</SimpleData>
+		<SimpleData name="Surface (ha)">0.36</SimpleData>
+		<SimpleData name="Dei Meas">CT</SimpleData>
+		<SimpleData name="Biofunctool">Yes</SimpleData>
+		<SimpleData name="Contact">096 672 2193</SimpleData>
+		<SimpleData name="Latitude">12.9784</SimpleData>
+		<SimpleData name="Longtitude">103.27286</SimpleData>
+		<SimpleData name="Diversification">Conventional</SimpleData>
+		<SimpleData name="Cropping system">Conventional</SimpleData>
+		<SimpleData name="ISWM_WUG">SC8</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG12</SimpleData>
+		<SimpleData name="PlotID">SG12-5695</SimpleData>
+		<SimpleData name="ISWM_Surface">0,37</SimpleData>
+		<SimpleData name="ISWM_FARMERID">DK032</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC8-SG12</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.27285999999999433 12.9784000000000006)</SimpleData>
+		<SimpleData name="Nb_min">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>103.272394462594,12.9781687737226 103.272360969582,12.9784985887827 103.272856054451,12.9785640582658 103.273248773162,12.9786211941116 103.273304759178,12.9782829184659 103.272873010922,12.9782274368303 103.272559229356,12.9781813477716 103.272394462594,12.9781687737226</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Agro_economic_assessment_Kanghot_1st_cycle_2022_polygons">
+		<SimpleData name="Nb">12</SimpleData>
+		<SimpleData name="ID">8</SimpleData>
+		<SimpleData name="Farmer name">CT 04 (Hean Hak)</SimpleData>
+		<SimpleData name="Block">E</SimpleData>
+		<SimpleData name="Village">Domnak Dangkor</SimpleData>
+		<SimpleData name="Code of the plot">CT</SimpleData>
+		<SimpleData name="Surface (ha)">1.1</SimpleData>
+		<SimpleData name="Dei Meas">CT</SimpleData>
+		<SimpleData name="Biofunctool">Yes</SimpleData>
+		<SimpleData name="Latitude">12.9746</SimpleData>
+		<SimpleData name="Longtitude">103.27317</SimpleData>
+		<SimpleData name="Diversification">Conventional</SimpleData>
+		<SimpleData name="Cropping system">Conventional</SimpleData>
+		<SimpleData name="ISWM_WUG">SC8</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG5</SimpleData>
+		<SimpleData name="PlotID">SG5-5124</SimpleData>
+		<SimpleData name="ISWM_Surface">1,29</SimpleData>
+		<SimpleData name="ISWM_FARMERID">RL108</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC8-SG5</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.27316999999999325 12.97460000000000058)</SimpleData>
+		<SimpleData name="Nb_min">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>103.273268287514,12.9749917831561 103.273827298725,12.9750655187238 103.273934109484,12.9743733738015 103.273940028529,12.9743350176081 103.273167112938,12.9742173882146 103.272533272142,12.9741316750064 103.272470013281,12.9744779379717 103.272402941511,12.9748677979363 103.27254552717,12.9748997396953 103.273268287514,12.9749917831561</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Agro_economic_assessment_Kanghot_1st_cycle_2022_polygons">
+		<SimpleData name="Nb">13</SimpleData>
+		<SimpleData name="ID">9</SimpleData>
+		<SimpleData name="Farmer name">CT 12  (Mao Saron)</SimpleData>
+		<SimpleData name="Block">E</SimpleData>
+		<SimpleData name="Village">Domnak Dangkor</SimpleData>
+		<SimpleData name="Code of the plot">CT</SimpleData>
+		<SimpleData name="Surface (ha)">0.46</SimpleData>
+		<SimpleData name="Dei Meas">CT</SimpleData>
+		<SimpleData name="Biofunctool">Yes</SimpleData>
+		<SimpleData name="Contact">089 320 202</SimpleData>
+		<SimpleData name="Latitude">12.97703</SimpleData>
+		<SimpleData name="Longtitude">103.26641</SimpleData>
+		<SimpleData name="Diversification">Conventional</SimpleData>
+		<SimpleData name="Cropping system">Conventional</SimpleData>
+		<SimpleData name="ISWM_WUG">SC8</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG3</SimpleData>
+		<SimpleData name="PlotID">SG3-4945</SimpleData>
+		<SimpleData name="ISWM_Surface">0,49</SimpleData>
+		<SimpleData name="ISWM_FARMERID">DK050</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC8-SG3</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.26640999999999337 12.97702999999999918)</SimpleData>
+		<SimpleData name="Nb_min">13</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>103.266169502122,12.9767714038977 103.266159149944,12.9768069597093 103.266139260382,12.9769744283181 103.266116663774,12.9771946847289 103.266156174196,12.9772362744489 103.266179257899,12.9772834944246 103.266201943781,12.9773881094178 103.266218092043,12.9774226556701 103.266272978105,12.9774413888081 103.2667258099,12.9774745982307 103.266768551177,12.9771484815627 103.266800016723,12.9768307080555 103.266590665236,12.976805205866 103.266283111644,12.9767618296358 103.266169502122,12.9767714038977</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Agro_economic_assessment_Kanghot_1st_cycle_2022_polygons">
+		<SimpleData name="Nb">14</SimpleData>
+		<SimpleData name="ID">10</SimpleData>
+		<SimpleData name="Farmer name">CT 13 (Chab Theung)</SimpleData>
+		<SimpleData name="Block">E</SimpleData>
+		<SimpleData name="Village">Domnak Dangkor</SimpleData>
+		<SimpleData name="Code of the plot">CT</SimpleData>
+		<SimpleData name="Surface (ha)">0.38</SimpleData>
+		<SimpleData name="Dei Meas">CT</SimpleData>
+		<SimpleData name="Biofunctool">Yes</SimpleData>
+		<SimpleData name="Latitude">12.97688</SimpleData>
+		<SimpleData name="Longtitude">103.2651</SimpleData>
+		<SimpleData name="Diversification">Conventional</SimpleData>
+		<SimpleData name="Cropping system">Conventional</SimpleData>
+		<SimpleData name="ISWM_WUG">SC8</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG3</SimpleData>
+		<SimpleData name="PlotID">SG3-4941</SimpleData>
+		<SimpleData name="ISWM_Surface">0,40</SimpleData>
+		<SimpleData name="ISWM_FARMERID">DK020</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC8-SG3</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.26510000000000389 12.97687999999999953)</SimpleData>
+		<SimpleData name="Nb_min">14</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>103.264733099597,12.9766229223051 103.264701415508,12.9768649671892 103.264667431263,12.977039229243 103.26504994409,12.9770762197147 103.265452331642,12.9771167860432 103.26552935797,12.9767024764132 103.265238433961,12.9766722113516 103.264898003677,12.9766435376339 103.264733099597,12.9766229223051</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Agro_economic_assessment_Kanghot_1st_cycle_2022_polygons">
+		<SimpleData name="Nb">15</SimpleData>
+		<SimpleData name="ID">11</SimpleData>
+		<SimpleData name="Farmer name">Put Khenh</SimpleData>
+		<SimpleData name="Block">B</SimpleData>
+		<SimpleData name="Village">Wat Kandal</SimpleData>
+		<SimpleData name="Code of the plot">WD_Put Khenh04</SimpleData>
+		<SimpleData name="Surface (ha)">0.35</SimpleData>
+		<SimpleData name="Dei Meas">Yes</SimpleData>
+		<SimpleData name="Biofunctool">Yes</SimpleData>
+		<SimpleData name="Contact">098 876 820</SimpleData>
+		<SimpleData name="Latitude">12.92892</SimpleData>
+		<SimpleData name="Longtitude">103.26356</SimpleData>
+		<SimpleData name="ISWM ID plot">SC5-2473</SimpleData>
+		<SimpleData name="Diversification">LongCC</SimpleData>
+		<SimpleData name="Cropping system">Long CC/Broadcast</SimpleData>
+		<SimpleData name="ISWM_WUG">SC5</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG1</SimpleData>
+		<SimpleData name="PlotID">SC5-2473</SimpleData>
+		<SimpleData name="ISWM_Surface">0,35</SimpleData>
+		<SimpleData name="ISWM_FARMERID">WK093</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC5-SG1</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.26355999999999824 12.92891999999999975)</SimpleData>
+		<SimpleData name="Nb_min">15</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>103.263643917016,12.9292888945292 103.263909335475,12.928727205199 103.263720419909,12.9286857700238 103.263470896069,12.9286511131522 103.263286203767,12.9293993966526 103.263531206554,12.9295100827362 103.263643917016,12.9292888945292</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Agro_economic_assessment_Kanghot_1st_cycle_2022_polygons">
+		<SimpleData name="Nb">16</SimpleData>
+		<SimpleData name="ID">11</SimpleData>
+		<SimpleData name="Farmer name">Put Khenh</SimpleData>
+		<SimpleData name="Block">B</SimpleData>
+		<SimpleData name="Village">Wat Kandal</SimpleData>
+		<SimpleData name="Code of the plot">WD_Put Khenh03</SimpleData>
+		<SimpleData name="Surface (ha)">1</SimpleData>
+		<SimpleData name="Dei Meas">Yes</SimpleData>
+		<SimpleData name="Biofunctool">Yes</SimpleData>
+		<SimpleData name="Contact">098 876 820</SimpleData>
+		<SimpleData name="Latitude">12.92793</SimpleData>
+		<SimpleData name="Longtitude">103.26181</SimpleData>
+		<SimpleData name="ISWM ID plot">SC5-2437</SimpleData>
+		<SimpleData name="Diversification">LongCC</SimpleData>
+		<SimpleData name="Cropping system">Long CC/Broadcast</SimpleData>
+		<SimpleData name="ISWM_WUG">SC5</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG1</SimpleData>
+		<SimpleData name="PlotID">SC5-2437</SimpleData>
+		<SimpleData name="ISWM_Surface">0,98</SimpleData>
+		<SimpleData name="ISWM_FARMERID">WK212</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC5-SG1</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.26180999999999699 12.92792999999999992)</SimpleData>
+		<SimpleData name="Nb_min">16</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>103.26222983707,12.9273069129565 103.262042427266,12.927265367169 103.26171121108,12.9272115036277 103.261407764318,12.9285641887681 103.26178501145,12.9287312416963 103.261826129709,12.9287085564452 103.262063996437,12.928159122082 103.262326190678,12.9275843200097 103.262218469805,12.9275402548358 103.262301897241,12.9273226987694 103.26222983707,12.9273069129565</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Agro_economic_assessment_Kanghot_1st_cycle_2022_polygons">
+		<SimpleData name="Nb">17</SimpleData>
+		<SimpleData name="ID">11</SimpleData>
+		<SimpleData name="Farmer name">Put Khenh</SimpleData>
+		<SimpleData name="Block">B</SimpleData>
+		<SimpleData name="Village">Wat Kandal</SimpleData>
+		<SimpleData name="Code of the plot">WD_Put Khenh01</SimpleData>
+		<SimpleData name="Surface (ha)">1.1</SimpleData>
+		<SimpleData name="Dei Meas">Yes</SimpleData>
+		<SimpleData name="Biofunctool">Yes</SimpleData>
+		<SimpleData name="Contact">098 876 820</SimpleData>
+		<SimpleData name="Latitude">12.92758</SimpleData>
+		<SimpleData name="Longtitude">103.26068</SimpleData>
+		<SimpleData name="ISWM ID plot">SC5-2439</SimpleData>
+		<SimpleData name="Diversification">LongCC</SimpleData>
+		<SimpleData name="Cropping system">Long CC/Broadcast</SimpleData>
+		<SimpleData name="ISWM_WUG">SC5</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG1</SimpleData>
+		<SimpleData name="PlotID">SC5-2439</SimpleData>
+		<SimpleData name="ISWM_Surface">1,08</SimpleData>
+		<SimpleData name="ISWM_FARMERID">WK212</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC5-SG1</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.26067999999999358 12.92758000000000074)</SimpleData>
+		<SimpleData name="Nb_min">17</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>103.261206605309,12.9271277858352 103.260655282413,12.9270303630058 103.260577450698,12.9270030587558 103.260122379086,12.9279988654269 103.260958536896,12.9283698701495 103.261206605309,12.9271277858352</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Agro_economic_assessment_Kanghot_1st_cycle_2022_polygons">
+		<SimpleData name="Nb">18</SimpleData>
+		<SimpleData name="ID">11</SimpleData>
+		<SimpleData name="Farmer name">Put Khenh</SimpleData>
+		<SimpleData name="Block">B</SimpleData>
+		<SimpleData name="Village">Wat Kandal</SimpleData>
+		<SimpleData name="Code of the plot">WD_Put Khenh07</SimpleData>
+		<SimpleData name="Surface (ha)">0.7</SimpleData>
+		<SimpleData name="Dei Meas">Yes</SimpleData>
+		<SimpleData name="Biofunctool">Yes</SimpleData>
+		<SimpleData name="Contact">098 876 820</SimpleData>
+		<SimpleData name="Latitude">12.92523</SimpleData>
+		<SimpleData name="Longtitude">103.26392</SimpleData>
+		<SimpleData name="ISWM ID plot">SC5-2488</SimpleData>
+		<SimpleData name="Diversification">LongCC</SimpleData>
+		<SimpleData name="Cropping system">Long CC/Broadcast</SimpleData>
+		<SimpleData name="ISWM_WUG">SC5</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG1</SimpleData>
+		<SimpleData name="PlotID">SC5-2488</SimpleData>
+		<SimpleData name="ISWM_Surface">0,77</SimpleData>
+		<SimpleData name="ISWM_FARMERID">WK093</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC5-SG1</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.26391999999999882 12.92523000000000089)</SimpleData>
+		<SimpleData name="Nb_min">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>103.264434242772,12.9249095573957 103.263867425929,12.9248333768516 103.26369596117,12.9248073641343 103.263409753153,12.9254124397189 103.264211153696,12.9257700958284 103.264248145655,12.9257799081016 103.264434242772,12.9249095573957</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Agro_economic_assessment_Kanghot_1st_cycle_2022_polygons">
+		<SimpleData name="Nb">19</SimpleData>
+		<SimpleData name="ID">12</SimpleData>
+		<SimpleData name="Farmer name">Sim Kuy</SimpleData>
+		<SimpleData name="Block">B</SimpleData>
+		<SimpleData name="Village">Wat Kandal</SimpleData>
+		<SimpleData name="Code of the plot">WD_Sim Kuy 01</SimpleData>
+		<SimpleData name="Surface (ha)">1.6</SimpleData>
+		<SimpleData name="Dei Meas">Yes</SimpleData>
+		<SimpleData name="Biofunctool">Yes</SimpleData>
+		<SimpleData name="Contact">081 662 289</SimpleData>
+		<SimpleData name="Latitude">12.92701</SimpleData>
+		<SimpleData name="Longtitude">103.26019</SimpleData>
+		<SimpleData name="ISWM ID plot">SC5-2434</SimpleData>
+		<SimpleData name="Diversification">LongCC</SimpleData>
+		<SimpleData name="Cropping system">Long CC/Broadcast</SimpleData>
+		<SimpleData name="ISWM_WUG">SC5</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG1</SimpleData>
+		<SimpleData name="PlotID">SC5-2434</SimpleData>
+		<SimpleData name="ISWM_Surface">1,63</SimpleData>
+		<SimpleData name="ISWM_FARMERID">WK143</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC5-SG1</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.26018999999999437 12.92700999999999922)</SimpleData>
+		<SimpleData name="Nb_min">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>103.260893336035,12.9263190869889 103.260675511117,12.9262277125806 103.260311894934,12.9260645759168 103.260012123005,12.9259385762124 103.259974349795,12.926111952487 103.259872374424,12.9266838147818 103.259849338515,12.9268415048829 103.25983435239,12.9268930629037 103.259715920729,12.9274794568365 103.259661398259,12.9278121194835 103.260122379086,12.9279988654269 103.260577450698,12.9270030587558 103.260893336035,12.9263190869889</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Agro_economic_assessment_Kanghot_1st_cycle_2022_polygons">
+		<SimpleData name="Nb">20</SimpleData>
+		<SimpleData name="ID">13</SimpleData>
+		<SimpleData name="Farmer name">Tep Thing</SimpleData>
+		<SimpleData name="Block">B</SimpleData>
+		<SimpleData name="Village">Wat Kandal</SimpleData>
+		<SimpleData name="Code of the plot">WD_Tep Thing 02</SimpleData>
+		<SimpleData name="Surface (ha)">1.55</SimpleData>
+		<SimpleData name="Dei Meas">Can't find</SimpleData>
+		<SimpleData name="Biofunctool">Yes</SimpleData>
+		<SimpleData name="Contact">081 662 289</SimpleData>
+		<SimpleData name="Latitude">12.92454</SimpleData>
+		<SimpleData name="Longtitude">103.26315</SimpleData>
+		<SimpleData name="ISWM ID plot">SC5-2391</SimpleData>
+		<SimpleData name="Diversification">LongCC</SimpleData>
+		<SimpleData name="Cropping system">Long CC/Broadcast</SimpleData>
+		<SimpleData name="ISWM_WUG">SC5</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG1</SimpleData>
+		<SimpleData name="PlotID">SC5-2391</SimpleData>
+		<SimpleData name="ISWM_Surface">1,56</SimpleData>
+		<SimpleData name="ISWM_FARMERID">WK203</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC5-SG1</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.263149999999996 12.92454000000000036)</SimpleData>
+		<SimpleData name="Nb_min">20</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>103.263120702548,12.9237160304293 103.262518279879,12.9250227073652 103.263177041557,12.9253133178034 103.263266104608,12.9253383043959 103.263277955946,12.9253168590654 103.263312225708,12.925226685516 103.263311169649,12.9251678457462 103.263358951912,12.9250275390006 103.26345520992,12.9250697927228 103.263484376917,12.9250829012431 103.263528429963,12.9250588002037 103.263663599168,12.9247626655942 103.263880234125,12.9243207081921 103.263983084594,12.9240926770278 103.263527832047,12.9238908233357 103.263120702548,12.9237160304293</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Agro_economic_assessment_Kanghot_1st_cycle_2022_polygons">
+		<SimpleData name="Nb">21</SimpleData>
+		<SimpleData name="ID">13</SimpleData>
+		<SimpleData name="Farmer name">Tep Thing</SimpleData>
+		<SimpleData name="Block">B</SimpleData>
+		<SimpleData name="Village">Wat Kandal</SimpleData>
+		<SimpleData name="Code of the plot">WD_Tep Thing 01</SimpleData>
+		<SimpleData name="Surface (ha)">1.3</SimpleData>
+		<SimpleData name="Dei Meas">Can't find</SimpleData>
+		<SimpleData name="Biofunctool">Yes</SimpleData>
+		<SimpleData name="Contact">081 662 289</SimpleData>
+		<SimpleData name="Latitude">12.9243</SimpleData>
+		<SimpleData name="Longtitude">103.26242</SimpleData>
+		<SimpleData name="ISWM ID plot">SC5-2392</SimpleData>
+		<SimpleData name="Diversification">LongCC</SimpleData>
+		<SimpleData name="Cropping system">Long CC/Broadcast</SimpleData>
+		<SimpleData name="ISWM_WUG">SC5</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG1</SimpleData>
+		<SimpleData name="PlotID">SC5-2392</SimpleData>
+		<SimpleData name="ISWM_Surface">1,61</SimpleData>
+		<SimpleData name="ISWM_FARMERID">WK203</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC5-SG1</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.26242000000000587 12.92430000000000057)</SimpleData>
+		<SimpleData name="Nb_min">21</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>103.263120702548,12.9237160304293 103.262740218618,12.9235526765075 103.262271616104,12.9233418371221 103.261887091384,12.9241571957578 103.261662871164,12.924637844082 103.262090462248,12.9248357085197 103.262518279879,12.9250227073652 103.263120702548,12.9237160304293</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Agro_economic_assessment_Kanghot_1st_cycle_2022_polygons">
+		<SimpleData name="Nb">22</SimpleData>
+		<SimpleData name="ID">14</SimpleData>
+		<SimpleData name="Farmer name">CT 07 (Eang Neang)</SimpleData>
+		<SimpleData name="Block">B</SimpleData>
+		<SimpleData name="Village">Wat Kandal</SimpleData>
+		<SimpleData name="Code of the plot">CT</SimpleData>
+		<SimpleData name="Surface (ha)">1</SimpleData>
+		<SimpleData name="Dei Meas">CT</SimpleData>
+		<SimpleData name="Biofunctool">Yes</SimpleData>
+		<SimpleData name="Contact">093 350 964</SimpleData>
+		<SimpleData name="Latitude">12.92781</SimpleData>
+		<SimpleData name="Longtitude">103.26269</SimpleData>
+		<SimpleData name="ISWM ID plot">SC5-2470</SimpleData>
+		<SimpleData name="Diversification">Conventional</SimpleData>
+		<SimpleData name="Cropping system">Conventional</SimpleData>
+		<SimpleData name="ISWM_WUG">SC5</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG1</SimpleData>
+		<SimpleData name="PlotID">SC5-2470</SimpleData>
+		<SimpleData name="ISWM_Surface">1,06</SimpleData>
+		<SimpleData name="ISWM_FARMERID">WK184</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC5-SG1</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.26269000000000631 12.92780999999999914)</SimpleData>
+		<SimpleData name="Nb_min">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>103.263119256458,12.9278973336725 103.263161552098,12.9277043759181 103.263223205475,12.9273565346939 103.262626089619,12.9270899511247 103.262389631652,12.9276102716625 103.262124301224,12.9281824827291 103.262920215836,12.928473813358 103.263052981202,12.9278911528545 103.263119256458,12.9278973336725</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Agro_economic_assessment_Kanghot_1st_cycle_2022_polygons">
+		<SimpleData name="Nb">23</SimpleData>
+		<SimpleData name="ID">15</SimpleData>
+		<SimpleData name="Farmer name">CT 08 plough (Rong Tha)</SimpleData>
+		<SimpleData name="Block">B</SimpleData>
+		<SimpleData name="Village">Wat Kandal</SimpleData>
+		<SimpleData name="Code of the plot">CT</SimpleData>
+		<SimpleData name="Surface (ha)">0.93</SimpleData>
+		<SimpleData name="Dei Meas">CT</SimpleData>
+		<SimpleData name="Biofunctool">Yes</SimpleData>
+		<SimpleData name="Latitude">12.92653</SimpleData>
+		<SimpleData name="Longtitude">103.2623</SimpleData>
+		<SimpleData name="ISWM ID plot">SC5-2401</SimpleData>
+		<SimpleData name="Diversification">Conventional</SimpleData>
+		<SimpleData name="Cropping system">Conventional</SimpleData>
+		<SimpleData name="ISWM_WUG">SC5</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG1</SimpleData>
+		<SimpleData name="PlotID">SC5-2401</SimpleData>
+		<SimpleData name="ISWM_Surface">1,02</SimpleData>
+		<SimpleData name="ISWM_FARMERID">SC029</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC5-SG1</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.2622999999999962 12.92652999999999963)</SimpleData>
+		<SimpleData name="Nb_min">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>103.26184543571,12.9259004060369 103.261705861991,12.9265793226205 103.26170060988,12.926682498464 103.262350728533,12.9269737892178 103.262585627763,12.9270643193936 103.262665652595,12.9269156178281 103.262925546997,12.9263534142882 103.26184543571,12.9259004060369</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Agro_economic_assessment_Kanghot_1st_cycle_2022_polygons">
+		<SimpleData name="Nb">24</SimpleData>
+		<SimpleData name="ID">16</SimpleData>
+		<SimpleData name="Farmer name">CT 11 (Thy Leang)</SimpleData>
+		<SimpleData name="Block">B</SimpleData>
+		<SimpleData name="Village">Wat Kandal</SimpleData>
+		<SimpleData name="Code of the plot">CT</SimpleData>
+		<SimpleData name="Surface (ha)">0.78</SimpleData>
+		<SimpleData name="Dei Meas">CT</SimpleData>
+		<SimpleData name="Biofunctool">Yes</SimpleData>
+		<SimpleData name="Latitude">12.92727</SimpleData>
+		<SimpleData name="Longtitude">103.2594</SimpleData>
+		<SimpleData name="ISWM ID plot">SC5-2432</SimpleData>
+		<SimpleData name="Diversification">Conventional</SimpleData>
+		<SimpleData name="Cropping system">Conventional</SimpleData>
+		<SimpleData name="ISWM_WUG">SC5</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG1</SimpleData>
+		<SimpleData name="PlotID">SC5-2432</SimpleData>
+		<SimpleData name="ISWM_Surface">0,79</SimpleData>
+		<SimpleData name="ISWM_FARMERID">SC034</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC5-SG1</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.25939999999999941 12.92727000000000004)</SimpleData>
+		<SimpleData name="Nb_min">24</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>103.25983435239,12.9268930629037 103.259561680807,12.926855968057 103.259276748967,12.9268081499218 103.25905176306,12.9267650361354 103.258942703524,12.9274245030251 103.258914795587,12.927501951095 103.259661398259,12.9278121194835 103.259715920729,12.9274794568365 103.25983435239,12.9268930629037</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Agro_economic_assessment_Kanghot_1st_cycle_2022_polygons">
+		<SimpleData name="Nb">25</SimpleData>
+		<SimpleData name="ID">17</SimpleData>
+		<SimpleData name="Farmer name">CT 14 (Nary Rath)</SimpleData>
+		<SimpleData name="Block">B</SimpleData>
+		<SimpleData name="Village">Wat Kandal</SimpleData>
+		<SimpleData name="Code of the plot">CT</SimpleData>
+		<SimpleData name="Surface (ha)">0.23</SimpleData>
+		<SimpleData name="Dei Meas">CT</SimpleData>
+		<SimpleData name="Biofunctool">Yes</SimpleData>
+		<SimpleData name="Latitude">12.92435</SimpleData>
+		<SimpleData name="Longtitude">103.26158</SimpleData>
+		<SimpleData name="ISWM ID plot">SC5-2398</SimpleData>
+		<SimpleData name="Diversification">Conventional</SimpleData>
+		<SimpleData name="Cropping system">Conventional</SimpleData>
+		<SimpleData name="ISWM_WUG">SC5</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG1</SimpleData>
+		<SimpleData name="PlotID">SC5-2398</SimpleData>
+		<SimpleData name="ISWM_Surface">0,25</SimpleData>
+		<SimpleData name="ISWM_FARMERID">SC031</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC5-SG1</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.26157999999999504 12.92435000000000045)</SimpleData>
+		<SimpleData name="Nb_min">25</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>103.261389719332,12.9240860139936 103.261311018493,12.9244938705925 103.261404270009,12.9245353306567 103.261500515037,12.9245781216034 103.261662871164,12.924637844082 103.261887091384,12.9241571957578 103.261830796522,12.924131694264 103.261776722309,12.9241241595297 103.261389719332,12.9240860139936</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Agro_economic_assessment_Kanghot_1st_cycle_2022_polygons">
+		<SimpleData name="Nb">26</SimpleData>
+		<SimpleData name="ID">18</SimpleData>
+		<SimpleData name="Farmer name">CT 15 (Nary Rath)</SimpleData>
+		<SimpleData name="Block">B</SimpleData>
+		<SimpleData name="Village">Wat Kandal</SimpleData>
+		<SimpleData name="Code of the plot">CT</SimpleData>
+		<SimpleData name="Surface (ha)">0.44</SimpleData>
+		<SimpleData name="Dei Meas">CT</SimpleData>
+		<SimpleData name="Biofunctool">Yes</SimpleData>
+		<SimpleData name="Contact">069 261 016</SimpleData>
+		<SimpleData name="Latitude">12.92648</SimpleData>
+		<SimpleData name="Longtitude">103.25959</SimpleData>
+		<SimpleData name="ISWM ID plot">SC5-2433</SimpleData>
+		<SimpleData name="Diversification">Conventional</SimpleData>
+		<SimpleData name="Cropping system">Conventional</SimpleData>
+		<SimpleData name="ISWM_WUG">SC5</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG1</SimpleData>
+		<SimpleData name="PlotID">SC5-2433</SimpleData>
+		<SimpleData name="ISWM_Surface">0,51</SimpleData>
+		<SimpleData name="ISWM_FARMERID">SC036</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC5-SG1</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.25959000000000287 12.92647999999999975)</SimpleData>
+		<SimpleData name="Nb_min">26</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>103.259471810935,12.9260326686142 103.259276748967,12.9268081499218 103.259561680807,12.926855968057 103.25983435239,12.9268930629036 103.259849338515,12.9268415048829 103.259872374424,12.9266838147818 103.259974349795,12.9261119524869 103.259471810935,12.9260326686142</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Agro_economic_assessment_Kanghot_1st_cycle_2022_polygons">
+		<SimpleData name="Nb">27</SimpleData>
+		<SimpleData name="ID">19</SimpleData>
+		<SimpleData name="Farmer name">Kheng Piseth</SimpleData>
+		<SimpleData name="Block">C</SimpleData>
+		<SimpleData name="Village">Wat Kandal</SimpleData>
+		<SimpleData name="Code of the plot">WD_Kheng Piseth 01</SimpleData>
+		<SimpleData name="Surface (ha)">1.25</SimpleData>
+		<SimpleData name="Dei Meas">Yes</SimpleData>
+		<SimpleData name="Biofunctool">Yes</SimpleData>
+		<SimpleData name="Contact">098 894 6945</SimpleData>
+		<SimpleData name="Latitude">12.93255</SimpleData>
+		<SimpleData name="Longtitude">103.2612</SimpleData>
+		<SimpleData name="ISWM ID plot">SS4-3726</SimpleData>
+		<SimpleData name="Diversification">LongCC</SimpleData>
+		<SimpleData name="Cropping system">Long CC/Broadcast</SimpleData>
+		<SimpleData name="ISWM_WUG">SS4</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG1</SimpleData>
+		<SimpleData name="PlotID">SS4-3726</SimpleData>
+		<SimpleData name="ISWM_Surface">1,17</SimpleData>
+		<SimpleData name="ISWM_FARMERID">WK028</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SS4-SG1</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.26120000000000232 12.93255000000000088)</SimpleData>
+		<SimpleData name="Nb_min">27</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>103.261463098558,12.9312454111418 103.261366320906,12.9312315768251 103.261314706484,12.9312207100049 103.261260225996,12.9312012144199 103.261193001255,12.9311912001896 103.261124710394,12.9311856602912 103.261077559105,12.9316134217674 103.261023023645,12.9320805626761 103.26095279217,12.9327579615069 103.260935764675,12.9329352069188 103.260915210994,12.9331990993503 103.260842816798,12.9337380594969 103.260782466068,12.9341715837608 103.261116083736,12.9342088286083 103.261134144023,12.9340322696575 103.261162835239,12.9337622133552 103.261192428705,12.9335026859636 103.261226436556,12.9331690492668 103.261269194269,12.9327689851721 103.261307613545,12.9324320296202 103.261360289507,12.9320784280382 103.261406237988,12.931710432164 103.261463098558,12.9312454111418</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Agro_economic_assessment_Kanghot_1st_cycle_2022_polygons">
+		<SimpleData name="Nb">28</SimpleData>
+		<SimpleData name="ID">20</SimpleData>
+		<SimpleData name="Farmer name">Dos SorLao</SimpleData>
+		<SimpleData name="Block">C</SimpleData>
+		<SimpleData name="Village">Wat Kandal</SimpleData>
+		<SimpleData name="Code of the plot">WD_Dos SorLao 06</SimpleData>
+		<SimpleData name="Surface (ha)">0.22</SimpleData>
+		<SimpleData name="Dei Meas">Yes</SimpleData>
+		<SimpleData name="Biofunctool">Yes</SimpleData>
+		<SimpleData name="Contact">081 213 236</SimpleData>
+		<SimpleData name="Latitude">12.93063</SimpleData>
+		<SimpleData name="Longtitude">103.26162</SimpleData>
+		<SimpleData name="ISWM ID plot">SS4-3721</SimpleData>
+		<SimpleData name="Diversification">LongCC</SimpleData>
+		<SimpleData name="Cropping system">Long CC/Broadcast</SimpleData>
+		<SimpleData name="ISWM_WUG">SS4</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG2</SimpleData>
+		<SimpleData name="PlotID">SS4-3721</SimpleData>
+		<SimpleData name="ISWM_Surface">0,26</SimpleData>
+		<SimpleData name="ISWM_FARMERID">WK044</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SS4-SG2</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.26161999999999352 12.93063000000000073)</SimpleData>
+		<SimpleData name="Nb_min">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>103.261508174992,12.9311138850438 103.261693057339,12.9311348242742 103.26175891294,12.9306874916574 103.261847104233,12.9300813926925 103.261696082864,12.9300484858707 103.26164551177,12.930032611908 103.261617673518,12.9302199686343 103.261590910826,12.9304229783254 103.261561073007,12.9306757122187 103.261531733815,12.9309127607065 103.261508174992,12.9311138850438</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Agro_economic_assessment_Kanghot_1st_cycle_2022_polygons">
+		<SimpleData name="Nb">29</SimpleData>
+		<SimpleData name="ID">20</SimpleData>
+		<SimpleData name="Farmer name">Dos SorLao</SimpleData>
+		<SimpleData name="Block">C</SimpleData>
+		<SimpleData name="Village">Wat Kandal</SimpleData>
+		<SimpleData name="Code of the plot">WD_Dos SorLao 07</SimpleData>
+		<SimpleData name="Surface (ha)">0.3</SimpleData>
+		<SimpleData name="Dei Meas">Yes</SimpleData>
+		<SimpleData name="Biofunctool">Yes</SimpleData>
+		<SimpleData name="Contact">081 213 236</SimpleData>
+		<SimpleData name="Latitude">12.93156</SimpleData>
+		<SimpleData name="Longtitude">103.26164</SimpleData>
+		<SimpleData name="ISWM ID plot">SS4-3719</SimpleData>
+		<SimpleData name="Diversification">LongCC</SimpleData>
+		<SimpleData name="Cropping system">Long CC/Broadcast</SimpleData>
+		<SimpleData name="ISWM_WUG">SS4</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG2</SimpleData>
+		<SimpleData name="PlotID">SS4-3719</SimpleData>
+		<SimpleData name="ISWM_Surface">0,31</SimpleData>
+		<SimpleData name="ISWM_FARMERID">WK044</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SS4-SG2</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.26163999999999987 12.93155999999999928)</SimpleData>
+		<SimpleData name="Nb_min">29</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>103.26141302941,12.931882342918 103.261753312333,12.9319137837218 103.261753557722,12.9319117177254 103.261793199341,12.931510771659 103.261813812347,12.9313226444033 103.261817095676,12.9312710083136 103.26182037503,12.9312199461744 103.261825867781,12.9311872660535 103.261836737426,12.9311554010279 103.261693057339,12.9311348242742 103.261508174992,12.9311138850438 103.261504368849,12.9311463784699 103.261469247578,12.9314296892379 103.261441569184,12.9316522079912 103.26141302941,12.931882342918</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Agro_economic_assessment_Kanghot_1st_cycle_2022_polygons">
+		<SimpleData name="Nb">30</SimpleData>
+		<SimpleData name="ID">20</SimpleData>
+		<SimpleData name="Farmer name">Dos SorLao</SimpleData>
+		<SimpleData name="Block">C</SimpleData>
+		<SimpleData name="Village">Wat Kandal</SimpleData>
+		<SimpleData name="Code of the plot">WD_Dos SorLao 08</SimpleData>
+		<SimpleData name="Surface (ha)">0.93</SimpleData>
+		<SimpleData name="Dei Meas">Yes</SimpleData>
+		<SimpleData name="Biofunctool">Yes</SimpleData>
+		<SimpleData name="Contact">081 213 236</SimpleData>
+		<SimpleData name="Latitude">12.933</SimpleData>
+		<SimpleData name="Longtitude">103.26143</SimpleData>
+		<SimpleData name="ISWM ID plot">SS4-3718</SimpleData>
+		<SimpleData name="Diversification">LongCC</SimpleData>
+		<SimpleData name="Cropping system">Long CC/Broadcast</SimpleData>
+		<SimpleData name="ISWM_WUG">SS4</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG2</SimpleData>
+		<SimpleData name="PlotID">SS4-3718</SimpleData>
+		<SimpleData name="ISWM_Surface">0,90</SimpleData>
+		<SimpleData name="ISWM_FARMERID">WK044</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SS4-SG2</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.26143000000000427 12.93299999999999983)</SimpleData>
+		<SimpleData name="Nb_min">30</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>103.261156402713,12.9340698110603 103.261502838963,12.9341305490783 103.261524099553,12.9338771841772 103.261557261032,12.9335248875009 103.261589205311,12.9332074996369 103.261622934082,12.9328337989379 103.261674683453,12.932402704156 103.261696257008,12.9323967407949 103.261728080624,12.9321262155083 103.261753312333,12.9319137837218 103.26141302941,12.931882342918 103.261406861639,12.9319320776173 103.261375988124,12.9321652892937 103.26133201137,12.932487954079 103.261304486842,12.9327445297751 103.261253489059,12.9331796472366 103.261201159027,12.9336380975092 103.261156402713,12.9340698110603</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Agro_economic_assessment_Kanghot_1st_cycle_2022_polygons">
+		<SimpleData name="Nb">31</SimpleData>
+		<SimpleData name="ID">21</SimpleData>
+		<SimpleData name="Farmer name">Soun Luv</SimpleData>
+		<SimpleData name="Block">C</SimpleData>
+		<SimpleData name="Village">Wat Kandal</SimpleData>
+		<SimpleData name="Code of the plot">WD_Soun Lov 01</SimpleData>
+		<SimpleData name="Surface (ha)">1.1</SimpleData>
+		<SimpleData name="Dei Meas">Died</SimpleData>
+		<SimpleData name="Biofunctool">Yes</SimpleData>
+		<SimpleData name="Contact">096 378 9910</SimpleData>
+		<SimpleData name="Latitude">12.93267</SimpleData>
+		<SimpleData name="Longtitude">103.26249</SimpleData>
+		<SimpleData name="ISWM ID plot">SS4-3701</SimpleData>
+		<SimpleData name="Diversification">LongCC</SimpleData>
+		<SimpleData name="Cropping system">Long CC/Broadcast</SimpleData>
+		<SimpleData name="ISWM_WUG">SS4</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG2</SimpleData>
+		<SimpleData name="PlotID">SS4-3707</SimpleData>
+		<SimpleData name="ISWM_Surface">0,63</SimpleData>
+		<SimpleData name="ISWM_FARMERID">WK071</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SS4-SG2</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.26248999999999967 12.93266999999999989)</SimpleData>
+		<SimpleData name="Nb_min">31</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>103.262603243985,12.9319962164978 103.262170376445,12.9319439543021 103.262104067536,12.9325060105023 103.262075557309,12.9328205515212 103.262032729674,12.9331759584047 103.262202171095,12.9332132476133 103.262344186291,12.9332394484876 103.26243366965,12.9332463581897 103.262493594878,12.9327892972355 103.262514645756,12.9326224099731 103.262527999567,12.932553047622 103.262568131228,12.9322502547361 103.262603243985,12.9319962164978</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Agro_economic_assessment_Kanghot_1st_cycle_2022_polygons">
+		<SimpleData name="Nb">32</SimpleData>
+		<SimpleData name="ID">22</SimpleData>
+		<SimpleData name="Farmer name">Koeung Doeun</SimpleData>
+		<SimpleData name="Block">C</SimpleData>
+		<SimpleData name="Village">Wat Kandal</SimpleData>
+		<SimpleData name="Code of the plot">WD_Koeung Doeun 03</SimpleData>
+		<SimpleData name="Surface (ha)">1</SimpleData>
+		<SimpleData name="Dei Meas">Yes</SimpleData>
+		<SimpleData name="Biofunctool">Yes</SimpleData>
+		<SimpleData name="Contact">096 378 9910</SimpleData>
+		<SimpleData name="Latitude">12.93523</SimpleData>
+		<SimpleData name="Longtitude">103.26211</SimpleData>
+		<SimpleData name="ISWM ID plot">SS4-3710</SimpleData>
+		<SimpleData name="Diversification">LongCC</SimpleData>
+		<SimpleData name="Cropping system">Long CC/Broadcast</SimpleData>
+		<SimpleData name="ISWM_WUG">SS4</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG2</SimpleData>
+		<SimpleData name="PlotID">SS4-3710</SimpleData>
+		<SimpleData name="ISWM_Surface">1,02</SimpleData>
+		<SimpleData name="ISWM_FARMERID">WK013</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SS4-SG2</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.26211000000000695 12.93523000000000067)</SimpleData>
+		<SimpleData name="Nb_min">32</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>103.26199866568,12.9360293455268 103.262246856968,12.9360183715415 103.262267970246,12.9356896303847 103.262282686255,12.935547535107 103.262293365644,12.9354902855325 103.262307599002,12.9352737225571 103.262347589256,12.9348745947801 103.262403577,12.9343947399686 103.262089786645,12.9343582111737 103.261903601444,12.9343287577595 103.261839216811,12.9349247258897 103.261783329952,12.9354200172427 103.261754445211,12.9356737752327 103.2617288878,12.9358997519212 103.261708094001,12.9360274352994 103.261709601325,12.9360274194077 103.26199866568,12.9360293455268</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Agro_economic_assessment_Kanghot_1st_cycle_2022_polygons">
+		<SimpleData name="Nb">33</SimpleData>
+		<SimpleData name="ID">23</SimpleData>
+		<SimpleData name="Farmer name">Sem Sila</SimpleData>
+		<SimpleData name="Block">C</SimpleData>
+		<SimpleData name="Village">Wat Kandal</SimpleData>
+		<SimpleData name="Code of the plot">WD_Sem Sila 01</SimpleData>
+		<SimpleData name="Surface (ha)">1.8</SimpleData>
+		<SimpleData name="Dei Meas">Yes</SimpleData>
+		<SimpleData name="Biofunctool">Yes</SimpleData>
+		<SimpleData name="Latitude">12.93173</SimpleData>
+		<SimpleData name="Longtitude">103.26074</SimpleData>
+		<SimpleData name="ISWM ID plot">SS4-3725</SimpleData>
+		<SimpleData name="Diversification">LongCC</SimpleData>
+		<SimpleData name="Cropping system">Long CC/Broadcast</SimpleData>
+		<SimpleData name="ISWM_WUG">SS4</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG1</SimpleData>
+		<SimpleData name="PlotID">SS4-3725</SimpleData>
+		<SimpleData name="ISWM_Surface">1,06</SimpleData>
+		<SimpleData name="ISWM_FARMERID">WK066</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SS4-SG1</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.26073999999999842 12.93172999999999995)</SimpleData>
+		<SimpleData name="Nb_min">33</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>103.260536897039,12.9326979091501 103.26095279217,12.9327579615069 103.261023023645,12.9320805626761 103.261077559105,12.9316134217674 103.261124710394,12.9311856602912 103.261154536365,12.9309194223828 103.261194666946,12.9305728493437 103.260951089728,12.9305377414184 103.260815705175,12.9305119668236 103.260789835408,12.9307094561141 103.260663622878,12.9316732745796 103.260536897039,12.9326979091501</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Agro_economic_assessment_Kanghot_1st_cycle_2022_polygons">
+		<SimpleData name="Nb">34</SimpleData>
+		<SimpleData name="ID">24</SimpleData>
+		<SimpleData name="Farmer name">Conv 24 (New next to Dos SorLao 8)</SimpleData>
+		<SimpleData name="Block">C</SimpleData>
+		<SimpleData name="Village">Wat Kandal</SimpleData>
+		<SimpleData name="Code of the plot">CT</SimpleData>
+		<SimpleData name="Surface (ha)">0.48</SimpleData>
+		<SimpleData name="Dei Meas">CT</SimpleData>
+		<SimpleData name="Biofunctool">Yes</SimpleData>
+		<SimpleData name="Latitude">12.93485</SimpleData>
+		<SimpleData name="Longtitude">103.26121</SimpleData>
+		<SimpleData name="ISWM ID plot">SS4-3713</SimpleData>
+		<SimpleData name="Diversification">Conventional</SimpleData>
+		<SimpleData name="Cropping system">Conventional</SimpleData>
+		<SimpleData name="ISWM_WUG">SS4</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG2</SimpleData>
+		<SimpleData name="PlotID">SS4-3713</SimpleData>
+		<SimpleData name="ISWM_Surface">0,52</SimpleData>
+		<SimpleData name="ISWM_FARMERID">WK003</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SS4-SG2</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.26121000000000549 12.93485000000000085)</SimpleData>
+		<SimpleData name="Nb_min">34</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>103.261004564446,12.9352791631344 103.261362344292,12.9353349646845 103.261389980836,12.9350763808824 103.261419136479,12.9348096758476 103.261459238372,12.9345114750029 103.261496921891,12.9342103881333 103.261502838963,12.9341305490783 103.261156402713,12.9340698110603 103.261155173628,12.9340816666178 103.261109848452,12.9344862096486 103.261070952041,12.9347511277601 103.261035115326,12.9350248672271 103.261004564446,12.9352791631344</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Agro_economic_assessment_Kanghot_1st_cycle_2022_polygons">
+		<SimpleData name="Nb">35</SimpleData>
+		<SimpleData name="ID">25</SimpleData>
+		<SimpleData name="Farmer name">CT 05 (Thorn Ser)</SimpleData>
+		<SimpleData name="Block">C</SimpleData>
+		<SimpleData name="Village">Wat Kandal</SimpleData>
+		<SimpleData name="Code of the plot">CT</SimpleData>
+		<SimpleData name="Surface (ha)">0.95</SimpleData>
+		<SimpleData name="Dei Meas">CT</SimpleData>
+		<SimpleData name="Biofunctool">Yes</SimpleData>
+		<SimpleData name="Contact">096 538 2958</SimpleData>
+		<SimpleData name="Latitude">12.93308</SimpleData>
+		<SimpleData name="Longtitude">103.26309</SimpleData>
+		<SimpleData name="ISWM ID plot">SS4-3700</SimpleData>
+		<SimpleData name="Diversification">Conventional</SimpleData>
+		<SimpleData name="Cropping system">Conventional</SimpleData>
+		<SimpleData name="ISWM_WUG">SS4</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG2</SimpleData>
+		<SimpleData name="PlotID">SS4-3700</SimpleData>
+		<SimpleData name="ISWM_Surface">0,92</SimpleData>
+		<SimpleData name="ISWM_FARMERID">WK025</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SS4-SG2</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.26309000000000538 12.93308000000000035)</SimpleData>
+		<SimpleData name="Nb_min">35</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>103.262752854449,12.9336573884474 103.262970149129,12.933694868294 103.263290037772,12.933743710249 103.263341786352,12.9334003860426 103.263387282014,12.9330119714375 103.263423870511,12.9326573054095 103.263459916236,12.9323810793688 103.262901880908,12.9323082483648 103.262849839126,12.9327213028631 103.262789725156,12.933290288343 103.262752854449,12.9336573884474</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Agro_economic_assessment_Kanghot_1st_cycle_2022_polygons">
+		<SimpleData name="Nb">36</SimpleData>
+		<SimpleData name="ID">26</SimpleData>
+		<SimpleData name="Farmer name">CT 06 (Thorn Ser)</SimpleData>
+		<SimpleData name="Block">C</SimpleData>
+		<SimpleData name="Village">Wat Kandal</SimpleData>
+		<SimpleData name="Code of the plot">CT</SimpleData>
+		<SimpleData name="Surface (ha)">0.81</SimpleData>
+		<SimpleData name="Dei Meas">CT</SimpleData>
+		<SimpleData name="Biofunctool">Yes</SimpleData>
+		<SimpleData name="Contact">096 538 2958</SimpleData>
+		<SimpleData name="Latitude">12.93302</SimpleData>
+		<SimpleData name="Longtitude">103.26371</SimpleData>
+		<SimpleData name="ISWM ID plot">SS4-3685</SimpleData>
+		<SimpleData name="Diversification">Conventional</SimpleData>
+		<SimpleData name="Cropping system">Conventional</SimpleData>
+		<SimpleData name="ISWM_WUG">SS4</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG2</SimpleData>
+		<SimpleData name="PlotID">SS4-3685</SimpleData>
+		<SimpleData name="ISWM_Surface">0,80</SimpleData>
+		<SimpleData name="ISWM_FARMERID">WK025</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SS4-SG2</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.26371000000000322 12.93302000000000085)</SimpleData>
+		<SimpleData name="Nb_min">36</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>103.263341786352,12.9334003860426 103.264016821227,12.9334416287505 103.264052716681,12.9331004460036 103.264093895464,12.9327976054412 103.264127041247,12.9325175334117 103.263940040252,12.9324808939455 103.263709259482,12.9324286569495 103.263459916236,12.9323810793688 103.263423870511,12.9326573054095 103.263387282014,12.9330119714375 103.263341786352,12.9334003860426</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Agro_economic_assessment_Kanghot_1st_cycle_2022_polygons">
+		<SimpleData name="Nb">37</SimpleData>
+		<SimpleData name="ID">27</SimpleData>
+		<SimpleData name="Farmer name">CT 9 plough</SimpleData>
+		<SimpleData name="Block">C</SimpleData>
+		<SimpleData name="Village">Wat Kandal</SimpleData>
+		<SimpleData name="Code of the plot">CT</SimpleData>
+		<SimpleData name="Surface (ha)">0.27</SimpleData>
+		<SimpleData name="Dei Meas">CT</SimpleData>
+		<SimpleData name="Biofunctool">Yes</SimpleData>
+		<SimpleData name="Latitude">12.93571</SimpleData>
+		<SimpleData name="Longtitude">103.26152</SimpleData>
+		<SimpleData name="ISWM ID plot">SS4-3711</SimpleData>
+		<SimpleData name="Diversification">Conventional</SimpleData>
+		<SimpleData name="Cropping system">Conventional</SimpleData>
+		<SimpleData name="ISWM_WUG">SS4</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG2</SimpleData>
+		<SimpleData name="PlotID">SS4-3711</SimpleData>
+		<SimpleData name="ISWM_Surface">0,28</SimpleData>
+		<SimpleData name="ISWM_FARMERID">WK009</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SS4-SG2</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.26152000000000442 12.93571000000000026)</SimpleData>
+		<SimpleData name="Nb_min">37</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>103.261783329952,12.9354200172427 103.261670549808,12.9354035043287 103.261578511421,12.9353851933694 103.261393426321,12.9353533477798 103.261380805552,12.9354857567023 103.261374802204,12.9355780313329 103.261362784994,12.9356937032756 103.261394736284,12.9357273982238 103.261388938356,12.9357900187417 103.26138730042,12.9358856706649 103.261376025827,12.9360309360702 103.261708094001,12.9360274352994 103.2617288878,12.9358997519212 103.261754445211,12.9356737752327 103.261783329952,12.9354200172427</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Agro_economic_assessment_Kanghot_1st_cycle_2022_polygons">
+		<SimpleData name="Nb">38</SimpleData>
+		<SimpleData name="ID">28</SimpleData>
+		<SimpleData name="Farmer name">CT 10 plough (Chroeng Proel)</SimpleData>
+		<SimpleData name="Block">C</SimpleData>
+		<SimpleData name="Village">Wat Kandal</SimpleData>
+		<SimpleData name="Code of the plot">CT</SimpleData>
+		<SimpleData name="Surface (ha)">0.9</SimpleData>
+		<SimpleData name="Dei Meas">CT</SimpleData>
+		<SimpleData name="Biofunctool">Yes</SimpleData>
+		<SimpleData name="Latitude">12.9325</SimpleData>
+		<SimpleData name="Longtitude">103.2603</SimpleData>
+		<SimpleData name="ISWM ID plot">SS4-3735</SimpleData>
+		<SimpleData name="Diversification">Conventional</SimpleData>
+		<SimpleData name="Cropping system">Conventional</SimpleData>
+		<SimpleData name="ISWM_WUG">SS4</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG1</SimpleData>
+		<SimpleData name="PlotID">SS4-3735</SimpleData>
+		<SimpleData name="ISWM_Surface">0,89</SimpleData>
+		<SimpleData name="ISWM_FARMERID">SC032</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SS4-SG1</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.26030000000000086 12.93249999999999922)</SimpleData>
+		<SimpleData name="Nb_min">38</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>103.260211519606,12.9316074125928 103.260109456651,12.9326251905439 103.260030488061,12.9332726667972 103.260247452944,12.9333136114049 103.260456255153,12.9333499277475 103.260536897039,12.9326979091501 103.260663622878,12.9316732745796 103.26050873082,12.9316505645141 103.260266709629,12.9316162343208 103.260211519606,12.9316074125928</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Agro_economic_assessment_Kanghot_1st_cycle_2022_polygons">
+		<SimpleData name="Nb">39</SimpleData>
+		<SimpleData name="ID">29</SimpleData>
+		<SimpleData name="Farmer name">CT16 (Thorn Ser)</SimpleData>
+		<SimpleData name="Block">C</SimpleData>
+		<SimpleData name="Village">Wat Kandal</SimpleData>
+		<SimpleData name="Code of the plot">CT</SimpleData>
+		<SimpleData name="Surface (ha)">1.23</SimpleData>
+		<SimpleData name="Dei Meas">CT</SimpleData>
+		<SimpleData name="Biofunctool">Yes</SimpleData>
+		<SimpleData name="Contact">096 538 2958</SimpleData>
+		<SimpleData name="Latitude">12.93184</SimpleData>
+		<SimpleData name="Longtitude">103.26384</SimpleData>
+		<SimpleData name="ISWM ID plot">SS4-3697</SimpleData>
+		<SimpleData name="Diversification">Conventional</SimpleData>
+		<SimpleData name="Cropping system">Conventional</SimpleData>
+		<SimpleData name="ISWM_WUG">SS4</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG2</SimpleData>
+		<SimpleData name="PlotID">SS4-3697</SimpleData>
+		<SimpleData name="ISWM_Surface">1,37</SimpleData>
+		<SimpleData name="ISWM_FARMERID">WK025</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SS4-SG2</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.26384000000000185 12.93183999999999934)</SimpleData>
+		<SimpleData name="Nb_min">39</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>103.264335123672,12.9308727956896 103.263607416218,12.9308069638166 103.263593194731,12.9309648041318 103.263543189133,12.9315197995417 103.263459916236,12.9323810793688 103.263709259482,12.9324286569495 103.263940040252,12.9324808939455 103.264127041247,12.9325175334117 103.264205933427,12.9319086786154 103.264254122099,12.9315405053048 103.264335123672,12.9308727956896</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Agro_economic_assessment_Kanghot_1st_cycle_2022_polygons">
+		<SimpleData name="Nb">40</SimpleData>
+		<SimpleData name="ID">30</SimpleData>
+		<SimpleData name="Farmer name">Conv 21 (Chou Khorl)</SimpleData>
+		<SimpleData name="Block">E</SimpleData>
+		<SimpleData name="Village">Domnak Dangkor</SimpleData>
+		<SimpleData name="Code of the plot">CT</SimpleData>
+		<SimpleData name="Surface (ha)">0.59</SimpleData>
+		<SimpleData name="Dei Meas">CT</SimpleData>
+		<SimpleData name="Biofunctool">Yes</SimpleData>
+		<SimpleData name="Contact">093 520 286</SimpleData>
+		<SimpleData name="Latitude">12.97653</SimpleData>
+		<SimpleData name="Longtitude">103.26668</SimpleData>
+		<SimpleData name="Diversification">Conventional</SimpleData>
+		<SimpleData name="Cropping system">Conventional</SimpleData>
+		<SimpleData name="ISWM_WUG">SC8</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG3</SimpleData>
+		<SimpleData name="PlotID">SG3-4946</SimpleData>
+		<SimpleData name="ISWM_Surface">0,55</SimpleData>
+		<SimpleData name="ISWM_FARMERID">DK029</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC8-SG3</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.26667999999999381 12.97653000000000034)</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Agro_economic_assessment_Kanghot_1st_cycle_2022_polygons">
+		<SimpleData name="Nb">41</SimpleData>
+		<SimpleData name="ID">31</SimpleData>
+		<SimpleData name="Farmer name">Soeung Se </SimpleData>
+		<SimpleData name="Block">E</SimpleData>
+		<SimpleData name="Village">Domnak Dangkor</SimpleData>
+		<SimpleData name="Code of the plot">DD_Soeung Se 02</SimpleData>
+		<SimpleData name="Surface (ha)">0.59</SimpleData>
+		<SimpleData name="Contact">097 786 2830</SimpleData>
+		<SimpleData name="Latitude">12.97401</SimpleData>
+		<SimpleData name="Longtitude">103.26341</SimpleData>
+		<SimpleData name="Diversification">Mungbean</SimpleData>
+		<SimpleData name="Cropping system">Mungbean/Broadcast</SimpleData>
+		<SimpleData name="ISWM_WUG">SC8</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG3</SimpleData>
+		<SimpleData name="PlotID">SG3-4904</SimpleData>
+		<SimpleData name="ISWM_Surface">0,61</SimpleData>
+		<SimpleData name="ISWM_FARMERID">DK073</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC8-SG3</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.26340999999999326 12.97400999999999982)</SimpleData>
+		<SimpleData name="Nb_min">41</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>103.263812885029,12.9736877005695 103.263483208572,12.9736281025561 103.263080930871,12.9735726112348 103.263049849315,12.9739076801196 103.263035383039,12.9740636305649 103.263006915991,12.9742861431605 103.263274716979,12.9743223697405 103.263522556166,12.9743676464221 103.263536641774,12.9743620006856 103.263689855308,12.9743802426528 103.263725225172,12.9741749952689 103.263783590784,12.9738608458718 103.263812885029,12.9736877005695</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Agro_economic_assessment_Kanghot_1st_cycle_2022_polygons">
+		<SimpleData name="Nb">42</SimpleData>
+		<SimpleData name="ID">32</SimpleData>
+		<SimpleData name="Farmer name">Conv 01</SimpleData>
+		<SimpleData name="Block">E</SimpleData>
+		<SimpleData name="Village">Domnak Dangkor</SimpleData>
+		<SimpleData name="Code of the plot">DD_Soeung Markara 06</SimpleData>
+		<SimpleData name="Surface (ha)">0.33</SimpleData>
+		<SimpleData name="Dei Meas">CT</SimpleData>
+		<SimpleData name="Latitude">12.97323</SimpleData>
+		<SimpleData name="Longtitude">103.26404</SimpleData>
+		<SimpleData name="Diversification">Conventional</SimpleData>
+		<SimpleData name="Cropping system">Conventional</SimpleData>
+		<SimpleData name="ISWM_WUG">SC8</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG3</SimpleData>
+		<SimpleData name="PlotID">SG3-4891</SimpleData>
+		<SimpleData name="ISWM_Surface">0,36</SimpleData>
+		<SimpleData name="ISWM_FARMERID">RK042</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC8-SG3</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.26403999999999428 12.97322999999999915)</SimpleData>
+		<SimpleData name="Nb_min">42</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>103.263747506115,12.9729286885286 103.263664403033,12.9732794711083 103.26427246138,12.973537226224 103.264348295623,12.9732358206127 103.264389587158,12.9730064417605 103.264127687396,12.9729633681347 103.263770995254,12.9729173657624 103.263747506115,12.9729286885286</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Agro_economic_assessment_Kanghot_1st_cycle_2022_polygons">
+		<SimpleData name="Nb">43</SimpleData>
+		<SimpleData name="ID">33</SimpleData>
+		<SimpleData name="Farmer name">Koeun Kimaeng </SimpleData>
+		<SimpleData name="Block">E</SimpleData>
+		<SimpleData name="Village">Domnak Dangkor</SimpleData>
+		<SimpleData name="Code of the plot">DD_Koeun Kimaeng 01</SimpleData>
+		<SimpleData name="Surface (ha)">0.36</SimpleData>
+		<SimpleData name="Contact">096 628 6816</SimpleData>
+		<SimpleData name="Latitude">12.97741</SimpleData>
+		<SimpleData name="Longtitude">103.27293</SimpleData>
+		<SimpleData name="Diversification">Mungbean</SimpleData>
+		<SimpleData name="Cropping system">Mungbean/Broadcast</SimpleData>
+		<SimpleData name="ISWM_WUG">SC8</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG5</SimpleData>
+		<SimpleData name="PlotID">SG5-5133</SimpleData>
+		<SimpleData name="ISWM_Surface">0,37</SimpleData>
+		<SimpleData name="ISWM_FARMERID">DK072</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC8-SG5</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.27293000000000234 12.97741000000000078)</SimpleData>
+		<SimpleData name="Nb_min">43</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>103.273183012306,12.9771257863579 103.272704737613,12.977056028959 103.272700137518,12.9773831661491 103.272697324369,12.9777340396417 103.273133612794,12.9777817072374 103.273154503535,12.9775250861891 103.273183012306,12.9771257863579</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Agro_economic_assessment_Kanghot_1st_cycle_2022_polygons">
+		<SimpleData name="Nb">44</SimpleData>
+		<SimpleData name="ID">34</SimpleData>
+		<SimpleData name="Farmer name">Conv 02 (Bich Savoeun)</SimpleData>
+		<SimpleData name="Block">E</SimpleData>
+		<SimpleData name="Village">Domnak Dangkor</SimpleData>
+		<SimpleData name="Code of the plot">CT</SimpleData>
+		<SimpleData name="Surface (ha)">0.53</SimpleData>
+		<SimpleData name="Dei Meas">CT</SimpleData>
+		<SimpleData name="Latitude">12.97734</SimpleData>
+		<SimpleData name="Longtitude">103.27238</SimpleData>
+		<SimpleData name="Diversification">Conventional</SimpleData>
+		<SimpleData name="Cropping system">Conventional</SimpleData>
+		<SimpleData name="ISWM_WUG">SC8</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG5</SimpleData>
+		<SimpleData name="PlotID">SG5-5131</SimpleData>
+		<SimpleData name="ISWM_Surface">0,51</SimpleData>
+		<SimpleData name="ISWM_FARMERID">DK072</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC8-SG5</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.27237999999999829 12.97733999999999988)</SimpleData>
+		<SimpleData name="Nb_min">44</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>103.272704737613,12.977056028959 103.272104771079,12.9769797224992 103.272046241685,12.9776577760155 103.272442353038,12.9777036471917 103.272697324369,12.9777340396417 103.272700137518,12.9773831661491 103.272704737613,12.977056028959</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Agro_economic_assessment_Kanghot_1st_cycle_2022_polygons">
+		<SimpleData name="Nb">45</SimpleData>
+		<SimpleData name="ID">35</SimpleData>
+		<SimpleData name="Farmer name">Soeung Markara</SimpleData>
+		<SimpleData name="Block">E</SimpleData>
+		<SimpleData name="Village">Domnak Dangkor</SimpleData>
+		<SimpleData name="Code of the plot">DD_Soeung Markara 06</SimpleData>
+		<SimpleData name="Surface (ha)">0.55</SimpleData>
+		<SimpleData name="Contact">097 666 1213</SimpleData>
+		<SimpleData name="Latitude">12.97691</SimpleData>
+		<SimpleData name="Longtitude">103.27396</SimpleData>
+		<SimpleData name="Diversification">Mungbean</SimpleData>
+		<SimpleData name="Cropping system">Mungbean/Broadcast</SimpleData>
+		<SimpleData name="ISWM_WUG">SC8</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG5</SimpleData>
+		<SimpleData name="PlotID">SG5-5137</SimpleData>
+		<SimpleData name="ISWM_Surface">0,99</SimpleData>
+		<SimpleData name="ISWM_FARMERID">RK025</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC8-SG5</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.27396000000000242 12.97691000000000017)</SimpleData>
+		<SimpleData name="Nb_min">45</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>103.273640740008,12.9764866001485 103.273558908011,12.9771495764163 103.273836102735,12.9771824111309 103.274258194192,12.9772517937247 103.274559811386,12.977307748901 103.274701220406,12.9773408298217 103.274757213756,12.9773670901028 103.27484030541,12.9769170676964 103.274867361684,12.9766713927755 103.274812285826,12.9766535569796 103.274586537926,12.9766291003572 103.274303514869,12.9765927839598 103.274084877237,12.9765557465533 103.273640740008,12.9764866001485</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Agro_economic_assessment_Kanghot_1st_cycle_2022_polygons">
+		<SimpleData name="Nb">46</SimpleData>
+		<SimpleData name="ID">36</SimpleData>
+		<SimpleData name="Farmer name">Conv 03 (Sao Samuth)</SimpleData>
+		<SimpleData name="Block">E</SimpleData>
+		<SimpleData name="Village">Domnak Dangkor</SimpleData>
+		<SimpleData name="Code of the plot">CT</SimpleData>
+		<SimpleData name="Surface (ha)">0.47</SimpleData>
+		<SimpleData name="Dei Meas">CT</SimpleData>
+		<SimpleData name="Latitude">12.9775</SimpleData>
+		<SimpleData name="Longtitude">103.27695</SimpleData>
+		<SimpleData name="Diversification">Conventional</SimpleData>
+		<SimpleData name="Cropping system">Conventional</SimpleData>
+		<SimpleData name="ISWM_WUG">SC8</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG5</SimpleData>
+		<SimpleData name="PlotID">SG5-5142</SimpleData>
+		<SimpleData name="ISWM_Surface">0,48</SimpleData>
+		<SimpleData name="ISWM_FARMERID">RL095</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC8-SG5</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.27694999999999936 12.97749999999999915)</SimpleData>
+		<SimpleData name="Nb_min">46</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>103.27731605325,12.9772915444544 103.276685937033,12.9771424282661 103.276615775643,12.977464552443 103.276552201889,12.9777721668535 103.277183402284,12.9778850861508 103.277261429857,12.9775182560025 103.27731605325,12.9772915444544</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Agro_economic_assessment_Kanghot_1st_cycle_2022_polygons">
+		<SimpleData name="Nb">47</SimpleData>
+		<SimpleData name="ID">37</SimpleData>
+		<SimpleData name="Farmer name">Phal Rotha 03</SimpleData>
+		<SimpleData name="Block">D</SimpleData>
+		<SimpleData name="Village">Reang Kessei</SimpleData>
+		<SimpleData name="Code of the plot">RK_Phal Ratha03</SimpleData>
+		<SimpleData name="Surface (ha)">0.45</SimpleData>
+		<SimpleData name="Contact">012 392 268</SimpleData>
+		<SimpleData name="Latitude">12.95773</SimpleData>
+		<SimpleData name="Longtitude">103.26517</SimpleData>
+		<SimpleData name="ISWM ID plot">SC7-4946</SimpleData>
+		<SimpleData name="Diversification">Mungbean</SimpleData>
+		<SimpleData name="Cropping system">Mungbean/NTP</SimpleData>
+		<SimpleData name="ISWM_WUG">SC7</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG3</SimpleData>
+		<SimpleData name="PlotID">SC7-4946</SimpleData>
+		<SimpleData name="ISWM_Surface">0,44</SimpleData>
+		<SimpleData name="ISWM_FARMERID">RK091</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC7-SG3</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.26516999999999769 12.95772999999999975)</SimpleData>
+		<SimpleData name="Nb_min">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>103.264887924826,12.9574104113846 103.264867187497,12.9575072243498 103.264837413199,12.9580353999862 103.264990346201,12.9580364188378 103.265442867258,12.9580230267435 103.265481765214,12.9574344560061 103.264887924826,12.9574104113846</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Agro_economic_assessment_Kanghot_1st_cycle_2022_polygons">
+		<SimpleData name="Nb">48</SimpleData>
+		<SimpleData name="ID">38</SimpleData>
+		<SimpleData name="Farmer name">Conv 29 (Sambath Samnang)</SimpleData>
+		<SimpleData name="Block">D</SimpleData>
+		<SimpleData name="Village">Reang Kessei</SimpleData>
+		<SimpleData name="Code of the plot">CT</SimpleData>
+		<SimpleData name="Surface (ha)">0.5</SimpleData>
+		<SimpleData name="Latitude">12.95842</SimpleData>
+		<SimpleData name="Longtitude">103.2652</SimpleData>
+		<SimpleData name="ISWM ID plot">SC7-4954</SimpleData>
+		<SimpleData name="Diversification">Conventional</SimpleData>
+		<SimpleData name="Cropping system">Conventional</SimpleData>
+		<SimpleData name="ISWM_WUG">SC7</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG3</SimpleData>
+		<SimpleData name="PlotID">SC7-4954</SimpleData>
+		<SimpleData name="ISWM_Surface">1,05</SimpleData>
+		<SimpleData name="ISWM_FARMERID">RK096</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC7-SG3</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.265199999999993 12.95842000000000027)</SimpleData>
+		<SimpleData name="Nb_min">48</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>103.266964849837,12.958427666504 103.266969447977,12.9580049529604 103.266961493353,12.9579704613675 103.266635969446,12.9579901062183 103.266289465608,12.9579969834924 103.265852520083,12.9580143150943 103.265800140488,12.9580075011627 103.265702901429,12.958020629119 103.265442867258,12.9580230267435 103.264990346201,12.9580364188378 103.264957031975,12.9584649429634 103.266964849837,12.958427666504</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Agro_economic_assessment_Kanghot_1st_cycle_2022_polygons">
+		<SimpleData name="Nb">49</SimpleData>
+		<SimpleData name="ID">39</SimpleData>
+		<SimpleData name="Farmer name">Phal Rotha 01</SimpleData>
+		<SimpleData name="Block">D</SimpleData>
+		<SimpleData name="Village">Reang Kessei</SimpleData>
+		<SimpleData name="Code of the plot">RK_Phal Ratha01</SimpleData>
+		<SimpleData name="Surface (ha)">0.61</SimpleData>
+		<SimpleData name="Contact">012 392 268</SimpleData>
+		<SimpleData name="Latitude">12.95773</SimpleData>
+		<SimpleData name="Longtitude">103.26344</SimpleData>
+		<SimpleData name="ISWM ID plot">SC7-4948</SimpleData>
+		<SimpleData name="Diversification">Mungbean</SimpleData>
+		<SimpleData name="Cropping system">Mungbean/NTP</SimpleData>
+		<SimpleData name="ISWM_WUG">SC7</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG3</SimpleData>
+		<SimpleData name="PlotID">SC7-4948</SimpleData>
+		<SimpleData name="ISWM_Surface">0,60</SimpleData>
+		<SimpleData name="ISWM_FARMERID">RK071</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC7-SG3</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.26344000000000278 12.95772999999999975)</SimpleData>
+		<SimpleData name="Nb_min">49</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>103.263042787694,12.9573669547675 103.263108768586,12.9580454647262 103.263748121763,12.9580512461993 103.263810638826,12.9580378875221 103.263824520502,12.9573859423734 103.263042787694,12.9573669547675</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Agro_economic_assessment_Kanghot_1st_cycle_2022_polygons">
+		<SimpleData name="Nb">50</SimpleData>
+		<SimpleData name="ID">40</SimpleData>
+		<SimpleData name="Farmer name">Phang Sokhorn 01</SimpleData>
+		<SimpleData name="Block">D</SimpleData>
+		<SimpleData name="Village">Reang Kessei</SimpleData>
+		<SimpleData name="Code of the plot">RK_Phang Sokhorn 01</SimpleData>
+		<SimpleData name="Surface (ha)">1</SimpleData>
+		<SimpleData name="Contact">088 321 9696</SimpleData>
+		<SimpleData name="Latitude">12.95287</SimpleData>
+		<SimpleData name="Longtitude">103.26491</SimpleData>
+		<SimpleData name="ISWM ID plot">SC7-4904</SimpleData>
+		<SimpleData name="Diversification">Mungbean</SimpleData>
+		<SimpleData name="Cropping system">Mungbean/NTP</SimpleData>
+		<SimpleData name="ISWM_WUG">SC7</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG3</SimpleData>
+		<SimpleData name="PlotID">SC7-4910</SimpleData>
+		<SimpleData name="ISWM_Surface">0,51</SimpleData>
+		<SimpleData name="ISWM_FARMERID">BV019</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC7-SG3</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.26491000000000042 12.95287000000000077)</SimpleData>
+		<SimpleData name="Nb_min">50</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>103.265201448904,12.9528853099393 103.264714771504,12.952852987423 103.264706727938,12.9531131368786 103.264745613524,12.9531317631467 103.264753082675,12.953832819752 103.264800244297,12.9538343323016 103.265145929008,12.9538438523832 103.265201448904,12.9528853099393</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Agro_economic_assessment_Kanghot_1st_cycle_2022_polygons">
+		<SimpleData name="Nb">51</SimpleData>
+		<SimpleData name="ID">41</SimpleData>
+		<SimpleData name="Farmer name">Conv 30 (Khurn Khoeurm)</SimpleData>
+		<SimpleData name="Block">D</SimpleData>
+		<SimpleData name="Village">Reang Kessei</SimpleData>
+		<SimpleData name="Code of the plot">CT</SimpleData>
+		<SimpleData name="Surface (ha)">0.52</SimpleData>
+		<SimpleData name="Latitude">12.95281</SimpleData>
+		<SimpleData name="Longtitude">103.26446</SimpleData>
+		<SimpleData name="ISWM ID plot">SC7-4911</SimpleData>
+		<SimpleData name="Diversification">Conventional</SimpleData>
+		<SimpleData name="Cropping system">Conventional</SimpleData>
+		<SimpleData name="ISWM_WUG">SC7</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG3</SimpleData>
+		<SimpleData name="PlotID">SC7-4911</SimpleData>
+		<SimpleData name="ISWM_Surface">0,51</SimpleData>
+		<SimpleData name="ISWM_FARMERID">RK024</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC7-SG3</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.2644599999999997 12.95280999999999949)</SimpleData>
+		<SimpleData name="Nb_min">51</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>103.264212285234,12.9523993551247 103.264117059448,12.9524178532768 103.264117050194,12.9530939624374 103.264220151816,12.9530981405478 103.264652078296,12.9531173646959 103.264706727938,12.9531131368786 103.264714771504,12.952852987423 103.264764772743,12.952431385643 103.264212285234,12.9523993551247</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Agro_economic_assessment_Kanghot_1st_cycle_2022_polygons">
+		<SimpleData name="Nb">52</SimpleData>
+		<SimpleData name="ID">42</SimpleData>
+		<SimpleData name="Farmer name">Loeuy Mon 03</SimpleData>
+		<SimpleData name="Block">C</SimpleData>
+		<SimpleData name="Village">Reang Kessei</SimpleData>
+		<SimpleData name="Code of the plot">RK_Loeuy Mon 03</SimpleData>
+		<SimpleData name="Surface (ha)">0.84</SimpleData>
+		<SimpleData name="Contact">096 380 5249</SimpleData>
+		<SimpleData name="Latitude">12.9442</SimpleData>
+		<SimpleData name="Longtitude">103.26464</SimpleData>
+		<SimpleData name="ISWM ID plot">SC6-4307</SimpleData>
+		<SimpleData name="Diversification">Mungbean</SimpleData>
+		<SimpleData name="Cropping system">Mungbean/Broadcast</SimpleData>
+		<SimpleData name="ISWM_WUG">SC6</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG4</SimpleData>
+		<SimpleData name="PlotID">SC6-4307</SimpleData>
+		<SimpleData name="ISWM_Surface">0,91</SimpleData>
+		<SimpleData name="ISWM_FARMERID">RK033</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC6-SG4</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.26463999999999999 12.94420000000000037)</SimpleData>
+		<SimpleData name="Nb_min">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>103.265040830403,12.9444259481117 103.265240000319,12.9443966613806 103.265164858438,12.9439963561925 103.265133508048,12.9438293422416 103.26511018847,12.9437051109977 103.264209151819,12.9438746708354 103.264160640096,12.9438942457254 103.26413687315,12.9439461281034 103.264035903219,12.9445871892452 103.264501749198,12.9445124445135 103.265040830403,12.9444259481117</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Agro_economic_assessment_Kanghot_1st_cycle_2022_polygons">
+		<SimpleData name="Nb">53</SimpleData>
+		<SimpleData name="ID">43</SimpleData>
+		<SimpleData name="Farmer name">Conv 05 (Sorn Keasal )</SimpleData>
+		<SimpleData name="Block">C</SimpleData>
+		<SimpleData name="Village">Reang Kessei</SimpleData>
+		<SimpleData name="Code of the plot">CT</SimpleData>
+		<SimpleData name="Surface (ha)">1.12</SimpleData>
+		<SimpleData name="Latitude">12.94692</SimpleData>
+		<SimpleData name="Longtitude">103.26418</SimpleData>
+		<SimpleData name="ISWM ID plot">SC6-4295</SimpleData>
+		<SimpleData name="Diversification">Conventional</SimpleData>
+		<SimpleData name="Cropping system">Conventional</SimpleData>
+		<SimpleData name="ISWM_WUG">SS5</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG6</SimpleData>
+		<SimpleData name="PlotID">SS5-4092</SimpleData>
+		<SimpleData name="ISWM_Surface">1,04</SimpleData>
+		<SimpleData name="ISWM_FARMERID">RK103</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SS5-SG6</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.26417999999999608 12.94692000000000043)</SimpleData>
+		<SimpleData name="Nb_min">53</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>103.26368037248,12.9473857528079 103.264662905404,12.947435514527 103.26464261458,12.9471040523347 103.2646027914,12.9464535181011 103.263832169779,12.946403323751 103.26368037248,12.9473857528079</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Agro_economic_assessment_Kanghot_1st_cycle_2022_polygons">
+		<SimpleData name="Nb">54</SimpleData>
+		<SimpleData name="ID">44</SimpleData>
+		<SimpleData name="Farmer name">Soun Leng</SimpleData>
+		<SimpleData name="Block">B</SimpleData>
+		<SimpleData name="Village">Wat Kandal</SimpleData>
+		<SimpleData name="Code of the plot">WD_Soun Leng 02</SimpleData>
+		<SimpleData name="Surface (ha)">0.85</SimpleData>
+		<SimpleData name="Contact">092 625 961</SimpleData>
+		<SimpleData name="Latitude">12.91885</SimpleData>
+		<SimpleData name="Longtitude">103.28442</SimpleData>
+		<SimpleData name="ISWM ID plot">SC4-2211</SimpleData>
+		<SimpleData name="Diversification">Mungbean</SimpleData>
+		<SimpleData name="Cropping system">Mungbean/NTP</SimpleData>
+		<SimpleData name="ISWM_WUG">SC4</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG6</SimpleData>
+		<SimpleData name="PlotID">SC4-2211</SimpleData>
+		<SimpleData name="ISWM_Surface">0,81</SimpleData>
+		<SimpleData name="ISWM_FARMERID">WK214</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC4-SG6</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.28441999999999723 12.91885000000000083)</SimpleData>
+		<SimpleData name="Nb_min">54</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>103.284444332713,12.9179852961813 103.284321458717,12.9183702881108 103.284182564104,12.9187161576903 103.284092134958,12.9191053943568 103.284020247671,12.919354722631 103.284248258551,12.9194369371407 103.284479317098,12.9195191714877 103.284669476192,12.9188198031956 103.284857590019,12.9181637928211 103.284796819965,12.9181370861545 103.284740876926,12.9181175859761 103.284686226338,12.9180873320723 103.284444332713,12.9179852961813</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Agro_economic_assessment_Kanghot_1st_cycle_2022_polygons">
+		<SimpleData name="Nb">55</SimpleData>
+		<SimpleData name="ID">45</SimpleData>
+		<SimpleData name="Farmer name">Conv 06 (Soeum Vuthy)</SimpleData>
+		<SimpleData name="Block">B</SimpleData>
+		<SimpleData name="Village">Wat Kandal</SimpleData>
+		<SimpleData name="Code of the plot">CT</SimpleData>
+		<SimpleData name="Surface (ha)">0.79</SimpleData>
+		<SimpleData name="Dei Meas">CT</SimpleData>
+		<SimpleData name="Latitude">12.91823</SimpleData>
+		<SimpleData name="Longtitude">103.28395</SimpleData>
+		<SimpleData name="ISWM ID plot">SC4-2202</SimpleData>
+		<SimpleData name="Diversification">Conventional</SimpleData>
+		<SimpleData name="Cropping system">Conventional</SimpleData>
+		<SimpleData name="ISWM_WUG">SC4</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG6</SimpleData>
+		<SimpleData name="PlotID">SC4-2202</SimpleData>
+		<SimpleData name="ISWM_Surface">0,86</SimpleData>
+		<SimpleData name="ISWM_FARMERID">WK164</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC4-SG6</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.28395000000000437 12.91822999999999944)</SimpleData>
+		<SimpleData name="Nb_min">55</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>103.284444332713,12.9179852961813 103.283644564324,12.9176392390883 103.283472578611,12.9180753271564 103.28331941458,12.9183684872082 103.283839526391,12.9186086735209 103.284182564104,12.9187161576903 103.284321458717,12.9183702881108 103.284444332713,12.9179852961813</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Agro_economic_assessment_Kanghot_1st_cycle_2022_polygons">
+		<SimpleData name="Nb">56</SimpleData>
+		<SimpleData name="ID">46</SimpleData>
+		<SimpleData name="Farmer name">Nhil Khon</SimpleData>
+		<SimpleData name="Block">A</SimpleData>
+		<SimpleData name="Village">Wat Kandal</SimpleData>
+		<SimpleData name="Code of the plot">WD_Nhil khon 15</SimpleData>
+		<SimpleData name="Surface (ha)">0.55</SimpleData>
+		<SimpleData name="Contact">092 401 445</SimpleData>
+		<SimpleData name="Latitude">12.91198</SimpleData>
+		<SimpleData name="Longtitude">103.28351</SimpleData>
+		<SimpleData name="ISWM ID plot">SC3-1541</SimpleData>
+		<SimpleData name="Diversification">Mungbean</SimpleData>
+		<SimpleData name="Cropping system">Mungbean/Broadcast</SimpleData>
+		<SimpleData name="ISWM_WUG">SC3</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG4</SimpleData>
+		<SimpleData name="PlotID">SC3-1541</SimpleData>
+		<SimpleData name="ISWM_Surface">0,56</SimpleData>
+		<SimpleData name="ISWM_FARMERID">WK054</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC3-SG4</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.28351000000000681 12.91197999999999979)</SimpleData>
+		<SimpleData name="Nb_min">56</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>103.28375176339,12.9115355262435 103.283504741934,12.911428568008 103.283291327087,12.9113355410961 103.283258278912,12.9117739912442 103.283216382229,12.9123298304187 103.283680899558,12.9124979023644 103.283708975456,12.9122432806929 103.283727738344,12.9117803900859 103.28375176339,12.9115355262435</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Agro_economic_assessment_Kanghot_1st_cycle_2022_polygons">
+		<SimpleData name="Nb">57</SimpleData>
+		<SimpleData name="ID">46</SimpleData>
+		<SimpleData name="Farmer name">Nhil Khon</SimpleData>
+		<SimpleData name="Block">B</SimpleData>
+		<SimpleData name="Village">Wat Kandal</SimpleData>
+		<SimpleData name="Code of the plot">WD_Nhil khon 07</SimpleData>
+		<SimpleData name="Surface (ha)">1.19</SimpleData>
+		<SimpleData name="Contact">092 401 445</SimpleData>
+		<SimpleData name="Latitude">12.9196</SimpleData>
+		<SimpleData name="Longtitude">103.28694</SimpleData>
+		<SimpleData name="ISWM ID plot">SC4-2214</SimpleData>
+		<SimpleData name="Diversification">Mungbean</SimpleData>
+		<SimpleData name="Cropping system">Mungbean/Broadcast</SimpleData>
+		<SimpleData name="ISWM_WUG">SC4</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG6</SimpleData>
+		<SimpleData name="PlotID">SC4-2214</SimpleData>
+		<SimpleData name="ISWM_Surface">0,96</SimpleData>
+		<SimpleData name="ISWM_FARMERID">WK054</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC4-SG6</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.28694000000000131 12.91960000000000086)</SimpleData>
+		<SimpleData name="Nb_min">57</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>103.287496380406,12.9193174838678 103.287356480475,12.919259999031 103.286736666216,12.9189808995301 103.286628468979,12.9189371409107 103.286619854479,12.9189490424107 103.286606241705,12.9189788481393 103.286578665582,12.9190898767467 103.286546197131,12.9192032648532 103.286464104451,12.9194430822944 103.286369201879,12.9197736965166 103.286337480211,12.9198997232765 103.286709423036,12.9200779004153 103.286757999695,12.9201051246219 103.286896089791,12.9198006248169 103.287294911584,12.9199515200057 103.287496380406,12.9193174838678</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Agro_economic_assessment_Kanghot_1st_cycle_2022_polygons">
+		<SimpleData name="Nb">58</SimpleData>
+		<SimpleData name="ID">47</SimpleData>
+		<SimpleData name="Farmer name">Conv 25 (Yoy Roeurn)</SimpleData>
+		<SimpleData name="Block">B</SimpleData>
+		<SimpleData name="Village">Wat Kandal</SimpleData>
+		<SimpleData name="Code of the plot">CT</SimpleData>
+		<SimpleData name="Surface (ha)">1.63</SimpleData>
+		<SimpleData name="Latitude">12.91928</SimpleData>
+		<SimpleData name="Longtitude">103.286</SimpleData>
+		<SimpleData name="ISWM ID plot">SC4-2213</SimpleData>
+		<SimpleData name="Diversification">Conventional</SimpleData>
+		<SimpleData name="Cropping system">Conventional</SimpleData>
+		<SimpleData name="ISWM_WUG">SC4</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG6</SimpleData>
+		<SimpleData name="PlotID">SC4-2213</SimpleData>
+		<SimpleData name="ISWM_Surface">1,00</SimpleData>
+		<SimpleData name="ISWM_FARMERID">SO174</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC4-SG6</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.28600000000000136 12.91928000000000054)</SimpleData>
+		<SimpleData name="Nb_min">58</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>103.286475874469,12.919325971004 103.286119697005,12.9192430708269 103.285453056901,12.9190378007995 103.285224420859,12.9196724656076 103.285184826578,12.9197450278838 103.285686583133,12.9199067655724 103.28615151417,12.9200544770732 103.286173431735,12.9200582083099 103.286217201629,12.9200752367576 103.286246473984,12.9200730372478 103.286263662332,12.9200552130256 103.286280981153,12.920018256842 103.28631101187,12.9199048528056 103.286337377398,12.9197926205129 103.286367399896,12.9196804122092 103.286475874469,12.919325971004</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Agro_economic_assessment_Kanghot_1st_cycle_2022_polygons">
+		<SimpleData name="Nb">59</SimpleData>
+		<SimpleData name="ID">48</SimpleData>
+		<SimpleData name="Farmer name">Conv 07 (Arn Seandou)</SimpleData>
+		<SimpleData name="Block">A</SimpleData>
+		<SimpleData name="Village">Wat Kandal</SimpleData>
+		<SimpleData name="Code of the plot">CT</SimpleData>
+		<SimpleData name="Surface (ha)">0.52</SimpleData>
+		<SimpleData name="Dei Meas">CT</SimpleData>
+		<SimpleData name="Latitude">12.91207</SimpleData>
+		<SimpleData name="Longtitude">103.28393</SimpleData>
+		<SimpleData name="ISWM ID plot">SC3-1552</SimpleData>
+		<SimpleData name="Diversification">Conventional</SimpleData>
+		<SimpleData name="Cropping system">Conventional</SimpleData>
+		<SimpleData name="ISWM_WUG">SC3</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG4</SimpleData>
+		<SimpleData name="PlotID">SC3-1552</SimpleData>
+		<SimpleData name="ISWM_Surface">0,51</SimpleData>
+		<SimpleData name="ISWM_FARMERID">WK075</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC3-SG4</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.28392999999999802 12.91206999999999994)</SimpleData>
+		<SimpleData name="Nb_min">59</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>103.284180047899,12.9117209691392 103.28375176339,12.9115355262435 103.283727738344,12.9117803900859 103.283708975456,12.9122432806928 103.283680899558,12.9124979023644 103.28411611349,12.9126729559284 103.284180047899,12.9117209691392</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Agro_economic_assessment_Kanghot_1st_cycle_2022_polygons">
+		<SimpleData name="Nb">60</SimpleData>
+		<SimpleData name="ID">49</SimpleData>
+		<SimpleData name="Farmer name">Leck Oun 01</SimpleData>
+		<SimpleData name="Block">B</SimpleData>
+		<SimpleData name="Village">Wat Kandal</SimpleData>
+		<SimpleData name="Code of the plot">WD_Leck Oun 01</SimpleData>
+		<SimpleData name="Surface (ha)">1.2</SimpleData>
+		<SimpleData name="Contact">089 322 878</SimpleData>
+		<SimpleData name="Latitude">12.92851</SimpleData>
+		<SimpleData name="Longtitude">103.2851</SimpleData>
+		<SimpleData name="ISWM ID plot">SC3-3148</SimpleData>
+		<SimpleData name="Diversification">Mungbean</SimpleData>
+		<SimpleData name="Cropping system">Mungbean/Broadcast</SimpleData>
+		<SimpleData name="ISWM_WUG">SC3</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG1</SimpleData>
+		<SimpleData name="PlotID">SC3-3148</SimpleData>
+		<SimpleData name="ISWM_Surface">1,67</SimpleData>
+		<SimpleData name="ISWM_FARMERID">WK084</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC3-SG1</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.28509999999999991 12.92850999999999928)</SimpleData>
+		<SimpleData name="Nb_min">60</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>103.285844473591,12.9282160298764 103.285591776538,12.928191718911 103.285477065667,12.9281944093078 103.285342420866,12.9282027085379 103.285215009379,12.9281800600916 103.285052709058,12.9281250392542 103.284794657698,12.9280383939883 103.284522516167,12.9279585436844 103.284481803773,12.9281005283846 103.284444290534,12.9284523251228 103.284407641319,12.9287122000061 103.285097678568,12.9289974865842 103.285970327685,12.9293582681866 103.286171514667,12.9288497023311 103.285940989611,12.9288351198869 103.285844473591,12.9282160298764</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Agro_economic_assessment_Kanghot_1st_cycle_2022_polygons">
+		<SimpleData name="Nb">61</SimpleData>
+		<SimpleData name="ID">50</SimpleData>
+		<SimpleData name="Farmer name">Conv 08 (Leck Oun)</SimpleData>
+		<SimpleData name="Block">B</SimpleData>
+		<SimpleData name="Village">Wat Kandal</SimpleData>
+		<SimpleData name="Code of the plot">CT</SimpleData>
+		<SimpleData name="Surface (ha)">1.37</SimpleData>
+		<SimpleData name="Dei Meas">CT</SimpleData>
+		<SimpleData name="Contact">089 322 878</SimpleData>
+		<SimpleData name="Latitude">12.92968</SimpleData>
+		<SimpleData name="Longtitude">103.28523</SimpleData>
+		<SimpleData name="ISWM ID plot">SC5-3356</SimpleData>
+		<SimpleData name="Diversification">Conventional</SimpleData>
+		<SimpleData name="Cropping system">Conventional</SimpleData>
+		<SimpleData name="ISWM_WUG">SC5</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG2</SimpleData>
+		<SimpleData name="PlotID">SC5-3356</SimpleData>
+		<SimpleData name="ISWM_Surface">1,47</SimpleData>
+		<SimpleData name="ISWM_FARMERID">WK076</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC5-SG2</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.28522999999999854 12.9296799999999994)</SimpleData>
+		<SimpleData name="Nb_min">61</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>103.284578835169,12.928876388803 103.284573862364,12.9289698840458 103.284562281003,12.9290662371772 103.284534803078,12.9292053432633 103.284540699531,12.9292558925811 103.284586977614,12.9293342585419 103.284642628453,12.9294111554793 103.28465312242,12.9294739800001 103.284643049141,12.9295779961604 103.284626723869,12.9296835018476 103.284621268966,12.9297967320978 103.284627811533,12.9299778442174 103.28463570758,12.9299816688668 103.285129084075,12.9301701168121 103.285563239912,12.9303474604903 103.285570438164,12.9303504345816 103.285588835768,12.930309681933 103.285937251286,12.9294504958107 103.285451207074,12.9292484382145 103.284578835169,12.928876388803</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Agro_economic_assessment_Kanghot_1st_cycle_2022_polygons">
+		<SimpleData name="Nb">62</SimpleData>
+		<SimpleData name="ID">51</SimpleData>
+		<SimpleData name="Farmer name">Saom Sokhorm </SimpleData>
+		<SimpleData name="Block">E</SimpleData>
+		<SimpleData name="Village">Domnak Dangkor</SimpleData>
+		<SimpleData name="Code of the plot">DD_Saom Sokhom 01</SimpleData>
+		<SimpleData name="Surface (ha)">0.58</SimpleData>
+		<SimpleData name="Contact">098 676 576</SimpleData>
+		<SimpleData name="Latitude">12.98874</SimpleData>
+		<SimpleData name="Longtitude">103.26163</SimpleData>
+		<SimpleData name="Diversification">ShortCC</SimpleData>
+		<SimpleData name="Cropping system">Short cycle/Broadcast</SimpleData>
+		<SimpleData name="ISWM_WUG">SC9</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG3</SimpleData>
+		<SimpleData name="PlotID">SG3-6324</SimpleData>
+		<SimpleData name="ISWM_Surface">0,80</SimpleData>
+		<SimpleData name="ISWM_FARMERID">DK089</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC9-SG3</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.2616299999999967 12.98873999999999995)</SimpleData>
+		<SimpleData name="Nb_min">62</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>103.261998732181,12.9884141160369 103.261795073179,12.9884104580207 103.261213823179,12.9883331008302 103.261191451556,12.9885200669579 103.261197332738,12.9886842631246 103.261252194208,12.9892115391409 103.261702951501,12.9892007794047 103.262060016993,12.9891962799916 103.262033116254,12.9888563068235 103.262019176411,12.9886725415627 103.261998732181,12.9884141160369</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Agro_economic_assessment_Kanghot_1st_cycle_2022_polygons">
+		<SimpleData name="Nb">63</SimpleData>
+		<SimpleData name="ID">52</SimpleData>
+		<SimpleData name="Farmer name">Leck Oun 03</SimpleData>
+		<SimpleData name="Block">C</SimpleData>
+		<SimpleData name="Village">Wat Kandal</SimpleData>
+		<SimpleData name="Code of the plot">WD_Leck Oun 03</SimpleData>
+		<SimpleData name="Surface (ha)">0.36</SimpleData>
+		<SimpleData name="Contact">089 322 878</SimpleData>
+		<SimpleData name="Latitude">12.93513</SimpleData>
+		<SimpleData name="Longtitude">103.26565</SimpleData>
+		<SimpleData name="ISWM ID plot">SS4-3663</SimpleData>
+		<SimpleData name="Diversification">ShortCC</SimpleData>
+		<SimpleData name="Cropping system">Short cycle/Broadcast</SimpleData>
+		<SimpleData name="ISWM_WUG">SS4</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG2</SimpleData>
+		<SimpleData name="PlotID">SS4-3663</SimpleData>
+		<SimpleData name="ISWM_Surface">0,36</SimpleData>
+		<SimpleData name="ISWM_FARMERID">WK084</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SS4-SG2</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.26564999999999372 12.93512999999999913)</SimpleData>
+		<SimpleData name="Nb_min">63</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>103.265864835657,12.9343996929663 103.265671489586,12.9343747340448 103.265441741099,12.9357552864807 103.265499025027,12.9357849560997 103.265669493872,12.9357769305196 103.265864835657,12.9343996929663</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Agro_economic_assessment_Kanghot_1st_cycle_2022_polygons">
+		<SimpleData name="Nb">64</SimpleData>
+		<SimpleData name="ID">53</SimpleData>
+		<SimpleData name="Farmer name">Conv 09 (Eng Samnang)</SimpleData>
+		<SimpleData name="Block">E</SimpleData>
+		<SimpleData name="Village">Domnak Dangkor</SimpleData>
+		<SimpleData name="Code of the plot">CT</SimpleData>
+		<SimpleData name="Surface (ha)">0.79</SimpleData>
+		<SimpleData name="Dei Meas">CT</SimpleData>
+		<SimpleData name="Latitude">12.98806</SimpleData>
+		<SimpleData name="Longtitude">103.26134</SimpleData>
+		<SimpleData name="Diversification">Conventional</SimpleData>
+		<SimpleData name="Cropping system">Conventional</SimpleData>
+		<SimpleData name="ISWM_WUG">SC8</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG10</SimpleData>
+		<SimpleData name="PlotID">SG10-5545</SimpleData>
+		<SimpleData name="ISWM_Surface">0,79</SimpleData>
+		<SimpleData name="ISWM_FARMERID">DK087</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC8-SG10</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.26134000000000412 12.98806000000000083)</SimpleData>
+		<SimpleData name="Nb_min">64</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>103.261981131097,12.9878525262993 103.261789968991,12.9878474213079 103.261405853657,12.9878142399245 103.260984924253,12.9877444599076 103.260710406063,12.9876622663794 103.260610464276,12.9880059823571 103.260580148791,12.9881569261338 103.261242791541,12.9882570229517 103.261640377549,12.9883170802628 103.261833371151,12.9883394169088 103.261940671151,12.9883401345549 103.262013014446,12.9883176593732 103.261981131097,12.9878525262993</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Agro_economic_assessment_Kanghot_1st_cycle_2022_polygons">
+		<SimpleData name="Nb">65</SimpleData>
+		<SimpleData name="ID">54</SimpleData>
+		<SimpleData name="Farmer name">Ton Savoeuy </SimpleData>
+		<SimpleData name="Block">E</SimpleData>
+		<SimpleData name="Village">Reang Kessei</SimpleData>
+		<SimpleData name="Code of the plot">RK_Ton Savoeuy </SimpleData>
+		<SimpleData name="Surface (ha)">0.79</SimpleData>
+		<SimpleData name="Contact">092 503 360</SimpleData>
+		<SimpleData name="Latitude">12.98986</SimpleData>
+		<SimpleData name="Longtitude">103.26434</SimpleData>
+		<SimpleData name="Diversification">ShortCC</SimpleData>
+		<SimpleData name="Cropping system">Short cycle/Broadcast</SimpleData>
+		<SimpleData name="ISWM_WUG">SC9</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG4</SimpleData>
+		<SimpleData name="PlotID">SG4-6417</SimpleData>
+		<SimpleData name="ISWM_Surface">0,78</SimpleData>
+		<SimpleData name="ISWM_FARMERID">RK014</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC9-SG4</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.26434000000000424 12.98986000000000018)</SimpleData>
+		<SimpleData name="Nb_min">65</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>103.26503929715,12.9896008597154 103.264433642207,12.989581509222 103.264003537182,12.9895681133043 103.263695404701,12.9895497919534 103.263658122917,12.989720778869 103.263661891826,12.9897399365701 103.263706497167,12.9897784996567 103.263746424608,12.9897883327039 103.263774493653,12.9898200889076 103.263760893876,12.9900926364156 103.263862149226,12.9901210551201 103.263957631577,12.9901379557063 103.264093340504,12.9901216430885 103.264653634807,12.9900708578762 103.264887712669,12.9900772041675 103.264989082862,12.9898081123884 103.265041951237,12.9896400991222 103.26503929715,12.9896008597154</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Agro_economic_assessment_Kanghot_1st_cycle_2022_polygons">
+		<SimpleData name="Nb">66</SimpleData>
+		<SimpleData name="ID">55</SimpleData>
+		<SimpleData name="Farmer name">Conv 10 (Sorl Phoun)</SimpleData>
+		<SimpleData name="Block">E</SimpleData>
+		<SimpleData name="Village">Domnak Dangkor</SimpleData>
+		<SimpleData name="Code of the plot">CT</SimpleData>
+		<SimpleData name="Surface (ha)">0.49</SimpleData>
+		<SimpleData name="Dei Meas">CT</SimpleData>
+		<SimpleData name="Latitude">12.98989</SimpleData>
+		<SimpleData name="Longtitude">103.26537</SimpleData>
+		<SimpleData name="Diversification">Conventional</SimpleData>
+		<SimpleData name="Cropping system">Conventional</SimpleData>
+		<SimpleData name="ISWM_WUG">SC9</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG4</SimpleData>
+		<SimpleData name="PlotID">SG4-6418</SimpleData>
+		<SimpleData name="ISWM_Surface">0,45</SimpleData>
+		<SimpleData name="ISWM_FARMERID">DK080</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC9-SG4</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.26537000000000432 12.98989000000000082)</SimpleData>
+		<SimpleData name="Nb_min">66</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>103.26503929715,12.9896008597154 103.265041951237,12.9896400991223 103.264989082862,12.9898081123884 103.264887712669,12.9900772041676 103.264940088774,12.9901206020924 103.264987680568,12.990150575293 103.265034171191,12.9901406928587 103.265145897011,12.9901223062939 103.265304986361,12.9901386744345 103.265528819962,12.9901593011671 103.26563711623,12.9901852789753 103.265831472384,12.9897304564903 103.265652141408,12.9897070658866 103.265486862442,12.9896830036592 103.265321530398,12.9896665939889 103.265175803246,12.9896365396802 103.265091778412,12.9895992442435 103.26503929715,12.9896008597154</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Agro_economic_assessment_Kanghot_1st_cycle_2022_polygons">
+		<SimpleData name="Nb">67</SimpleData>
+		<SimpleData name="ID">56</SimpleData>
+		<SimpleData name="Farmer name">Eng Kong</SimpleData>
+		<SimpleData name="Block">E</SimpleData>
+		<SimpleData name="Village">Domnak Dangkor</SimpleData>
+		<SimpleData name="Code of the plot">DD_Eng Kong 02</SimpleData>
+		<SimpleData name="Surface (ha)">0.76</SimpleData>
+		<SimpleData name="Contact">070 933 736</SimpleData>
+		<SimpleData name="Latitude">12.98303</SimpleData>
+		<SimpleData name="Longtitude">103.26357</SimpleData>
+		<SimpleData name="Diversification">ShortCC</SimpleData>
+		<SimpleData name="Cropping system">Short cycle/Broadcast</SimpleData>
+		<SimpleData name="ISWM_WUG">SC8</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG11</SimpleData>
+		<SimpleData name="PlotID">SG11-5627</SimpleData>
+		<SimpleData name="ISWM_Surface">0,82</SimpleData>
+		<SimpleData name="ISWM_FARMERID">DK086</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC8-SG11</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.26357000000000141 12.9830299999999994)</SimpleData>
+		<SimpleData name="Nb_min">67</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>103.263976180353,12.9826888994032 103.263057818596,12.9826531169908 103.263056748266,12.9828493138415 103.263086947093,12.9832203038535 103.263151453406,12.9832023676016 103.263232155648,12.9832120903628 103.263262491913,12.9833948172852 103.263592451917,12.9834153886171 103.263782012957,12.9834258382957 103.264099288649,12.9834187734373 103.263976180353,12.9826888994032</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Agro_economic_assessment_Kanghot_1st_cycle_2022_polygons">
+		<SimpleData name="Nb">68</SimpleData>
+		<SimpleData name="ID">57</SimpleData>
+		<SimpleData name="Farmer name">Conv 11 (Sao Samuth)</SimpleData>
+		<SimpleData name="Block">E</SimpleData>
+		<SimpleData name="Village">Domnak Dangkor</SimpleData>
+		<SimpleData name="Code of the plot">CT</SimpleData>
+		<SimpleData name="Surface (ha)">0.78</SimpleData>
+		<SimpleData name="Dei Meas">CT</SimpleData>
+		<SimpleData name="Latitude">12.98316</SimpleData>
+		<SimpleData name="Longtitude">103.26448</SimpleData>
+		<SimpleData name="Diversification">Conventional</SimpleData>
+		<SimpleData name="Cropping system">Conventional</SimpleData>
+		<SimpleData name="ISWM_WUG">SC8</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG11</SimpleData>
+		<SimpleData name="PlotID">SG11-5626</SimpleData>
+		<SimpleData name="ISWM_Surface">0,81</SimpleData>
+		<SimpleData name="ISWM_FARMERID">DK081</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC8-SG11</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.26448000000000604 12.98315999999999981)</SimpleData>
+		<SimpleData name="Nb_min">68</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>103.264487891298,12.9827062895406 103.264434079219,12.9827013385037 103.264265715505,12.9826726636544 103.263976180353,12.9826888994032 103.264099288649,12.9834187734373 103.264450230675,12.9834521112662 103.264882974144,12.9835055098047 103.265010586981,12.9828279217041 103.264878975831,12.9827894763119 103.264765263425,12.9827562593235 103.264626146697,12.9827300758093 103.264487891298,12.9827062895406</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Agro_economic_assessment_Kanghot_1st_cycle_2022_polygons">
+		<SimpleData name="Nb">69</SimpleData>
+		<SimpleData name="ID">58</SimpleData>
+		<SimpleData name="Farmer name">Soeun Bunna</SimpleData>
+		<SimpleData name="Block">Os Touk</SimpleData>
+		<SimpleData name="Village">Os Tuk</SimpleData>
+		<SimpleData name="Code of the plot">OT_Soeun Bunna 01</SimpleData>
+		<SimpleData name="Surface (ha)">0.89</SimpleData>
+		<SimpleData name="Dei Meas">No</SimpleData>
+		<SimpleData name="Contact">093 522 423</SimpleData>
+		<SimpleData name="Latitude">12.96348</SimpleData>
+		<SimpleData name="Longtitude">103.34358</SimpleData>
+		<SimpleData name="Diversification">ShortCC</SimpleData>
+		<SimpleData name="Cropping system">Short cycle/Broadcast</SimpleData>
+		<SimpleData name="ISWM_WUG">0</SimpleData>
+		<SimpleData name="ISWM_WUSG">0</SimpleData>
+		<SimpleData name="PlotID">0</SimpleData>
+		<SimpleData name="ISWM_Surface">0</SimpleData>
+		<SimpleData name="ISWM_FARMERID">0</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">0</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.34358000000000288 12.96348000000000056)</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Agro_economic_assessment_Kanghot_1st_cycle_2022_polygons">
+		<SimpleData name="Nb">70</SimpleData>
+		<SimpleData name="ID">59</SimpleData>
+		<SimpleData name="Farmer name">Conv 12 (Turng Dos)</SimpleData>
+		<SimpleData name="Block">Os Touk</SimpleData>
+		<SimpleData name="Village">Os Tuk</SimpleData>
+		<SimpleData name="Code of the plot">CT</SimpleData>
+		<SimpleData name="Surface (ha)">0.92</SimpleData>
+		<SimpleData name="Dei Meas">CT</SimpleData>
+		<SimpleData name="Contact">096 231 3744</SimpleData>
+		<SimpleData name="Latitude">12.96385</SimpleData>
+		<SimpleData name="Longtitude">103.34339</SimpleData>
+		<SimpleData name="Diversification">Conventional</SimpleData>
+		<SimpleData name="Cropping system">Conventional</SimpleData>
+		<SimpleData name="ISWM_WUG">0</SimpleData>
+		<SimpleData name="ISWM_WUSG">0</SimpleData>
+		<SimpleData name="PlotID">0</SimpleData>
+		<SimpleData name="ISWM_Surface">0</SimpleData>
+		<SimpleData name="ISWM_FARMERID">0</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">0</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.34338999999999942 12.96385000000000076)</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Agro_economic_assessment_Kanghot_1st_cycle_2022_polygons">
+		<SimpleData name="Nb">71</SimpleData>
+		<SimpleData name="ID">60</SimpleData>
+		<SimpleData name="Farmer name">Yang Thy</SimpleData>
+		<SimpleData name="Block">Os Touk</SimpleData>
+		<SimpleData name="Village">Os Tuk</SimpleData>
+		<SimpleData name="Code of the plot">OT_Yang Thy 01</SimpleData>
+		<SimpleData name="Surface (ha)">0.7</SimpleData>
+		<SimpleData name="Dei Meas">No</SimpleData>
+		<SimpleData name="Contact">096 308 6055</SimpleData>
+		<SimpleData name="Latitude">12.96896</SimpleData>
+		<SimpleData name="Longtitude">103.34762</SimpleData>
+		<SimpleData name="Diversification">ShortCC</SimpleData>
+		<SimpleData name="Cropping system">Short cycle (Green sowing)</SimpleData>
+		<SimpleData name="ISWM_WUG">0</SimpleData>
+		<SimpleData name="ISWM_WUSG">0</SimpleData>
+		<SimpleData name="PlotID">0</SimpleData>
+		<SimpleData name="ISWM_Surface">0</SimpleData>
+		<SimpleData name="ISWM_FARMERID">0</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">0</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.34762000000000626 12.96895999999999916)</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Agro_economic_assessment_Kanghot_1st_cycle_2022_polygons">
+		<SimpleData name="Nb">72</SimpleData>
+		<SimpleData name="ID">61</SimpleData>
+		<SimpleData name="Farmer name">Conv 13 (Kim Koeun)</SimpleData>
+		<SimpleData name="Block">Os Touk</SimpleData>
+		<SimpleData name="Village">Os Tuk</SimpleData>
+		<SimpleData name="Code of the plot">CT</SimpleData>
+		<SimpleData name="Surface (ha)">1.13</SimpleData>
+		<SimpleData name="Dei Meas">CT</SimpleData>
+		<SimpleData name="Contact">098 551 047</SimpleData>
+		<SimpleData name="Latitude">12.96872</SimpleData>
+		<SimpleData name="Longtitude">103.3473</SimpleData>
+		<SimpleData name="Diversification">Conventional</SimpleData>
+		<SimpleData name="Cropping system">Conventional</SimpleData>
+		<SimpleData name="ISWM_WUG">0</SimpleData>
+		<SimpleData name="ISWM_WUSG">0</SimpleData>
+		<SimpleData name="PlotID">0</SimpleData>
+		<SimpleData name="ISWM_Surface">0</SimpleData>
+		<SimpleData name="ISWM_FARMERID">0</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">0</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.34730000000000416 12.96871999999999936)</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Agro_economic_assessment_Kanghot_1st_cycle_2022_polygons">
+		<SimpleData name="Nb">73</SimpleData>
+		<SimpleData name="ID">62</SimpleData>
+		<SimpleData name="Farmer name">Eak Rorm</SimpleData>
+		<SimpleData name="Block">D</SimpleData>
+		<SimpleData name="Village">Reang Kessei</SimpleData>
+		<SimpleData name="Code of the plot">RK_Eak Rorm 03</SimpleData>
+		<SimpleData name="Surface (ha)">0.85</SimpleData>
+		<SimpleData name="Contact">096 735 3145</SimpleData>
+		<SimpleData name="Latitude">12.95969</SimpleData>
+		<SimpleData name="Longtitude">103.2602</SimpleData>
+		<SimpleData name="ISWM ID plot">SC7-4822</SimpleData>
+		<SimpleData name="Diversification">ShortCC</SimpleData>
+		<SimpleData name="Cropping system">Short cycle/NTP</SimpleData>
+		<SimpleData name="ISWM_WUG">SC7</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG2</SimpleData>
+		<SimpleData name="PlotID">SC7-4822</SimpleData>
+		<SimpleData name="ISWM_Surface">0,84</SimpleData>
+		<SimpleData name="ISWM_FARMERID">RK136</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC7-SG2</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.26019999999999754 12.95969000000000015)</SimpleData>
+		<SimpleData name="Nb_min">73</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>103.260690227803,12.9594348661846 103.259725533852,12.9592178837747 103.259635420883,12.9599181659302 103.260267157123,12.9600439855063 103.260631774436,12.960116603677 103.260649115662,12.9600417042906 103.260690227803,12.9594348661846</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Agro_economic_assessment_Kanghot_1st_cycle_2022_polygons">
+		<SimpleData name="Nb">74</SimpleData>
+		<SimpleData name="ID">63</SimpleData>
+		<SimpleData name="Farmer name">Chenda Sakteka (Put Heng)</SimpleData>
+		<SimpleData name="Block">D</SimpleData>
+		<SimpleData name="Village">Reang Kessei</SimpleData>
+		<SimpleData name="Code of the plot">CT</SimpleData>
+		<SimpleData name="Surface (ha)">1.13</SimpleData>
+		<SimpleData name="Contact">096 209 3223</SimpleData>
+		<SimpleData name="Latitude">12.95991</SimpleData>
+		<SimpleData name="Longtitude">103.26292</SimpleData>
+		<SimpleData name="ISWM ID plot">SC7-4964</SimpleData>
+		<SimpleData name="Diversification">Conventional</SimpleData>
+		<SimpleData name="Cropping system">Conventional</SimpleData>
+		<SimpleData name="ISWM_WUG">SC7</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG3</SimpleData>
+		<SimpleData name="PlotID">SC7-4964</SimpleData>
+		<SimpleData name="ISWM_Surface">1,10</SimpleData>
+		<SimpleData name="ISWM_FARMERID">RL168</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC7-SG3</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.26291999999999405 12.95991000000000071)</SimpleData>
+		<SimpleData name="Nb_min">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>103.263535327204,12.960295981522 103.26358056238,12.95958129971 103.262262770748,12.9595487292619 103.26230267675,12.9602724034321 103.262480216159,12.9602697616152 103.263535327204,12.960295981522</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Agro_economic_assessment_Kanghot_1st_cycle_2022_polygons">
+		<SimpleData name="Nb">75</SimpleData>
+		<SimpleData name="ID">64</SimpleData>
+		<SimpleData name="Farmer name">Conv 14</SimpleData>
+		<SimpleData name="Block">D</SimpleData>
+		<SimpleData name="Village">Reang Kessei</SimpleData>
+		<SimpleData name="Code of the plot">CT</SimpleData>
+		<SimpleData name="Surface (ha)">0.46</SimpleData>
+		<SimpleData name="Dei Meas">CT</SimpleData>
+		<SimpleData name="Latitude">12.96022</SimpleData>
+		<SimpleData name="Longtitude">103.25983</SimpleData>
+		<SimpleData name="ISWM ID plot">SC7-4940</SimpleData>
+		<SimpleData name="Diversification">Conventional</SimpleData>
+		<SimpleData name="Cropping system">Conventional</SimpleData>
+		<SimpleData name="ISWM_WUG">SC7</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG2</SimpleData>
+		<SimpleData name="PlotID">SC7-4805</SimpleData>
+		<SimpleData name="ISWM_Surface">0,48</SimpleData>
+		<SimpleData name="ISWM_FARMERID">RK143</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC7-SG2</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.25982999999999379 12.96021999999999963)</SimpleData>
+		<SimpleData name="Nb_min">75</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>103.260267157123,12.9600439855063 103.259635420883,12.9599181659302 103.259492869046,12.9598897744086 103.259394804216,12.9603865643972 103.259907255561,12.9604867943075 103.260187829008,12.9605425328393 103.260267157123,12.9600439855063</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Agro_economic_assessment_Kanghot_1st_cycle_2022_polygons">
+		<SimpleData name="Nb">76</SimpleData>
+		<SimpleData name="ID">65</SimpleData>
+		<SimpleData name="Farmer name">Eak Rorm</SimpleData>
+		<SimpleData name="Block">D</SimpleData>
+		<SimpleData name="Village">Reang Kessei</SimpleData>
+		<SimpleData name="Code of the plot">RK_Eak Rorm 07</SimpleData>
+		<SimpleData name="Surface (ha)">0.52</SimpleData>
+		<SimpleData name="Contact">096 735 3145</SimpleData>
+		<SimpleData name="Latitude">12.95703</SimpleData>
+		<SimpleData name="Longtitude">103.26319</SimpleData>
+		<SimpleData name="ISWM ID plot">SC7-4939</SimpleData>
+		<SimpleData name="Diversification">ShortCC</SimpleData>
+		<SimpleData name="Cropping system">Short cycle/NTP/Silicon</SimpleData>
+		<SimpleData name="ISWM_WUG">SC7</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG3</SimpleData>
+		<SimpleData name="PlotID">SC7-4939</SimpleData>
+		<SimpleData name="ISWM_Surface">0,53</SimpleData>
+		<SimpleData name="ISWM_FARMERID">RK136</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC7-SG3</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.26318999999999448 12.9570299999999996)</SimpleData>
+		<SimpleData name="Nb_min">76</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>103.262878430959,12.9566558409583 103.262873858808,12.9569422518999 103.262861885862,12.9573177172612 103.263000610994,12.9573183232934 103.263517432133,12.9573370755522 103.263543220764,12.9566559326351 103.263399669456,12.9566562554909 103.262878430959,12.9566558409583</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Agro_economic_assessment_Kanghot_1st_cycle_2022_polygons">
+		<SimpleData name="Nb">77</SimpleData>
+		<SimpleData name="ID">66</SimpleData>
+		<SimpleData name="Farmer name">Conv 15 (Oeung Pov)</SimpleData>
+		<SimpleData name="Block">D</SimpleData>
+		<SimpleData name="Village">Reang Kessei</SimpleData>
+		<SimpleData name="Code of the plot">CT</SimpleData>
+		<SimpleData name="Surface (ha)">0.72</SimpleData>
+		<SimpleData name="Dei Meas">CT</SimpleData>
+		<SimpleData name="Latitude">12.957</SimpleData>
+		<SimpleData name="Longtitude">103.264</SimpleData>
+		<SimpleData name="ISWM ID plot">SC7-4805</SimpleData>
+		<SimpleData name="Diversification">Conventional</SimpleData>
+		<SimpleData name="Cropping system">Conventional</SimpleData>
+		<SimpleData name="ISWM_WUG">SC7</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG3</SimpleData>
+		<SimpleData name="PlotID">SC7-4940</SimpleData>
+		<SimpleData name="ISWM_Surface">0,78</SimpleData>
+		<SimpleData name="ISWM_FARMERID">RK023</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC7-SG3</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.26399999999999579 12.95700000000000074)</SimpleData>
+		<SimpleData name="Nb_min">77</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>103.263543220764,12.9566559326351 103.263517432133,12.9573370755522 103.264487326211,12.9573577223224 103.26450273197,12.9566972808543 103.26357133848,12.9566558693873 103.263543220764,12.9566559326351</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Agro_economic_assessment_Kanghot_1st_cycle_2022_polygons">
+		<SimpleData name="Nb">78</SimpleData>
+		<SimpleData name="ID">67</SimpleData>
+		<SimpleData name="Farmer name">Sorl Romphat</SimpleData>
+		<SimpleData name="Block">A</SimpleData>
+		<SimpleData name="Village">Wat Kandal</SimpleData>
+		<SimpleData name="Code of the plot">WD_Sorl Romphat 01</SimpleData>
+		<SimpleData name="Surface (ha)">1.05</SimpleData>
+		<SimpleData name="Contact">070 663 619</SimpleData>
+		<SimpleData name="Latitude">12.91624</SimpleData>
+		<SimpleData name="Longtitude">103.28199</SimpleData>
+		<SimpleData name="ISWM ID plot">SC3-1533</SimpleData>
+		<SimpleData name="Diversification">ShortCC</SimpleData>
+		<SimpleData name="Cropping system">Short cycle/NTP</SimpleData>
+		<SimpleData name="ISWM_WUG">SC3</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG4</SimpleData>
+		<SimpleData name="PlotID">SC3-1533</SimpleData>
+		<SimpleData name="ISWM_Surface">0,69</SimpleData>
+		<SimpleData name="ISWM_FARMERID">SC056</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC3-SG4</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.2819899999999933 12.91624000000000017)</SimpleData>
+		<SimpleData name="Nb_min">78</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>103.282474566504,12.9157098040938 103.281683994099,12.9155520790917 103.281659750447,12.9157659160331 103.28163172031,12.9160144577886 103.281594042233,12.9162956395867 103.282143846251,12.9164064644338 103.282319551196,12.9164166979469 103.282400102198,12.9160460515519 103.28242455242,12.9158931500199 103.282474566504,12.9157098040938</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Agro_economic_assessment_Kanghot_1st_cycle_2022_polygons">
+		<SimpleData name="Nb">79</SimpleData>
+		<SimpleData name="ID">68</SimpleData>
+		<SimpleData name="Farmer name">Conv 16 (Ny Vanneth)</SimpleData>
+		<SimpleData name="Block">A</SimpleData>
+		<SimpleData name="Village">Wat Kandal</SimpleData>
+		<SimpleData name="Code of the plot">CT</SimpleData>
+		<SimpleData name="Surface (ha)">0.45</SimpleData>
+		<SimpleData name="Dei Meas">CT</SimpleData>
+		<SimpleData name="Latitude">12.91649</SimpleData>
+		<SimpleData name="Longtitude">103.28252</SimpleData>
+		<SimpleData name="ISWM ID plot">SC3-1545</SimpleData>
+		<SimpleData name="Diversification">Conventional</SimpleData>
+		<SimpleData name="Cropping system">Conventional</SimpleData>
+		<SimpleData name="ISWM_WUG">SC3</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG4</SimpleData>
+		<SimpleData name="PlotID">SC3-1545</SimpleData>
+		<SimpleData name="ISWM_Surface">0,49</SimpleData>
+		<SimpleData name="ISWM_FARMERID">WK054</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC3-SG4</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.28252000000000521 12.91648999999999958)</SimpleData>
+		<SimpleData name="Nb_min">79</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>103.282849601527,12.9161292447667 103.282400102198,12.9160460515519 103.282319551196,12.916416697947 103.282259405774,12.9166554622561 103.282210933611,12.916886920711 103.282277030736,12.9169131594757 103.282484124648,12.9170054019528 103.282619544984,12.9170631410444 103.282660750739,12.9169354069657 103.282715482114,12.9166984235989 103.282849601527,12.9161292447667</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Agro_economic_assessment_Kanghot_1st_cycle_2022_polygons">
+		<SimpleData name="Nb">80</SimpleData>
+		<SimpleData name="ID">69</SimpleData>
+		<SimpleData name="Farmer name">Kong Seyha</SimpleData>
+		<SimpleData name="Block">A</SimpleData>
+		<SimpleData name="Village">Svay Cheat</SimpleData>
+		<SimpleData name="Code of the plot">SC_Kong Seyha 01</SimpleData>
+		<SimpleData name="Surface (ha)">1.1</SimpleData>
+		<SimpleData name="Dei Meas">No</SimpleData>
+		<SimpleData name="Contact">016 849 872</SimpleData>
+		<SimpleData name="Latitude">12.90307</SimpleData>
+		<SimpleData name="Longtitude">103.25623</SimpleData>
+		<SimpleData name="ISWM ID plot">SC3-1207</SimpleData>
+		<SimpleData name="Diversification">LongCC</SimpleData>
+		<SimpleData name="Cropping system">Long CC/Broadcast</SimpleData>
+		<SimpleData name="ISWM_WUG">SC3</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG1</SimpleData>
+		<SimpleData name="PlotID">SC3-1207</SimpleData>
+		<SimpleData name="ISWM_Surface">1,15</SimpleData>
+		<SimpleData name="ISWM_FARMERID">SC035</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC3-SG1</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.25623000000000218 12.9030699999999996)</SimpleData>
+		<SimpleData name="Nb_min">80</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>103.255822234262,12.9023798629738 103.255735650827,12.9033706677294 103.25632738337,12.9036166371666 103.25645277643,12.9036748710665 103.256586965544,12.9037302936799 103.256640258452,12.903638812708 103.256770189178,12.9032353712596 103.256825826126,12.9030345041401 103.256785149408,12.9029940545616 103.256711288344,12.9028873763745 103.256669447217,12.9028038707405 103.256669949578,12.9027313596623 103.256565111756,12.902714876302 103.256365212025,12.9026432312032 103.256362714199,12.9025815120221 103.256202147827,12.9025330881761 103.255822234262,12.9023798629738</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Agro_economic_assessment_Kanghot_1st_cycle_2022_polygons">
+		<SimpleData name="Nb">81</SimpleData>
+		<SimpleData name="ID">70</SimpleData>
+		<SimpleData name="Farmer name">Conv 17 (Kong Chantha)</SimpleData>
+		<SimpleData name="Block">A</SimpleData>
+		<SimpleData name="Village">Svay Cheat</SimpleData>
+		<SimpleData name="Code of the plot">CT</SimpleData>
+		<SimpleData name="Surface (ha)">0.31</SimpleData>
+		<SimpleData name="Dei Meas">CT</SimpleData>
+		<SimpleData name="Latitude">12.90354</SimpleData>
+		<SimpleData name="Longtitude">103.25697</SimpleData>
+		<SimpleData name="ISWM ID plot">SC3-1209</SimpleData>
+		<SimpleData name="Diversification">Conventional</SimpleData>
+		<SimpleData name="Cropping system">Conventional</SimpleData>
+		<SimpleData name="ISWM_WUG">SC3</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG1</SimpleData>
+		<SimpleData name="PlotID">SC3-1209</SimpleData>
+		<SimpleData name="ISWM_Surface">0,35</SimpleData>
+		<SimpleData name="ISWM_FARMERID">SC035</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC3-SG1</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.25696999999999548 12.90353999999999957)</SimpleData>
+		<SimpleData name="Nb_min">81</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>103.257282901641,12.9033561082823 103.257043316337,12.9033213611388 103.256770189178,12.9032353712595 103.256640258452,12.903638812708 103.256586965544,12.9037302936799 103.256683411457,12.903782225991 103.256939887803,12.9038867735131 103.257062359435,12.9039415298628 103.257196366576,12.9036009067425 103.257282901641,12.9033561082823</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Agro_economic_assessment_Kanghot_1st_cycle_2022_polygons">
+		<SimpleData name="Nb">82</SimpleData>
+		<SimpleData name="ID">71</SimpleData>
+		<SimpleData name="Farmer name">Yin Pheakey</SimpleData>
+		<SimpleData name="Block">B</SimpleData>
+		<SimpleData name="Village">Svay Cheat</SimpleData>
+		<SimpleData name="Code of the plot">SC_Sok Pheakdey 01</SimpleData>
+		<SimpleData name="Surface (ha)">0.75</SimpleData>
+		<SimpleData name="Dei Meas">No</SimpleData>
+		<SimpleData name="Contact">086 897 996</SimpleData>
+		<SimpleData name="Latitude">12.90683</SimpleData>
+		<SimpleData name="Longtitude">103.25772</SimpleData>
+		<SimpleData name="ISWM ID plot">SC4-1715</SimpleData>
+		<SimpleData name="Diversification">LongCC</SimpleData>
+		<SimpleData name="Cropping system">Long CC/Broadcast</SimpleData>
+		<SimpleData name="ISWM_WUG">SC4</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG1</SimpleData>
+		<SimpleData name="PlotID">SC4-1715</SimpleData>
+		<SimpleData name="ISWM_Surface">0,77</SimpleData>
+		<SimpleData name="ISWM_FARMERID">SC044</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC4-SG1</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.25772000000000617 12.90682999999999936)</SimpleData>
+		<SimpleData name="Nb_min">82</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>103.258246574958,12.9066443232604 103.257972391775,12.9065262658352 103.257510126783,12.9063194230054 103.257149271089,12.9069560120519 103.25726946365,12.9070261689521 103.257814398531,12.9073706003891 103.257843478745,12.9073959057098 103.258246574958,12.9066443232604</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Agro_economic_assessment_Kanghot_1st_cycle_2022_polygons">
+		<SimpleData name="Nb">83</SimpleData>
+		<SimpleData name="ID">72</SimpleData>
+		<SimpleData name="Farmer name">Conv 18 (Yin Borey)</SimpleData>
+		<SimpleData name="Block">B</SimpleData>
+		<SimpleData name="Village">Svay Cheat</SimpleData>
+		<SimpleData name="Code of the plot">CT</SimpleData>
+		<SimpleData name="Surface (ha)">0.7</SimpleData>
+		<SimpleData name="Dei Meas">CT</SimpleData>
+		<SimpleData name="Latitude">12.90752</SimpleData>
+		<SimpleData name="Longtitude">103.25723</SimpleData>
+		<SimpleData name="ISWM ID plot">SC4-1716</SimpleData>
+		<SimpleData name="Diversification">Conventional</SimpleData>
+		<SimpleData name="Cropping system">Conventional</SimpleData>
+		<SimpleData name="ISWM_WUG">SC4</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG1</SimpleData>
+		<SimpleData name="PlotID">SC4-1716</SimpleData>
+		<SimpleData name="ISWM_Surface">0,76</SimpleData>
+		<SimpleData name="ISWM_FARMERID">SC042</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC4-SG1</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.25723000000000695 12.90751999999999988)</SimpleData>
+		<SimpleData name="Nb_min">83</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>103.257814398531,12.9073706003891 103.25726946365,12.9070261689521 103.256767873798,12.9078983703543 103.257115528636,12.9081092336944 103.257286304937,12.9082328208116 103.257433587502,12.9079935191343 103.257814398531,12.9073706003891</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Agro_economic_assessment_Kanghot_1st_cycle_2022_polygons">
+		<SimpleData name="Nb">84</SimpleData>
+		<SimpleData name="ID">73</SimpleData>
+		<SimpleData name="Farmer name">Tong Channou</SimpleData>
+		<SimpleData name="Block">A</SimpleData>
+		<SimpleData name="Village">Svay Cheat</SimpleData>
+		<SimpleData name="Code of the plot">SC_Tong Channou 01</SimpleData>
+		<SimpleData name="Surface (ha)">0.45</SimpleData>
+		<SimpleData name="Dei Meas">No</SimpleData>
+		<SimpleData name="Contact">096 529 2929</SimpleData>
+		<SimpleData name="Latitude">12.9053</SimpleData>
+		<SimpleData name="Longtitude">103.25627</SimpleData>
+		<SimpleData name="ISWM ID plot">SC3-1216</SimpleData>
+		<SimpleData name="Diversification">LongCC</SimpleData>
+		<SimpleData name="Cropping system">Long CC/Broadcast</SimpleData>
+		<SimpleData name="ISWM_WUG">SC3</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG1</SimpleData>
+		<SimpleData name="PlotID">SC3-1216</SimpleData>
+		<SimpleData name="ISWM_Surface">0,49</SimpleData>
+		<SimpleData name="ISWM_FARMERID">SC010</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC3-SG1</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.25627000000000066 12.90530000000000044)</SimpleData>
+		<SimpleData name="Nb_min">84</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>103.256603859411,12.9053031032165 103.256108960607,12.9049511115294 103.255982323184,12.9048613003782 103.25584820416,12.9052177061788 103.255781603111,12.9054081870601 103.256513667749,12.905731627442 103.2566332933,12.9054884070625 103.256696994536,12.905372601521 103.256603859411,12.9053031032165</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Agro_economic_assessment_Kanghot_1st_cycle_2022_polygons">
+		<SimpleData name="Nb">85</SimpleData>
+		<SimpleData name="ID">74</SimpleData>
+		<SimpleData name="Farmer name">Conv 19 (Kea Phoert)</SimpleData>
+		<SimpleData name="Block">A</SimpleData>
+		<SimpleData name="Village">Svay Cheat</SimpleData>
+		<SimpleData name="Code of the plot">CT</SimpleData>
+		<SimpleData name="Surface (ha)">0.28</SimpleData>
+		<SimpleData name="Dei Meas">CT</SimpleData>
+		<SimpleData name="Latitude">12.90492</SimpleData>
+		<SimpleData name="Longtitude">103.25643</SimpleData>
+		<SimpleData name="ISWM ID plot">SC3-1217</SimpleData>
+		<SimpleData name="Diversification">Conventional</SimpleData>
+		<SimpleData name="Cropping system">Conventional</SimpleData>
+		<SimpleData name="ISWM_WUG">SC3</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG1</SimpleData>
+		<SimpleData name="PlotID">SC3-1217</SimpleData>
+		<SimpleData name="ISWM_Surface">0,33</SimpleData>
+		<SimpleData name="ISWM_FARMERID">SC020</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC3-SG1</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.25642999999999461 12.90492000000000061)</SimpleData>
+		<SimpleData name="Nb_min">85</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>103.256798653698,12.9048452205608 103.256563041404,12.9047423640497 103.256327905484,12.9046397152177 103.256197815289,12.9045829240859 103.256144970238,12.904820771997 103.256108960607,12.9049511115294 103.256603859411,12.9053031032165 103.256706207054,12.9050985889515 103.256798653698,12.9048452205608</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Agro_economic_assessment_Kanghot_1st_cycle_2022_polygons">
+		<SimpleData name="Nb">86</SimpleData>
+		<SimpleData name="ID">75</SimpleData>
+		<SimpleData name="Farmer name">Chork Yoeurm</SimpleData>
+		<SimpleData name="Block">B</SimpleData>
+		<SimpleData name="Village">Svay Cheat</SimpleData>
+		<SimpleData name="Code of the plot">SC_Chork Yoeurm 03</SimpleData>
+		<SimpleData name="Surface (ha)">0.63</SimpleData>
+		<SimpleData name="Dei Meas">YES</SimpleData>
+		<SimpleData name="Contact">096 205 3853</SimpleData>
+		<SimpleData name="Latitude">12.90648</SimpleData>
+		<SimpleData name="Longtitude">103.257</SimpleData>
+		<SimpleData name="ISWM ID plot">SC4-1714</SimpleData>
+		<SimpleData name="Diversification">LongCC</SimpleData>
+		<SimpleData name="Cropping system">Long CC/Broadcast</SimpleData>
+		<SimpleData name="ISWM_WUG">SC4</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG1</SimpleData>
+		<SimpleData name="PlotID">SC4-1714</SimpleData>
+		<SimpleData name="ISWM_Surface">0,61</SimpleData>
+		<SimpleData name="ISWM_FARMERID">SC016</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC4-SG1</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.257000000000005 12.90648000000000017)</SimpleData>
+		<SimpleData name="Nb_min">86</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>103.257510126783,12.9063194230054 103.25724032254,12.9062028290243 103.256837049407,12.9060253756463 103.256509304003,12.9066049666959 103.256805576398,12.9067719609282 103.257149271089,12.9069560120519 103.257510126783,12.9063194230054</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Agro_economic_assessment_Kanghot_1st_cycle_2022_polygons">
+		<SimpleData name="Nb">87</SimpleData>
+		<SimpleData name="ID">76</SimpleData>
+		<SimpleData name="Farmer name">Conv 28 (Tum Ban)</SimpleData>
+		<SimpleData name="Block">C</SimpleData>
+		<SimpleData name="Village">Wat Kandal</SimpleData>
+		<SimpleData name="Code of the plot">CT</SimpleData>
+		<SimpleData name="Surface (ha)">0.85</SimpleData>
+		<SimpleData name="Latitude">12.93545</SimpleData>
+		<SimpleData name="Longtitude">103.26502</SimpleData>
+		<SimpleData name="ISWM ID plot">SS4-3669</SimpleData>
+		<SimpleData name="Diversification">Conventional</SimpleData>
+		<SimpleData name="Cropping system">Conventional</SimpleData>
+		<SimpleData name="ISWM_WUG">SS4</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG2</SimpleData>
+		<SimpleData name="PlotID">SS4-3669</SimpleData>
+		<SimpleData name="ISWM_Surface">0,84</SimpleData>
+		<SimpleData name="ISWM_FARMERID">WK031</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SS4-SG2</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.26502000000000692 12.93544999999999945)</SimpleData>
+		<SimpleData name="Nb_min">87</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>103.265500563398,12.9350487831498 103.265306138008,12.9350382293869 103.265125152998,12.9350339646346 103.264788070046,12.9350370798538 103.264642937196,12.9350384103655 103.264600911641,12.9350312524879 103.264574426938,12.9352047270991 103.264554778015,12.9358751189408 103.264716182779,12.9358672083926 103.265390856071,12.9357878947954 103.265500563398,12.9350487831498</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Agro_economic_assessment_Kanghot_1st_cycle_2022_polygons">
+		<SimpleData name="Nb">88</SimpleData>
+		<SimpleData name="ID">77</SimpleData>
+		<SimpleData name="Farmer name">Conv 27 (Ra Sina)</SimpleData>
+		<SimpleData name="Block">C</SimpleData>
+		<SimpleData name="Village">Wat Kandal</SimpleData>
+		<SimpleData name="Code of the plot">CT</SimpleData>
+		<SimpleData name="Surface (ha)">1</SimpleData>
+		<SimpleData name="Contact">096 827 6509</SimpleData>
+		<SimpleData name="Latitude">12.92316</SimpleData>
+		<SimpleData name="Longtitude">103.2699</SimpleData>
+		<SimpleData name="ISWM ID plot">SC5-2523</SimpleData>
+		<SimpleData name="Diversification">Conventional</SimpleData>
+		<SimpleData name="Cropping system">Conventional</SimpleData>
+		<SimpleData name="ISWM_WUG">SC5</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG2</SimpleData>
+		<SimpleData name="PlotID">SC5-2523</SimpleData>
+		<SimpleData name="ISWM_Surface">1,12</SimpleData>
+		<SimpleData name="ISWM_FARMERID">WK016</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC5-SG2</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.26990000000000691 12.92315999999999931)</SimpleData>
+		<SimpleData name="Nb_min">88</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>103.270371590451,12.9226289022952 103.2702414287,12.9225885789171 103.269640509195,12.9224004454463 103.269335835098,12.923426975989 103.270262759367,12.9237177169316 103.270371590451,12.9226289022952</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Agro_economic_assessment_Kanghot_1st_cycle_2022_polygons">
+		<SimpleData name="Nb">89</SimpleData>
+		<SimpleData name="ID">78</SimpleData>
+		<SimpleData name="Farmer name">Conv 22 (Soeurng Soeum)</SimpleData>
+		<SimpleData name="Block">B</SimpleData>
+		<SimpleData name="Village">Wat Kandal</SimpleData>
+		<SimpleData name="Code of the plot">CT</SimpleData>
+		<SimpleData name="Surface (ha)">0.38</SimpleData>
+		<SimpleData name="Latitude">12.92375</SimpleData>
+		<SimpleData name="Longtitude">103.26388</SimpleData>
+		<SimpleData name="ISWM ID plot">SC5-2390</SimpleData>
+		<SimpleData name="Diversification">Conventional</SimpleData>
+		<SimpleData name="Cropping system">Conventional</SimpleData>
+		<SimpleData name="ISWM_WUG">SC5</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG1</SimpleData>
+		<SimpleData name="PlotID">SC5-2390</SimpleData>
+		<SimpleData name="ISWM_Surface">0,32</SimpleData>
+		<SimpleData name="ISWM_FARMERID">WK073</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC5-SG1</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.26388000000000034 12.92375000000000007)</SimpleData>
+		<SimpleData name="Nb_min">89</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>103.263608898495,12.9234735881298 103.263527832047,12.9238908233357 103.263983084594,12.9240926770278 103.264199646066,12.9236125339277 103.2641105828,12.9235558461359 103.263608898495,12.9234735881298</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Agro_economic_assessment_Kanghot_1st_cycle_2022_polygons">
+		<SimpleData name="Nb">90</SimpleData>
+		<SimpleData name="ID">79</SimpleData>
+		<SimpleData name="Farmer name">Conv 23 (Raen Rat)</SimpleData>
+		<SimpleData name="Block">B</SimpleData>
+		<SimpleData name="Village">Wat Kandal</SimpleData>
+		<SimpleData name="Code of the plot">CT</SimpleData>
+		<SimpleData name="Surface (ha)">0.7</SimpleData>
+		<SimpleData name="Contact">096 367 1937</SimpleData>
+		<SimpleData name="Latitude">12.92685</SimpleData>
+		<SimpleData name="Longtitude">103.26119</SimpleData>
+		<SimpleData name="Diversification">Conventional</SimpleData>
+		<SimpleData name="Cropping system">Conventional</SimpleData>
+		<SimpleData name="ISWM_WUG">SC5</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG1</SimpleData>
+		<SimpleData name="PlotID">SC5-2435</SimpleData>
+		<SimpleData name="ISWM_Surface">0,73</SimpleData>
+		<SimpleData name="ISWM_FARMERID">SC050</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC5-SG1</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.26118999999999915 12.92684999999999995)</SimpleData>
+		<SimpleData name="Nb_min">90</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>103.260577450698,12.9270030587558 103.260655282413,12.9270303630058 103.261206605309,12.9271277858352 103.2615943705,12.9271839398749 103.26170060988,12.9266824984641 103.261683122228,12.9266728157148 103.261083841918,12.9264121925035 103.260893336035,12.9263190869889 103.260577450698,12.9270030587558</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

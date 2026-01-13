@@ -1,0 +1,2309 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="AEA___Lowland_2022_kml" id="AEA___Lowland_2022_kml">
+	<SimpleField name="nbr" type="int"></SimpleField>
+	<SimpleField name="ID" type="int"></SimpleField>
+	<SimpleField name="Farmer name" type="string"></SimpleField>
+	<SimpleField name="Block" type="string"></SimpleField>
+	<SimpleField name="Village" type="string"></SimpleField>
+	<SimpleField name="Code of the plot" type="string"></SimpleField>
+	<SimpleField name="Surface (ha)" type="float"></SimpleField>
+	<SimpleField name="Dei Meas" type="string"></SimpleField>
+	<SimpleField name="Biofunctool" type="string"></SimpleField>
+	<SimpleField name="Contact" type="string"></SimpleField>
+	<SimpleField name="Latitude" type="float"></SimpleField>
+	<SimpleField name="Longtitude" type="float"></SimpleField>
+	<SimpleField name="ISWM ID plot" type="string"></SimpleField>
+	<SimpleField name="Diversification" type="string"></SimpleField>
+	<SimpleField name="Cropping system" type="string"></SimpleField>
+	<SimpleField name="ISWM_WUG" type="string"></SimpleField>
+	<SimpleField name="ISWM_WUSG" type="string"></SimpleField>
+	<SimpleField name="PlotID" type="string"></SimpleField>
+	<SimpleField name="ISWM_Surface" type="string"></SimpleField>
+	<SimpleField name="ISWM_FARMERID" type="string"></SimpleField>
+	<SimpleField name="ISWM_WUG-WUSG" type="string"></SimpleField>
+	<SimpleField name="wkt_geom" type="string"></SimpleField>
+</Schema>
+<Folder><name>AEA___Lowland_2022_kml</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AEA___Lowland_2022_kml">
+		<SimpleData name="nbr">1</SimpleData>
+		<SimpleData name="ID">1</SimpleData>
+		<SimpleData name="Farmer name">Sao Samuth</SimpleData>
+		<SimpleData name="Block">E</SimpleData>
+		<SimpleData name="Village">Domnak Dangkor</SimpleData>
+		<SimpleData name="Code of the plot">DD_Sao Samuth 02</SimpleData>
+		<SimpleData name="Surface (ha)">0.4</SimpleData>
+		<SimpleData name="Dei Meas">Yes</SimpleData>
+		<SimpleData name="Biofunctool">Yes</SimpleData>
+		<SimpleData name="Contact">096 540 2672</SimpleData>
+		<SimpleData name="Latitude">12.97561</SimpleData>
+		<SimpleData name="Longtitude">103.26437</SimpleData>
+		<SimpleData name="Diversification">LongCC</SimpleData>
+		<SimpleData name="Cropping system">Long CC/Broadcast</SimpleData>
+		<SimpleData name="ISWM_WUG">SC8</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG3</SimpleData>
+		<SimpleData name="PlotID">SG3-4929</SimpleData>
+		<SimpleData name="ISWM_Surface">0,40</SimpleData>
+		<SimpleData name="ISWM_FARMERID">DK081</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC8-SG3</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.26436999999999955 12.97560999999999964)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.26437,12.97561</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AEA___Lowland_2022_kml">
+		<SimpleData name="nbr">2</SimpleData>
+		<SimpleData name="ID">1</SimpleData>
+		<SimpleData name="Farmer name">Sao Samuth</SimpleData>
+		<SimpleData name="Block">E</SimpleData>
+		<SimpleData name="Village">Domnak Dangkor</SimpleData>
+		<SimpleData name="Code of the plot">DD_Sao Samuth 04</SimpleData>
+		<SimpleData name="Surface (ha)">0.7</SimpleData>
+		<SimpleData name="Dei Meas">Yes</SimpleData>
+		<SimpleData name="Biofunctool">Yes</SimpleData>
+		<SimpleData name="Contact">096 540 2672</SimpleData>
+		<SimpleData name="Latitude">12.97622</SimpleData>
+		<SimpleData name="Longtitude">103.26385</SimpleData>
+		<SimpleData name="Diversification">LongCC</SimpleData>
+		<SimpleData name="Cropping system">Long CC/Broadcast</SimpleData>
+		<SimpleData name="ISWM_WUG">SC8</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG3</SimpleData>
+		<SimpleData name="PlotID">SG3-4938</SimpleData>
+		<SimpleData name="ISWM_Surface">0,67</SimpleData>
+		<SimpleData name="ISWM_FARMERID">DK081</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC8-SG3</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.26385000000000502 12.97621999999999964)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.26385,12.97622</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AEA___Lowland_2022_kml">
+		<SimpleData name="nbr">3</SimpleData>
+		<SimpleData name="ID">1</SimpleData>
+		<SimpleData name="Farmer name">Sao Samuth</SimpleData>
+		<SimpleData name="Block">E</SimpleData>
+		<SimpleData name="Village">Domnak Dangkor</SimpleData>
+		<SimpleData name="Code of the plot">DD_Sao Samuth 08</SimpleData>
+		<SimpleData name="Surface (ha)">0.4</SimpleData>
+		<SimpleData name="Dei Meas">Yes</SimpleData>
+		<SimpleData name="Biofunctool">Yes</SimpleData>
+		<SimpleData name="Contact">096 540 2672</SimpleData>
+		<SimpleData name="Latitude">12.97574</SimpleData>
+		<SimpleData name="Longtitude">103.26577</SimpleData>
+		<SimpleData name="Diversification">LongCC</SimpleData>
+		<SimpleData name="Cropping system">Long CC/Broadcast</SimpleData>
+		<SimpleData name="ISWM_WUG">SC8</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG3</SimpleData>
+		<SimpleData name="PlotID">SG3-4926</SimpleData>
+		<SimpleData name="ISWM_Surface">0,38</SimpleData>
+		<SimpleData name="ISWM_FARMERID">DK037</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC8-SG3</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.26577000000000339 12.97574000000000005)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.26577,12.97574</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AEA___Lowland_2022_kml">
+		<SimpleData name="nbr">4</SimpleData>
+		<SimpleData name="ID">1</SimpleData>
+		<SimpleData name="Farmer name">Sao Samuth</SimpleData>
+		<SimpleData name="Block">E</SimpleData>
+		<SimpleData name="Village">Domnak Dangkor</SimpleData>
+		<SimpleData name="Code of the plot">DD_Sao Samuth 09</SimpleData>
+		<SimpleData name="Surface (ha)">0.35</SimpleData>
+		<SimpleData name="Dei Meas">Yes</SimpleData>
+		<SimpleData name="Biofunctool">Yes</SimpleData>
+		<SimpleData name="Contact">096 540 2672</SimpleData>
+		<SimpleData name="Latitude">12.97571</SimpleData>
+		<SimpleData name="Longtitude">103.26591</SimpleData>
+		<SimpleData name="Diversification">LongCC</SimpleData>
+		<SimpleData name="Cropping system">Long CC/Broadcast</SimpleData>
+		<SimpleData name="ISWM_WUG">SC8</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG3</SimpleData>
+		<SimpleData name="PlotID">SG3-4926</SimpleData>
+		<SimpleData name="ISWM_Surface">0,38</SimpleData>
+		<SimpleData name="ISWM_FARMERID">DK037</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC8-SG3</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.2659100000000052 12.97570999999999941)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.26591,12.97571</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AEA___Lowland_2022_kml">
+		<SimpleData name="nbr">5</SimpleData>
+		<SimpleData name="ID">2</SimpleData>
+		<SimpleData name="Farmer name">Seng Oeun</SimpleData>
+		<SimpleData name="Block">E</SimpleData>
+		<SimpleData name="Village">Domnak Dangkor</SimpleData>
+		<SimpleData name="Code of the plot">DD_Seng Oeun 01</SimpleData>
+		<SimpleData name="Surface (ha)">0.3</SimpleData>
+		<SimpleData name="Dei Meas">Yes</SimpleData>
+		<SimpleData name="Biofunctool">Yes</SimpleData>
+		<SimpleData name="Contact">096 672 2193</SimpleData>
+		<SimpleData name="Latitude">12.97848</SimpleData>
+		<SimpleData name="Longtitude">103.2715</SimpleData>
+		<SimpleData name="Diversification">LongCC</SimpleData>
+		<SimpleData name="Cropping system">Long CC/Broadcast</SimpleData>
+		<SimpleData name="ISWM_WUG">SC8</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG12</SimpleData>
+		<SimpleData name="PlotID">SG12-5690</SimpleData>
+		<SimpleData name="ISWM_Surface">0,23</SimpleData>
+		<SimpleData name="ISWM_FARMERID">DK032</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC8-SG12</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.27150000000000318 12.97847999999999935)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.2715,12.97848</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AEA___Lowland_2022_kml">
+		<SimpleData name="nbr">6</SimpleData>
+		<SimpleData name="ID">2</SimpleData>
+		<SimpleData name="Farmer name">Seng Oeun</SimpleData>
+		<SimpleData name="Block">E</SimpleData>
+		<SimpleData name="Village">Domnak Dangkor</SimpleData>
+		<SimpleData name="Code of the plot">DD_Seng Oeun 02</SimpleData>
+		<SimpleData name="Surface (ha)">0.5</SimpleData>
+		<SimpleData name="Dei Meas">Yes</SimpleData>
+		<SimpleData name="Biofunctool">Yes</SimpleData>
+		<SimpleData name="Contact">096 672 2193</SimpleData>
+		<SimpleData name="Latitude">12.97849</SimpleData>
+		<SimpleData name="Longtitude">103.27203</SimpleData>
+		<SimpleData name="Diversification">LongCC</SimpleData>
+		<SimpleData name="Cropping system">Long CC/Broadcast</SimpleData>
+		<SimpleData name="ISWM_WUG">SC8</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG12</SimpleData>
+		<SimpleData name="PlotID">SG12-5691</SimpleData>
+		<SimpleData name="ISWM_Surface">0,56</SimpleData>
+		<SimpleData name="ISWM_FARMERID">DK032</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC8-SG12</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.27203000000000088 12.97849000000000075)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.27203,12.97849</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AEA___Lowland_2022_kml">
+		<SimpleData name="nbr">7</SimpleData>
+		<SimpleData name="ID">3</SimpleData>
+		<SimpleData name="Farmer name">Naev Sombo</SimpleData>
+		<SimpleData name="Block">E</SimpleData>
+		<SimpleData name="Village">Domnak Dangkor</SimpleData>
+		<SimpleData name="Code of the plot">DD_Naev Sombo 13</SimpleData>
+		<SimpleData name="Surface (ha)">1</SimpleData>
+		<SimpleData name="Dei Meas">Yes</SimpleData>
+		<SimpleData name="Biofunctool">Yes</SimpleData>
+		<SimpleData name="Contact">069 848 954</SimpleData>
+		<SimpleData name="Latitude">12.9759</SimpleData>
+		<SimpleData name="Longtitude">103.27279</SimpleData>
+		<SimpleData name="Diversification">LongCC</SimpleData>
+		<SimpleData name="Cropping system">Long CC/Broadcast</SimpleData>
+		<SimpleData name="ISWM_WUG">SC8</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG5</SimpleData>
+		<SimpleData name="PlotID">SG5-5126</SimpleData>
+		<SimpleData name="ISWM_Surface">1,10</SimpleData>
+		<SimpleData name="ISWM_FARMERID">RL039</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC8-SG5</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.27279000000000053 12.97589999999999932)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.27279,12.9759</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AEA___Lowland_2022_kml">
+		<SimpleData name="nbr">8</SimpleData>
+		<SimpleData name="ID">4</SimpleData>
+		<SimpleData name="Farmer name">CT 01 (Hann Jane)</SimpleData>
+		<SimpleData name="Block">E</SimpleData>
+		<SimpleData name="Village">Domnak Dangkor</SimpleData>
+		<SimpleData name="Code of the plot">CT</SimpleData>
+		<SimpleData name="Surface (ha)">0.7</SimpleData>
+		<SimpleData name="Dei Meas">CT</SimpleData>
+		<SimpleData name="Biofunctool">Yes</SimpleData>
+		<SimpleData name="Contact">071 469 2048</SimpleData>
+		<SimpleData name="Latitude">12.97542</SimpleData>
+		<SimpleData name="Longtitude">103.26365</SimpleData>
+		<SimpleData name="Diversification">Conventional</SimpleData>
+		<SimpleData name="Cropping system">Conventional</SimpleData>
+		<SimpleData name="ISWM_WUG">SC8</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG3</SimpleData>
+		<SimpleData name="PlotID">SG3-4931</SimpleData>
+		<SimpleData name="ISWM_Surface">0,37</SimpleData>
+		<SimpleData name="ISWM_FARMERID">OV003</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC8-SG3</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.26364999999999839 12.97541999999999973)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.26365,12.97542</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AEA___Lowland_2022_kml">
+		<SimpleData name="nbr">9</SimpleData>
+		<SimpleData name="ID">5</SimpleData>
+		<SimpleData name="Farmer name">CT 02 (Chab Theung)</SimpleData>
+		<SimpleData name="Block">E</SimpleData>
+		<SimpleData name="Village">Domnak Dangkor</SimpleData>
+		<SimpleData name="Code of the plot">CT</SimpleData>
+		<SimpleData name="Surface (ha)">0.3</SimpleData>
+		<SimpleData name="Dei Meas">CT</SimpleData>
+		<SimpleData name="Biofunctool">Yes</SimpleData>
+		<SimpleData name="Latitude">12.97667</SimpleData>
+		<SimpleData name="Longtitude">103.26358</SimpleData>
+		<SimpleData name="Diversification">Conventional</SimpleData>
+		<SimpleData name="Cropping system">Conventional</SimpleData>
+		<SimpleData name="ISWM_WUG">SC8</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG3</SimpleData>
+		<SimpleData name="PlotID">SG3-4936</SimpleData>
+		<SimpleData name="ISWM_Surface">0,37</SimpleData>
+		<SimpleData name="ISWM_FARMERID">DK020</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC8-SG3</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.26358000000000459 12.97667000000000037)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.26358,12.97667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AEA___Lowland_2022_kml">
+		<SimpleData name="nbr">10</SimpleData>
+		<SimpleData name="ID">6</SimpleData>
+		<SimpleData name="Farmer name">CT 03 (Seng Oeun)</SimpleData>
+		<SimpleData name="Block">E</SimpleData>
+		<SimpleData name="Village">Domnak Dangkor</SimpleData>
+		<SimpleData name="Code of the plot">CT</SimpleData>
+		<SimpleData name="Surface (ha)">0.36</SimpleData>
+		<SimpleData name="Dei Meas">CT</SimpleData>
+		<SimpleData name="Biofunctool">Yes</SimpleData>
+		<SimpleData name="Contact">096 672 2193</SimpleData>
+		<SimpleData name="Latitude">12.9784</SimpleData>
+		<SimpleData name="Longtitude">103.27286</SimpleData>
+		<SimpleData name="Diversification">Conventional</SimpleData>
+		<SimpleData name="Cropping system">Conventional</SimpleData>
+		<SimpleData name="ISWM_WUG">SC8</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG12</SimpleData>
+		<SimpleData name="PlotID">SG12-5695</SimpleData>
+		<SimpleData name="ISWM_Surface">0,37</SimpleData>
+		<SimpleData name="ISWM_FARMERID">DK032</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC8-SG12</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.27285999999999433 12.9784000000000006)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.27286,12.9784</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AEA___Lowland_2022_kml">
+		<SimpleData name="nbr">11</SimpleData>
+		<SimpleData name="ID">7</SimpleData>
+		<SimpleData name="Farmer name">CT 04 (Theang Hak)</SimpleData>
+		<SimpleData name="Block">E</SimpleData>
+		<SimpleData name="Village">Domnak Dangkor</SimpleData>
+		<SimpleData name="Code of the plot">CT</SimpleData>
+		<SimpleData name="Surface (ha)">1.1</SimpleData>
+		<SimpleData name="Dei Meas">CT</SimpleData>
+		<SimpleData name="Biofunctool">Yes</SimpleData>
+		<SimpleData name="Latitude">12.9746</SimpleData>
+		<SimpleData name="Longtitude">103.27317</SimpleData>
+		<SimpleData name="Diversification">Conventional</SimpleData>
+		<SimpleData name="Cropping system">Conventional</SimpleData>
+		<SimpleData name="ISWM_WUG">SC8</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG5</SimpleData>
+		<SimpleData name="PlotID">SG5-5124</SimpleData>
+		<SimpleData name="ISWM_Surface">1,29</SimpleData>
+		<SimpleData name="ISWM_FARMERID">RL108</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC8-SG5</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.27316999999999325 12.97460000000000058)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.27317,12.9746</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AEA___Lowland_2022_kml">
+		<SimpleData name="nbr">12</SimpleData>
+		<SimpleData name="ID">8</SimpleData>
+		<SimpleData name="Farmer name">CT 12 plough (Mao Saron)</SimpleData>
+		<SimpleData name="Block">E</SimpleData>
+		<SimpleData name="Village">Domnak Dangkor</SimpleData>
+		<SimpleData name="Code of the plot">CT</SimpleData>
+		<SimpleData name="Surface (ha)">0.46</SimpleData>
+		<SimpleData name="Dei Meas">CT</SimpleData>
+		<SimpleData name="Biofunctool">Yes</SimpleData>
+		<SimpleData name="Contact">089 320 202</SimpleData>
+		<SimpleData name="Latitude">12.97703</SimpleData>
+		<SimpleData name="Longtitude">103.26641</SimpleData>
+		<SimpleData name="Diversification">Conventional</SimpleData>
+		<SimpleData name="Cropping system">Conventional</SimpleData>
+		<SimpleData name="ISWM_WUG">SC8</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG3</SimpleData>
+		<SimpleData name="PlotID">SG3-4945</SimpleData>
+		<SimpleData name="ISWM_Surface">0,49</SimpleData>
+		<SimpleData name="ISWM_FARMERID">DK050</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC8-SG3</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.26640999999999337 12.97702999999999918)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.26641,12.97703</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AEA___Lowland_2022_kml">
+		<SimpleData name="nbr">13</SimpleData>
+		<SimpleData name="ID">9</SimpleData>
+		<SimpleData name="Farmer name">CT 13 (Chab Theung)</SimpleData>
+		<SimpleData name="Block">E</SimpleData>
+		<SimpleData name="Village">Domnak Dangkor</SimpleData>
+		<SimpleData name="Code of the plot">CT</SimpleData>
+		<SimpleData name="Surface (ha)">0.38</SimpleData>
+		<SimpleData name="Dei Meas">CT</SimpleData>
+		<SimpleData name="Biofunctool">Yes</SimpleData>
+		<SimpleData name="Latitude">12.97688</SimpleData>
+		<SimpleData name="Longtitude">103.2651</SimpleData>
+		<SimpleData name="Diversification">Conventional</SimpleData>
+		<SimpleData name="Cropping system">Conventional</SimpleData>
+		<SimpleData name="ISWM_WUG">SC8</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG3</SimpleData>
+		<SimpleData name="PlotID">SG3-4941</SimpleData>
+		<SimpleData name="ISWM_Surface">0,40</SimpleData>
+		<SimpleData name="ISWM_FARMERID">DK020</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC8-SG3</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.26510000000000389 12.97687999999999953)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.2651,12.97688</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AEA___Lowland_2022_kml">
+		<SimpleData name="nbr">14</SimpleData>
+		<SimpleData name="ID">10</SimpleData>
+		<SimpleData name="Farmer name">Put Khenh</SimpleData>
+		<SimpleData name="Block">B</SimpleData>
+		<SimpleData name="Village">Wat Kandal</SimpleData>
+		<SimpleData name="Code of the plot">WD_Put Khenh04</SimpleData>
+		<SimpleData name="Surface (ha)">0.35</SimpleData>
+		<SimpleData name="Dei Meas">Yes</SimpleData>
+		<SimpleData name="Biofunctool">Yes</SimpleData>
+		<SimpleData name="Contact">098 876 820</SimpleData>
+		<SimpleData name="Latitude">12.92892</SimpleData>
+		<SimpleData name="Longtitude">103.26356</SimpleData>
+		<SimpleData name="ISWM ID plot">SC5-2473</SimpleData>
+		<SimpleData name="Diversification">LongCC</SimpleData>
+		<SimpleData name="Cropping system">Long CC/Broadcast</SimpleData>
+		<SimpleData name="ISWM_WUG">SC5</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG1</SimpleData>
+		<SimpleData name="PlotID">SC5-2473</SimpleData>
+		<SimpleData name="ISWM_Surface">0,35</SimpleData>
+		<SimpleData name="ISWM_FARMERID">WK093</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC5-SG1</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.26355999999999824 12.92891999999999975)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.26356,12.92892</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AEA___Lowland_2022_kml">
+		<SimpleData name="nbr">15</SimpleData>
+		<SimpleData name="ID">10</SimpleData>
+		<SimpleData name="Farmer name">Put Khenh</SimpleData>
+		<SimpleData name="Block">B</SimpleData>
+		<SimpleData name="Village">Wat Kandal</SimpleData>
+		<SimpleData name="Code of the plot">WD_Put Khenh03</SimpleData>
+		<SimpleData name="Surface (ha)">1</SimpleData>
+		<SimpleData name="Dei Meas">Yes</SimpleData>
+		<SimpleData name="Biofunctool">Yes</SimpleData>
+		<SimpleData name="Contact">098 876 820</SimpleData>
+		<SimpleData name="Latitude">12.92793</SimpleData>
+		<SimpleData name="Longtitude">103.26181</SimpleData>
+		<SimpleData name="ISWM ID plot">SC5-2437</SimpleData>
+		<SimpleData name="Diversification">LongCC</SimpleData>
+		<SimpleData name="Cropping system">Long CC/Broadcast</SimpleData>
+		<SimpleData name="ISWM_WUG">SC5</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG1</SimpleData>
+		<SimpleData name="PlotID">SC5-2437</SimpleData>
+		<SimpleData name="ISWM_Surface">0,98</SimpleData>
+		<SimpleData name="ISWM_FARMERID">WK212</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC5-SG1</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.26180999999999699 12.92792999999999992)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.26181,12.92793</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AEA___Lowland_2022_kml">
+		<SimpleData name="nbr">16</SimpleData>
+		<SimpleData name="ID">10</SimpleData>
+		<SimpleData name="Farmer name">Put Khenh</SimpleData>
+		<SimpleData name="Block">B</SimpleData>
+		<SimpleData name="Village">Wat Kandal</SimpleData>
+		<SimpleData name="Code of the plot">WD_Put Khenh01</SimpleData>
+		<SimpleData name="Surface (ha)">1.1</SimpleData>
+		<SimpleData name="Dei Meas">Yes</SimpleData>
+		<SimpleData name="Biofunctool">Yes</SimpleData>
+		<SimpleData name="Contact">098 876 820</SimpleData>
+		<SimpleData name="Latitude">12.92758</SimpleData>
+		<SimpleData name="Longtitude">103.26068</SimpleData>
+		<SimpleData name="ISWM ID plot">SC5-2439</SimpleData>
+		<SimpleData name="Diversification">LongCC</SimpleData>
+		<SimpleData name="Cropping system">Long CC/Broadcast</SimpleData>
+		<SimpleData name="ISWM_WUG">SC5</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG1</SimpleData>
+		<SimpleData name="PlotID">SC5-2439</SimpleData>
+		<SimpleData name="ISWM_Surface">1,08</SimpleData>
+		<SimpleData name="ISWM_FARMERID">WK212</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC5-SG1</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.26067999999999358 12.92758000000000074)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.26068,12.92758</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AEA___Lowland_2022_kml">
+		<SimpleData name="nbr">17</SimpleData>
+		<SimpleData name="ID">10</SimpleData>
+		<SimpleData name="Farmer name">Put Khenh</SimpleData>
+		<SimpleData name="Block">B</SimpleData>
+		<SimpleData name="Village">Wat Kandal</SimpleData>
+		<SimpleData name="Code of the plot">WD_Put Khenh07</SimpleData>
+		<SimpleData name="Surface (ha)">0.7</SimpleData>
+		<SimpleData name="Dei Meas">Yes</SimpleData>
+		<SimpleData name="Biofunctool">Yes</SimpleData>
+		<SimpleData name="Contact">098 876 820</SimpleData>
+		<SimpleData name="Latitude">12.92523</SimpleData>
+		<SimpleData name="Longtitude">103.26392</SimpleData>
+		<SimpleData name="ISWM ID plot">SC5-2488</SimpleData>
+		<SimpleData name="Diversification">LongCC</SimpleData>
+		<SimpleData name="Cropping system">Long CC/Broadcast</SimpleData>
+		<SimpleData name="ISWM_WUG">SC5</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG1</SimpleData>
+		<SimpleData name="PlotID">SC5-2488</SimpleData>
+		<SimpleData name="ISWM_Surface">0,77</SimpleData>
+		<SimpleData name="ISWM_FARMERID">WK093</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC5-SG1</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.26391999999999882 12.92523000000000089)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.26392,12.92523</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AEA___Lowland_2022_kml">
+		<SimpleData name="nbr">18</SimpleData>
+		<SimpleData name="ID">11</SimpleData>
+		<SimpleData name="Farmer name">Sim Kuy</SimpleData>
+		<SimpleData name="Block">B</SimpleData>
+		<SimpleData name="Village">Wat Kandal</SimpleData>
+		<SimpleData name="Code of the plot">WD_Sim Kuy 01</SimpleData>
+		<SimpleData name="Surface (ha)">1.6</SimpleData>
+		<SimpleData name="Dei Meas">Yes</SimpleData>
+		<SimpleData name="Biofunctool">Yes</SimpleData>
+		<SimpleData name="Contact">081 662 289</SimpleData>
+		<SimpleData name="Latitude">12.92701</SimpleData>
+		<SimpleData name="Longtitude">103.26019</SimpleData>
+		<SimpleData name="ISWM ID plot">SC5-2434</SimpleData>
+		<SimpleData name="Diversification">LongCC</SimpleData>
+		<SimpleData name="Cropping system">Long CC/Broadcast</SimpleData>
+		<SimpleData name="ISWM_WUG">SC5</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG1</SimpleData>
+		<SimpleData name="PlotID">SC5-2434</SimpleData>
+		<SimpleData name="ISWM_Surface">1,63</SimpleData>
+		<SimpleData name="ISWM_FARMERID">WK143</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC5-SG1</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.26018999999999437 12.92700999999999922)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.26019,12.92701</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AEA___Lowland_2022_kml">
+		<SimpleData name="nbr">19</SimpleData>
+		<SimpleData name="ID">12</SimpleData>
+		<SimpleData name="Farmer name">Tep Thing</SimpleData>
+		<SimpleData name="Block">B</SimpleData>
+		<SimpleData name="Village">Wat Kandal</SimpleData>
+		<SimpleData name="Code of the plot">WD_Tep Thing 02</SimpleData>
+		<SimpleData name="Surface (ha)">1.55</SimpleData>
+		<SimpleData name="Dei Meas">Can't find</SimpleData>
+		<SimpleData name="Biofunctool">Yes</SimpleData>
+		<SimpleData name="Contact">081 662 289</SimpleData>
+		<SimpleData name="Latitude">12.92454</SimpleData>
+		<SimpleData name="Longtitude">103.26315</SimpleData>
+		<SimpleData name="ISWM ID plot">SC5-2391</SimpleData>
+		<SimpleData name="Diversification">LongCC</SimpleData>
+		<SimpleData name="Cropping system">Long CC/Broadcast</SimpleData>
+		<SimpleData name="ISWM_WUG">SC5</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG1</SimpleData>
+		<SimpleData name="PlotID">SC5-2391</SimpleData>
+		<SimpleData name="ISWM_Surface">1,56</SimpleData>
+		<SimpleData name="ISWM_FARMERID">WK203</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC5-SG1</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.263149999999996 12.92454000000000036)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.26315,12.92454</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AEA___Lowland_2022_kml">
+		<SimpleData name="nbr">20</SimpleData>
+		<SimpleData name="ID">12</SimpleData>
+		<SimpleData name="Farmer name">Tep Thing</SimpleData>
+		<SimpleData name="Block">B</SimpleData>
+		<SimpleData name="Village">Wat Kandal</SimpleData>
+		<SimpleData name="Code of the plot">WD_Tep Thing 01</SimpleData>
+		<SimpleData name="Surface (ha)">1.3</SimpleData>
+		<SimpleData name="Dei Meas">Can't find</SimpleData>
+		<SimpleData name="Biofunctool">Yes</SimpleData>
+		<SimpleData name="Contact">081 662 289</SimpleData>
+		<SimpleData name="Latitude">12.9243</SimpleData>
+		<SimpleData name="Longtitude">103.26242</SimpleData>
+		<SimpleData name="ISWM ID plot">SC5-2392</SimpleData>
+		<SimpleData name="Diversification">LongCC</SimpleData>
+		<SimpleData name="Cropping system">Long CC/Broadcast</SimpleData>
+		<SimpleData name="ISWM_WUG">SC5</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG1</SimpleData>
+		<SimpleData name="PlotID">SC5-2392</SimpleData>
+		<SimpleData name="ISWM_Surface">1,61</SimpleData>
+		<SimpleData name="ISWM_FARMERID">WK203</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC5-SG1</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.26242000000000587 12.92430000000000057)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.26242,12.9243</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AEA___Lowland_2022_kml">
+		<SimpleData name="nbr">21</SimpleData>
+		<SimpleData name="ID">13</SimpleData>
+		<SimpleData name="Farmer name">CT 07 (Eang Neang)</SimpleData>
+		<SimpleData name="Block">B</SimpleData>
+		<SimpleData name="Village">Wat Kandal</SimpleData>
+		<SimpleData name="Code of the plot">CT</SimpleData>
+		<SimpleData name="Surface (ha)">1</SimpleData>
+		<SimpleData name="Dei Meas">CT</SimpleData>
+		<SimpleData name="Biofunctool">Yes</SimpleData>
+		<SimpleData name="Contact">093 350 964</SimpleData>
+		<SimpleData name="Latitude">12.92781</SimpleData>
+		<SimpleData name="Longtitude">103.26269</SimpleData>
+		<SimpleData name="ISWM ID plot">SC5-2470</SimpleData>
+		<SimpleData name="Diversification">Conventional</SimpleData>
+		<SimpleData name="Cropping system">Conventional</SimpleData>
+		<SimpleData name="ISWM_WUG">SC5</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG1</SimpleData>
+		<SimpleData name="PlotID">SC5-2470</SimpleData>
+		<SimpleData name="ISWM_Surface">1,06</SimpleData>
+		<SimpleData name="ISWM_FARMERID">WK184</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC5-SG1</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.26269000000000631 12.92780999999999914)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.26269,12.92781</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AEA___Lowland_2022_kml">
+		<SimpleData name="nbr">22</SimpleData>
+		<SimpleData name="ID">14</SimpleData>
+		<SimpleData name="Farmer name">CT 08 plough (Rong Tha)</SimpleData>
+		<SimpleData name="Block">B</SimpleData>
+		<SimpleData name="Village">Wat Kandal</SimpleData>
+		<SimpleData name="Code of the plot">CT</SimpleData>
+		<SimpleData name="Surface (ha)">0.93</SimpleData>
+		<SimpleData name="Dei Meas">CT</SimpleData>
+		<SimpleData name="Biofunctool">Yes</SimpleData>
+		<SimpleData name="Latitude">12.92653</SimpleData>
+		<SimpleData name="Longtitude">103.2623</SimpleData>
+		<SimpleData name="ISWM ID plot">SC5-2401</SimpleData>
+		<SimpleData name="Diversification">Conventional</SimpleData>
+		<SimpleData name="Cropping system">Conventional</SimpleData>
+		<SimpleData name="ISWM_WUG">SC5</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG1</SimpleData>
+		<SimpleData name="PlotID">SC5-2401</SimpleData>
+		<SimpleData name="ISWM_Surface">1,02</SimpleData>
+		<SimpleData name="ISWM_FARMERID">SC029</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC5-SG1</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.2622999999999962 12.92652999999999963)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.2623,12.92653</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AEA___Lowland_2022_kml">
+		<SimpleData name="nbr">23</SimpleData>
+		<SimpleData name="ID">15</SimpleData>
+		<SimpleData name="Farmer name">CT 11(Thy Leang)</SimpleData>
+		<SimpleData name="Block">B</SimpleData>
+		<SimpleData name="Village">Wat Kandal</SimpleData>
+		<SimpleData name="Code of the plot">CT</SimpleData>
+		<SimpleData name="Surface (ha)">0.78</SimpleData>
+		<SimpleData name="Dei Meas">CT</SimpleData>
+		<SimpleData name="Biofunctool">Yes</SimpleData>
+		<SimpleData name="Latitude">12.92727</SimpleData>
+		<SimpleData name="Longtitude">103.2594</SimpleData>
+		<SimpleData name="ISWM ID plot">SC5-2432</SimpleData>
+		<SimpleData name="Diversification">Conventional</SimpleData>
+		<SimpleData name="Cropping system">Conventional</SimpleData>
+		<SimpleData name="ISWM_WUG">SC5</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG1</SimpleData>
+		<SimpleData name="PlotID">SC5-2432</SimpleData>
+		<SimpleData name="ISWM_Surface">0,79</SimpleData>
+		<SimpleData name="ISWM_FARMERID">SC034</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC5-SG1</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.25939999999999941 12.92727000000000004)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.2594,12.92727</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AEA___Lowland_2022_kml">
+		<SimpleData name="nbr">24</SimpleData>
+		<SimpleData name="ID">16</SimpleData>
+		<SimpleData name="Farmer name">CT 14 (Nary Roth)</SimpleData>
+		<SimpleData name="Block">B</SimpleData>
+		<SimpleData name="Village">Wat Kandal</SimpleData>
+		<SimpleData name="Code of the plot">CT</SimpleData>
+		<SimpleData name="Surface (ha)">0.23</SimpleData>
+		<SimpleData name="Dei Meas">CT</SimpleData>
+		<SimpleData name="Biofunctool">Yes</SimpleData>
+		<SimpleData name="Latitude">12.92435</SimpleData>
+		<SimpleData name="Longtitude">103.26158</SimpleData>
+		<SimpleData name="ISWM ID plot">SC5-2398</SimpleData>
+		<SimpleData name="Diversification">Conventional</SimpleData>
+		<SimpleData name="Cropping system">Conventional</SimpleData>
+		<SimpleData name="ISWM_WUG">SC5</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG1</SimpleData>
+		<SimpleData name="PlotID">SC5-2398</SimpleData>
+		<SimpleData name="ISWM_Surface">0,25</SimpleData>
+		<SimpleData name="ISWM_FARMERID">SC031</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC5-SG1</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.26157999999999504 12.92435000000000045)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.26158,12.92435</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AEA___Lowland_2022_kml">
+		<SimpleData name="nbr">25</SimpleData>
+		<SimpleData name="ID">16</SimpleData>
+		<SimpleData name="Farmer name">CT 15 (Nary Rath)</SimpleData>
+		<SimpleData name="Block">B</SimpleData>
+		<SimpleData name="Village">Wat Kandal</SimpleData>
+		<SimpleData name="Code of the plot">CT</SimpleData>
+		<SimpleData name="Surface (ha)">0.44</SimpleData>
+		<SimpleData name="Dei Meas">CT</SimpleData>
+		<SimpleData name="Biofunctool">Yes</SimpleData>
+		<SimpleData name="Contact">069 261 016</SimpleData>
+		<SimpleData name="Latitude">12.92648</SimpleData>
+		<SimpleData name="Longtitude">103.25959</SimpleData>
+		<SimpleData name="ISWM ID plot">SC5-2433</SimpleData>
+		<SimpleData name="Diversification">Conventional</SimpleData>
+		<SimpleData name="Cropping system">Conventional</SimpleData>
+		<SimpleData name="ISWM_WUG">SC5</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG1</SimpleData>
+		<SimpleData name="PlotID">SC5-2433</SimpleData>
+		<SimpleData name="ISWM_Surface">0,51</SimpleData>
+		<SimpleData name="ISWM_FARMERID">SC036</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC5-SG1</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.25959000000000287 12.92647999999999975)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.25959,12.92648</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AEA___Lowland_2022_kml">
+		<SimpleData name="nbr">26</SimpleData>
+		<SimpleData name="ID">17</SimpleData>
+		<SimpleData name="Farmer name">Kheng Piseth</SimpleData>
+		<SimpleData name="Block">C</SimpleData>
+		<SimpleData name="Village">Wat Kandal</SimpleData>
+		<SimpleData name="Code of the plot">WD_Kheng Piseth 01</SimpleData>
+		<SimpleData name="Surface (ha)">1.25</SimpleData>
+		<SimpleData name="Dei Meas">Yes</SimpleData>
+		<SimpleData name="Biofunctool">Yes</SimpleData>
+		<SimpleData name="Contact">098 894 6945</SimpleData>
+		<SimpleData name="Latitude">12.93255</SimpleData>
+		<SimpleData name="Longtitude">103.2612</SimpleData>
+		<SimpleData name="ISWM ID plot">SS4-3726</SimpleData>
+		<SimpleData name="Diversification">LongCC</SimpleData>
+		<SimpleData name="Cropping system">Long CC/Broadcast</SimpleData>
+		<SimpleData name="ISWM_WUG">SS4</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG1</SimpleData>
+		<SimpleData name="PlotID">SS4-3726</SimpleData>
+		<SimpleData name="ISWM_Surface">1,17</SimpleData>
+		<SimpleData name="ISWM_FARMERID">WK028</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SS4-SG1</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.26120000000000232 12.93255000000000088)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.2612,12.93255</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AEA___Lowland_2022_kml">
+		<SimpleData name="nbr">27</SimpleData>
+		<SimpleData name="ID">18</SimpleData>
+		<SimpleData name="Farmer name">Dos SorLao</SimpleData>
+		<SimpleData name="Block">C</SimpleData>
+		<SimpleData name="Village">Wat Kandal</SimpleData>
+		<SimpleData name="Code of the plot">WD_Dos SorLao 06</SimpleData>
+		<SimpleData name="Surface (ha)">0.22</SimpleData>
+		<SimpleData name="Dei Meas">Yes</SimpleData>
+		<SimpleData name="Biofunctool">Yes</SimpleData>
+		<SimpleData name="Contact">081 213 236</SimpleData>
+		<SimpleData name="Latitude">12.93063</SimpleData>
+		<SimpleData name="Longtitude">103.26162</SimpleData>
+		<SimpleData name="ISWM ID plot">SS4-3721</SimpleData>
+		<SimpleData name="Diversification">LongCC</SimpleData>
+		<SimpleData name="Cropping system">Long CC/Broadcast</SimpleData>
+		<SimpleData name="ISWM_WUG">SS4</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG2</SimpleData>
+		<SimpleData name="PlotID">SS4-3721</SimpleData>
+		<SimpleData name="ISWM_Surface">0,26</SimpleData>
+		<SimpleData name="ISWM_FARMERID">WK044</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SS4-SG2</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.26161999999999352 12.93063000000000073)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.26162,12.93063</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AEA___Lowland_2022_kml">
+		<SimpleData name="nbr">28</SimpleData>
+		<SimpleData name="ID">18</SimpleData>
+		<SimpleData name="Farmer name">Dos SorLao</SimpleData>
+		<SimpleData name="Block">C</SimpleData>
+		<SimpleData name="Village">Wat Kandal</SimpleData>
+		<SimpleData name="Code of the plot">WD_Dos SorLao 07</SimpleData>
+		<SimpleData name="Surface (ha)">0.3</SimpleData>
+		<SimpleData name="Dei Meas">Yes</SimpleData>
+		<SimpleData name="Biofunctool">Yes</SimpleData>
+		<SimpleData name="Contact">081 213 236</SimpleData>
+		<SimpleData name="Latitude">12.93156</SimpleData>
+		<SimpleData name="Longtitude">103.26164</SimpleData>
+		<SimpleData name="ISWM ID plot">SS4-3719</SimpleData>
+		<SimpleData name="Diversification">LongCC</SimpleData>
+		<SimpleData name="Cropping system">Long CC/Broadcast</SimpleData>
+		<SimpleData name="ISWM_WUG">SS4</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG2</SimpleData>
+		<SimpleData name="PlotID">SS4-3719</SimpleData>
+		<SimpleData name="ISWM_Surface">0,31</SimpleData>
+		<SimpleData name="ISWM_FARMERID">WK044</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SS4-SG2</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.26163999999999987 12.93155999999999928)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.26164,12.93156</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AEA___Lowland_2022_kml">
+		<SimpleData name="nbr">29</SimpleData>
+		<SimpleData name="ID">18</SimpleData>
+		<SimpleData name="Farmer name">Dos SorLao</SimpleData>
+		<SimpleData name="Block">C</SimpleData>
+		<SimpleData name="Village">Wat Kandal</SimpleData>
+		<SimpleData name="Code of the plot">WD_Dos SorLao 08</SimpleData>
+		<SimpleData name="Surface (ha)">0.93</SimpleData>
+		<SimpleData name="Dei Meas">Yes</SimpleData>
+		<SimpleData name="Biofunctool">Yes</SimpleData>
+		<SimpleData name="Contact">081 213 236</SimpleData>
+		<SimpleData name="Latitude">12.933</SimpleData>
+		<SimpleData name="Longtitude">103.26143</SimpleData>
+		<SimpleData name="ISWM ID plot">SS4-3718</SimpleData>
+		<SimpleData name="Diversification">LongCC</SimpleData>
+		<SimpleData name="Cropping system">Long CC/Broadcast</SimpleData>
+		<SimpleData name="ISWM_WUG">SS4</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG2</SimpleData>
+		<SimpleData name="PlotID">SS4-3718</SimpleData>
+		<SimpleData name="ISWM_Surface">0,90</SimpleData>
+		<SimpleData name="ISWM_FARMERID">WK044</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SS4-SG2</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.26143000000000427 12.93299999999999983)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.26143,12.933</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AEA___Lowland_2022_kml">
+		<SimpleData name="nbr">30</SimpleData>
+		<SimpleData name="ID">19</SimpleData>
+		<SimpleData name="Farmer name">Soun Luv</SimpleData>
+		<SimpleData name="Block">C</SimpleData>
+		<SimpleData name="Village">Wat Kandal</SimpleData>
+		<SimpleData name="Code of the plot">WD_Soun Lov 01</SimpleData>
+		<SimpleData name="Surface (ha)">1.1</SimpleData>
+		<SimpleData name="Dei Meas">Died</SimpleData>
+		<SimpleData name="Biofunctool">Yes</SimpleData>
+		<SimpleData name="Contact">096 378 9910</SimpleData>
+		<SimpleData name="Latitude">12.93267</SimpleData>
+		<SimpleData name="Longtitude">103.26249</SimpleData>
+		<SimpleData name="ISWM ID plot">SS4-3701</SimpleData>
+		<SimpleData name="Diversification">LongCC</SimpleData>
+		<SimpleData name="Cropping system">Long CC/Broadcast</SimpleData>
+		<SimpleData name="ISWM_WUG">SS4</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG2</SimpleData>
+		<SimpleData name="PlotID">SS4-3707</SimpleData>
+		<SimpleData name="ISWM_Surface">0,63</SimpleData>
+		<SimpleData name="ISWM_FARMERID">WK071</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SS4-SG2</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.26248999999999967 12.93266999999999989)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.26249,12.93267</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AEA___Lowland_2022_kml">
+		<SimpleData name="nbr">31</SimpleData>
+		<SimpleData name="ID">20</SimpleData>
+		<SimpleData name="Farmer name">Koeng Doeurn</SimpleData>
+		<SimpleData name="Block">C</SimpleData>
+		<SimpleData name="Village">Wat Kandal</SimpleData>
+		<SimpleData name="Code of the plot">WD_Koeung Doeun 03</SimpleData>
+		<SimpleData name="Surface (ha)">1</SimpleData>
+		<SimpleData name="Dei Meas">Yes</SimpleData>
+		<SimpleData name="Biofunctool">Yes</SimpleData>
+		<SimpleData name="Contact">096 378 9910</SimpleData>
+		<SimpleData name="Latitude">12.93523</SimpleData>
+		<SimpleData name="Longtitude">103.26211</SimpleData>
+		<SimpleData name="ISWM ID plot">SS4-3710</SimpleData>
+		<SimpleData name="Diversification">LongCC</SimpleData>
+		<SimpleData name="Cropping system">Long CC/Broadcast</SimpleData>
+		<SimpleData name="ISWM_WUG">SS4</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG2</SimpleData>
+		<SimpleData name="PlotID">SS4-3710</SimpleData>
+		<SimpleData name="ISWM_Surface">1,02</SimpleData>
+		<SimpleData name="ISWM_FARMERID">WK013</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SS4-SG2</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.26211000000000695 12.93523000000000067)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.26211,12.93523</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AEA___Lowland_2022_kml">
+		<SimpleData name="nbr">32</SimpleData>
+		<SimpleData name="ID">21</SimpleData>
+		<SimpleData name="Farmer name">Sem Sila</SimpleData>
+		<SimpleData name="Block">C</SimpleData>
+		<SimpleData name="Village">Wat Kandal</SimpleData>
+		<SimpleData name="Code of the plot">WD_Sem Sila 01</SimpleData>
+		<SimpleData name="Surface (ha)">1.8</SimpleData>
+		<SimpleData name="Dei Meas">Yes</SimpleData>
+		<SimpleData name="Biofunctool">Yes</SimpleData>
+		<SimpleData name="Contact">010 464 687</SimpleData>
+		<SimpleData name="Latitude">12.93173</SimpleData>
+		<SimpleData name="Longtitude">103.26074</SimpleData>
+		<SimpleData name="ISWM ID plot">SS4-3725</SimpleData>
+		<SimpleData name="Diversification">LongCC</SimpleData>
+		<SimpleData name="Cropping system">Long CC/Broadcast</SimpleData>
+		<SimpleData name="ISWM_WUG">SS4</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG1</SimpleData>
+		<SimpleData name="PlotID">SS4-3725</SimpleData>
+		<SimpleData name="ISWM_Surface">1,06</SimpleData>
+		<SimpleData name="ISWM_FARMERID">WK066</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SS4-SG1</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.26073999999999842 12.93172999999999995)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.26074,12.93173</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AEA___Lowland_2022_kml">
+		<SimpleData name="nbr">33</SimpleData>
+		<SimpleData name="ID">22</SimpleData>
+		<SimpleData name="Farmer name">CT 05 (Thorn Ser)</SimpleData>
+		<SimpleData name="Block">C</SimpleData>
+		<SimpleData name="Village">Wat Kandal</SimpleData>
+		<SimpleData name="Code of the plot">CT</SimpleData>
+		<SimpleData name="Surface (ha)">0.95</SimpleData>
+		<SimpleData name="Dei Meas">CT</SimpleData>
+		<SimpleData name="Biofunctool">Yes</SimpleData>
+		<SimpleData name="Contact">096 538 2958</SimpleData>
+		<SimpleData name="Latitude">12.93308</SimpleData>
+		<SimpleData name="Longtitude">103.26309</SimpleData>
+		<SimpleData name="ISWM ID plot">SS4-3700</SimpleData>
+		<SimpleData name="Diversification">Conventional</SimpleData>
+		<SimpleData name="Cropping system">Conventional</SimpleData>
+		<SimpleData name="ISWM_WUG">SS4</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG2</SimpleData>
+		<SimpleData name="PlotID">SS4-3700</SimpleData>
+		<SimpleData name="ISWM_Surface">0,92</SimpleData>
+		<SimpleData name="ISWM_FARMERID">WK025</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SS4-SG2</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.26309000000000538 12.93308000000000035)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.26309,12.93308</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AEA___Lowland_2022_kml">
+		<SimpleData name="nbr">34</SimpleData>
+		<SimpleData name="ID">22</SimpleData>
+		<SimpleData name="Farmer name">CT 06 (Thorn Ser)</SimpleData>
+		<SimpleData name="Block">C</SimpleData>
+		<SimpleData name="Village">Wat Kandal</SimpleData>
+		<SimpleData name="Code of the plot">CT</SimpleData>
+		<SimpleData name="Surface (ha)">0.81</SimpleData>
+		<SimpleData name="Dei Meas">CT</SimpleData>
+		<SimpleData name="Biofunctool">Yes</SimpleData>
+		<SimpleData name="Contact">096 538 2958</SimpleData>
+		<SimpleData name="Latitude">12.93302</SimpleData>
+		<SimpleData name="Longtitude">103.26371</SimpleData>
+		<SimpleData name="ISWM ID plot">SS4-3685</SimpleData>
+		<SimpleData name="Diversification">Conventional</SimpleData>
+		<SimpleData name="Cropping system">Conventional</SimpleData>
+		<SimpleData name="ISWM_WUG">SS4</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG2</SimpleData>
+		<SimpleData name="PlotID">SS4-3685</SimpleData>
+		<SimpleData name="ISWM_Surface">0,80</SimpleData>
+		<SimpleData name="ISWM_FARMERID">WK025</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SS4-SG2</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.26371000000000322 12.93302000000000085)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.26371,12.93302</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AEA___Lowland_2022_kml">
+		<SimpleData name="nbr">35</SimpleData>
+		<SimpleData name="ID">23</SimpleData>
+		<SimpleData name="Farmer name">CT 10 plough (Chroeng Proel)</SimpleData>
+		<SimpleData name="Block">C</SimpleData>
+		<SimpleData name="Village">Wat Kandal</SimpleData>
+		<SimpleData name="Code of the plot">CT</SimpleData>
+		<SimpleData name="Surface (ha)">0.9</SimpleData>
+		<SimpleData name="Dei Meas">CT</SimpleData>
+		<SimpleData name="Biofunctool">Yes</SimpleData>
+		<SimpleData name="Latitude">12.9325</SimpleData>
+		<SimpleData name="Longtitude">103.2603</SimpleData>
+		<SimpleData name="ISWM ID plot">SS4-3735</SimpleData>
+		<SimpleData name="Diversification">Conventional</SimpleData>
+		<SimpleData name="Cropping system">Conventional</SimpleData>
+		<SimpleData name="ISWM_WUG">SS4</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG1</SimpleData>
+		<SimpleData name="PlotID">SS4-3735</SimpleData>
+		<SimpleData name="ISWM_Surface">0,89</SimpleData>
+		<SimpleData name="ISWM_FARMERID">SC032</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SS4-SG1</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.26030000000000086 12.93249999999999922)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.2603,12.9325</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AEA___Lowland_2022_kml">
+		<SimpleData name="nbr">36</SimpleData>
+		<SimpleData name="ID">22</SimpleData>
+		<SimpleData name="Farmer name">CT16 (Thorn Ser)</SimpleData>
+		<SimpleData name="Block">C</SimpleData>
+		<SimpleData name="Village">Wat Kandal</SimpleData>
+		<SimpleData name="Code of the plot">CT</SimpleData>
+		<SimpleData name="Surface (ha)">1.23</SimpleData>
+		<SimpleData name="Dei Meas">CT</SimpleData>
+		<SimpleData name="Biofunctool">Yes</SimpleData>
+		<SimpleData name="Contact">096 538 2958</SimpleData>
+		<SimpleData name="Latitude">12.93184</SimpleData>
+		<SimpleData name="Longtitude">103.26384</SimpleData>
+		<SimpleData name="ISWM ID plot">SS4-3697</SimpleData>
+		<SimpleData name="Diversification">Conventional</SimpleData>
+		<SimpleData name="Cropping system">Conventional</SimpleData>
+		<SimpleData name="ISWM_WUG">SS4</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG2</SimpleData>
+		<SimpleData name="PlotID">SS4-3697</SimpleData>
+		<SimpleData name="ISWM_Surface">1,37</SimpleData>
+		<SimpleData name="ISWM_FARMERID">WK025</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SS4-SG2</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.26384000000000185 12.93183999999999934)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.26384,12.93184</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AEA___Lowland_2022_kml">
+		<SimpleData name="nbr">37</SimpleData>
+		<SimpleData name="ID">24</SimpleData>
+		<SimpleData name="Farmer name">Conv 21 (Chou Khorl)</SimpleData>
+		<SimpleData name="Block">E</SimpleData>
+		<SimpleData name="Village">Domnak Dangkor</SimpleData>
+		<SimpleData name="Code of the plot">CT</SimpleData>
+		<SimpleData name="Surface (ha)">0.59</SimpleData>
+		<SimpleData name="Dei Meas">CT</SimpleData>
+		<SimpleData name="Biofunctool">Yes</SimpleData>
+		<SimpleData name="Contact">093 520 286</SimpleData>
+		<SimpleData name="Latitude">12.97653</SimpleData>
+		<SimpleData name="Longtitude">103.26668</SimpleData>
+		<SimpleData name="Diversification">Conventional</SimpleData>
+		<SimpleData name="Cropping system">Conventional</SimpleData>
+		<SimpleData name="ISWM_WUG">SC8</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG3</SimpleData>
+		<SimpleData name="PlotID">SG3-4946</SimpleData>
+		<SimpleData name="ISWM_Surface">0,55</SimpleData>
+		<SimpleData name="ISWM_FARMERID">DK029</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC8-SG3</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.26667999999999381 12.97653000000000034)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.26668,12.97653</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AEA___Lowland_2022_kml">
+		<SimpleData name="nbr">38</SimpleData>
+		<SimpleData name="ID">25</SimpleData>
+		<SimpleData name="Farmer name">Soeung Se </SimpleData>
+		<SimpleData name="Block">E</SimpleData>
+		<SimpleData name="Village">Domnak Dangkor</SimpleData>
+		<SimpleData name="Code of the plot">DD_Soeung Se 02</SimpleData>
+		<SimpleData name="Surface (ha)">0.59</SimpleData>
+		<SimpleData name="Contact">097 786 2830</SimpleData>
+		<SimpleData name="Latitude">12.97401</SimpleData>
+		<SimpleData name="Longtitude">103.26341</SimpleData>
+		<SimpleData name="Diversification">Mungbean</SimpleData>
+		<SimpleData name="Cropping system">Mungbean/Broadcast</SimpleData>
+		<SimpleData name="ISWM_WUG">SC8</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG3</SimpleData>
+		<SimpleData name="PlotID">SG3-4904</SimpleData>
+		<SimpleData name="ISWM_Surface">0,61</SimpleData>
+		<SimpleData name="ISWM_FARMERID">DK073</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC8-SG3</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.26340999999999326 12.97400999999999982)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.26341,12.97401</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AEA___Lowland_2022_kml">
+		<SimpleData name="nbr">39</SimpleData>
+		<SimpleData name="ID">26</SimpleData>
+		<SimpleData name="Farmer name">Conv 01 (Neng Rem)</SimpleData>
+		<SimpleData name="Block">E</SimpleData>
+		<SimpleData name="Village">Domnak Dangkor</SimpleData>
+		<SimpleData name="Code of the plot">DD_Soeung Markara 06</SimpleData>
+		<SimpleData name="Surface (ha)">0.33</SimpleData>
+		<SimpleData name="Dei Meas">CT</SimpleData>
+		<SimpleData name="Latitude">12.97323</SimpleData>
+		<SimpleData name="Longtitude">103.26404</SimpleData>
+		<SimpleData name="Diversification">Conventional</SimpleData>
+		<SimpleData name="Cropping system">Conventional</SimpleData>
+		<SimpleData name="ISWM_WUG">SC8</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG3</SimpleData>
+		<SimpleData name="PlotID">SG3-4891</SimpleData>
+		<SimpleData name="ISWM_Surface">0,36</SimpleData>
+		<SimpleData name="ISWM_FARMERID">RK042</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC8-SG3</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.26403999999999428 12.97322999999999915)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.26404,12.97323</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AEA___Lowland_2022_kml">
+		<SimpleData name="nbr">40</SimpleData>
+		<SimpleData name="ID">27</SimpleData>
+		<SimpleData name="Farmer name">Koeun Kimaeng </SimpleData>
+		<SimpleData name="Block">E</SimpleData>
+		<SimpleData name="Village">Domnak Dangkor</SimpleData>
+		<SimpleData name="Code of the plot">DD_Koeun Kimaeng 01</SimpleData>
+		<SimpleData name="Surface (ha)">0.364</SimpleData>
+		<SimpleData name="Contact">096 628 6816</SimpleData>
+		<SimpleData name="Latitude">12.97741</SimpleData>
+		<SimpleData name="Longtitude">103.27293</SimpleData>
+		<SimpleData name="Diversification">Mungbean</SimpleData>
+		<SimpleData name="Cropping system">Mungbean/Broadcast</SimpleData>
+		<SimpleData name="ISWM_WUG">SC8</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG5</SimpleData>
+		<SimpleData name="PlotID">SG5-5133</SimpleData>
+		<SimpleData name="ISWM_Surface">0,37</SimpleData>
+		<SimpleData name="ISWM_FARMERID">DK072</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC8-SG5</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.27293000000000234 12.97741000000000078)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.27293,12.97741</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AEA___Lowland_2022_kml">
+		<SimpleData name="nbr">41</SimpleData>
+		<SimpleData name="ID">28</SimpleData>
+		<SimpleData name="Farmer name">Conv 02(Bich Savoeun)</SimpleData>
+		<SimpleData name="Block">E</SimpleData>
+		<SimpleData name="Village">Domnak Dangkor</SimpleData>
+		<SimpleData name="Code of the plot">CT</SimpleData>
+		<SimpleData name="Surface (ha)">0.534</SimpleData>
+		<SimpleData name="Dei Meas">CT</SimpleData>
+		<SimpleData name="Latitude">12.97734</SimpleData>
+		<SimpleData name="Longtitude">103.27238</SimpleData>
+		<SimpleData name="Diversification">Conventional</SimpleData>
+		<SimpleData name="Cropping system">Conventional</SimpleData>
+		<SimpleData name="ISWM_WUG">SC8</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG5</SimpleData>
+		<SimpleData name="PlotID">SG5-5131</SimpleData>
+		<SimpleData name="ISWM_Surface">0,51</SimpleData>
+		<SimpleData name="ISWM_FARMERID">DK072</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC8-SG5</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.27237999999999829 12.97733999999999988)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.27238,12.97734</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AEA___Lowland_2022_kml">
+		<SimpleData name="nbr">42</SimpleData>
+		<SimpleData name="ID">29</SimpleData>
+		<SimpleData name="Farmer name">Soeung Markara</SimpleData>
+		<SimpleData name="Block">E</SimpleData>
+		<SimpleData name="Village">Domnak Dangkor</SimpleData>
+		<SimpleData name="Code of the plot">DD_Soeung Markara 06</SimpleData>
+		<SimpleData name="Surface (ha)">0.552</SimpleData>
+		<SimpleData name="Contact">097 666 1213</SimpleData>
+		<SimpleData name="Latitude">12.97691</SimpleData>
+		<SimpleData name="Longtitude">103.27396</SimpleData>
+		<SimpleData name="Diversification">Mungbean</SimpleData>
+		<SimpleData name="Cropping system">Mungbean/Broadcast</SimpleData>
+		<SimpleData name="ISWM_WUG">SC8</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG5</SimpleData>
+		<SimpleData name="PlotID">SG5-5137</SimpleData>
+		<SimpleData name="ISWM_Surface">0,99</SimpleData>
+		<SimpleData name="ISWM_FARMERID">RK025</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC8-SG5</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.27396000000000242 12.97691000000000017)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.27396,12.97691</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AEA___Lowland_2022_kml">
+		<SimpleData name="nbr">43</SimpleData>
+		<SimpleData name="ID">1</SimpleData>
+		<SimpleData name="Farmer name">Conv 03 (Sao Samuth)</SimpleData>
+		<SimpleData name="Block">E</SimpleData>
+		<SimpleData name="Village">Domnak Dangkor</SimpleData>
+		<SimpleData name="Code of the plot">CT</SimpleData>
+		<SimpleData name="Surface (ha)">0.474</SimpleData>
+		<SimpleData name="Dei Meas">CT</SimpleData>
+		<SimpleData name="Latitude">12.9775</SimpleData>
+		<SimpleData name="Longtitude">103.27695</SimpleData>
+		<SimpleData name="Diversification">Conventional</SimpleData>
+		<SimpleData name="Cropping system">Conventional</SimpleData>
+		<SimpleData name="ISWM_WUG">SC8</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG5</SimpleData>
+		<SimpleData name="PlotID">SG5-5142</SimpleData>
+		<SimpleData name="ISWM_Surface">0,48</SimpleData>
+		<SimpleData name="ISWM_FARMERID">RL095</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC8-SG5</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.27694999999999936 12.97749999999999915)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.27695,12.9775</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AEA___Lowland_2022_kml">
+		<SimpleData name="nbr">44</SimpleData>
+		<SimpleData name="ID">30</SimpleData>
+		<SimpleData name="Farmer name">Phal Rotha 03</SimpleData>
+		<SimpleData name="Block">D</SimpleData>
+		<SimpleData name="Village">Reang Kessei</SimpleData>
+		<SimpleData name="Code of the plot">RK_Phal Ratha03</SimpleData>
+		<SimpleData name="Surface (ha)">0.45</SimpleData>
+		<SimpleData name="Contact">012 392 268</SimpleData>
+		<SimpleData name="Latitude">12.95773</SimpleData>
+		<SimpleData name="Longtitude">103.26517</SimpleData>
+		<SimpleData name="ISWM ID plot">SC7-4946</SimpleData>
+		<SimpleData name="Diversification">Mungbean</SimpleData>
+		<SimpleData name="Cropping system">Mungbean/NTP</SimpleData>
+		<SimpleData name="ISWM_WUG">SC7</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG3</SimpleData>
+		<SimpleData name="PlotID">SC7-4946</SimpleData>
+		<SimpleData name="ISWM_Surface">0,44</SimpleData>
+		<SimpleData name="ISWM_FARMERID">RK091</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC7-SG3</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.26516999999999769 12.95772999999999975)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.26517,12.95773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AEA___Lowland_2022_kml">
+		<SimpleData name="nbr">45</SimpleData>
+		<SimpleData name="ID">31</SimpleData>
+		<SimpleData name="Farmer name">Conv 29 (Sambath Samnang)</SimpleData>
+		<SimpleData name="Block">D</SimpleData>
+		<SimpleData name="Village">Reang Kessei</SimpleData>
+		<SimpleData name="Code of the plot">CT</SimpleData>
+		<SimpleData name="Surface (ha)">0.496</SimpleData>
+		<SimpleData name="Latitude">12.95842</SimpleData>
+		<SimpleData name="Longtitude">103.2652</SimpleData>
+		<SimpleData name="Diversification">Conventional</SimpleData>
+		<SimpleData name="Cropping system">Conventional</SimpleData>
+		<SimpleData name="ISWM_WUG">SC7</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG3</SimpleData>
+		<SimpleData name="PlotID">SC7-4954</SimpleData>
+		<SimpleData name="ISWM_Surface">1,05</SimpleData>
+		<SimpleData name="ISWM_FARMERID">RK096</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC7-SG3</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.265199999999993 12.95842000000000027)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.2652,12.95842</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AEA___Lowland_2022_kml">
+		<SimpleData name="nbr">46</SimpleData>
+		<SimpleData name="ID">30</SimpleData>
+		<SimpleData name="Farmer name">Phal Rotha 01</SimpleData>
+		<SimpleData name="Block">D</SimpleData>
+		<SimpleData name="Village">Reang Kessei</SimpleData>
+		<SimpleData name="Code of the plot">RK_Phal Ratha01</SimpleData>
+		<SimpleData name="Surface (ha)">0.61</SimpleData>
+		<SimpleData name="Contact">012 392 268</SimpleData>
+		<SimpleData name="Latitude">12.95773</SimpleData>
+		<SimpleData name="Longtitude">103.26344</SimpleData>
+		<SimpleData name="ISWM ID plot">SC7-4948</SimpleData>
+		<SimpleData name="Diversification">Mungbean</SimpleData>
+		<SimpleData name="Cropping system">Mungbean/NTP</SimpleData>
+		<SimpleData name="ISWM_WUG">SC7</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG3</SimpleData>
+		<SimpleData name="PlotID">SC7-4948</SimpleData>
+		<SimpleData name="ISWM_Surface">0,60</SimpleData>
+		<SimpleData name="ISWM_FARMERID">RK071</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC7-SG3</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.26344000000000278 12.95772999999999975)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.26344,12.95773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AEA___Lowland_2022_kml">
+		<SimpleData name="nbr">47</SimpleData>
+		<SimpleData name="ID">32</SimpleData>
+		<SimpleData name="Farmer name">Phang Sokhorn 01</SimpleData>
+		<SimpleData name="Block">D</SimpleData>
+		<SimpleData name="Village">Reang Kessei</SimpleData>
+		<SimpleData name="Code of the plot">RK_Phang Sokhorn 01</SimpleData>
+		<SimpleData name="Surface (ha)">1</SimpleData>
+		<SimpleData name="Contact">088 321 9696</SimpleData>
+		<SimpleData name="Latitude">12.95287</SimpleData>
+		<SimpleData name="Longtitude">103.26491</SimpleData>
+		<SimpleData name="ISWM ID plot">SC7-4904</SimpleData>
+		<SimpleData name="Diversification">Mungbean</SimpleData>
+		<SimpleData name="Cropping system">Mungbean/NTP</SimpleData>
+		<SimpleData name="ISWM_WUG">SC7</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG3</SimpleData>
+		<SimpleData name="PlotID">SC7-4910</SimpleData>
+		<SimpleData name="ISWM_Surface">0,51</SimpleData>
+		<SimpleData name="ISWM_FARMERID">BV019</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC7-SG3</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.26491000000000042 12.95287000000000077)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.26491,12.95287</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AEA___Lowland_2022_kml">
+		<SimpleData name="nbr">48</SimpleData>
+		<SimpleData name="ID">33</SimpleData>
+		<SimpleData name="Farmer name">Conv 30 (Khurn Khoeurm)</SimpleData>
+		<SimpleData name="Block">D</SimpleData>
+		<SimpleData name="Village">Reang Kessei</SimpleData>
+		<SimpleData name="Surface (ha)">0.524</SimpleData>
+		<SimpleData name="Latitude">12.95281</SimpleData>
+		<SimpleData name="Longtitude">103.26446</SimpleData>
+		<SimpleData name="ISWM ID plot">SC7-4911</SimpleData>
+		<SimpleData name="Diversification">Conventional</SimpleData>
+		<SimpleData name="Cropping system">Conventional</SimpleData>
+		<SimpleData name="ISWM_WUG">SC7</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG3</SimpleData>
+		<SimpleData name="PlotID">SC7-4911</SimpleData>
+		<SimpleData name="ISWM_Surface">0,51</SimpleData>
+		<SimpleData name="ISWM_FARMERID">RK024</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC7-SG3</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.2644599999999997 12.95280999999999949)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.26446,12.95281</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AEA___Lowland_2022_kml">
+		<SimpleData name="nbr">49</SimpleData>
+		<SimpleData name="ID">34</SimpleData>
+		<SimpleData name="Farmer name">Loeuy Mon 03</SimpleData>
+		<SimpleData name="Block">C</SimpleData>
+		<SimpleData name="Village">Reang Kessei</SimpleData>
+		<SimpleData name="Code of the plot">RK_Loeuy Mon 03</SimpleData>
+		<SimpleData name="Surface (ha)">0.84</SimpleData>
+		<SimpleData name="Contact">096 380 5249</SimpleData>
+		<SimpleData name="Latitude">12.9442</SimpleData>
+		<SimpleData name="Longtitude">103.26464</SimpleData>
+		<SimpleData name="ISWM ID plot">SC6-4307</SimpleData>
+		<SimpleData name="Diversification">Mungbean</SimpleData>
+		<SimpleData name="Cropping system">Mungbean/Broadcast</SimpleData>
+		<SimpleData name="ISWM_WUG">SC6</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG4</SimpleData>
+		<SimpleData name="PlotID">SC6-4307</SimpleData>
+		<SimpleData name="ISWM_Surface">0,91</SimpleData>
+		<SimpleData name="ISWM_FARMERID">RK033</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC6-SG4</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.26463999999999999 12.94420000000000037)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.26464,12.9442</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AEA___Lowland_2022_kml">
+		<SimpleData name="nbr">50</SimpleData>
+		<SimpleData name="ID">35</SimpleData>
+		<SimpleData name="Farmer name">Conv 05 (Sorn Keasal )</SimpleData>
+		<SimpleData name="Block">C</SimpleData>
+		<SimpleData name="Village">Reang Kessei</SimpleData>
+		<SimpleData name="Code of the plot">CT</SimpleData>
+		<SimpleData name="Surface (ha)">1.12</SimpleData>
+		<SimpleData name="Latitude">12.94692</SimpleData>
+		<SimpleData name="Longtitude">103.26418</SimpleData>
+		<SimpleData name="Diversification">Conventional</SimpleData>
+		<SimpleData name="Cropping system">Conventional</SimpleData>
+		<SimpleData name="ISWM_WUG">SS5</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG6</SimpleData>
+		<SimpleData name="PlotID">SS5-4092</SimpleData>
+		<SimpleData name="ISWM_Surface">1,04</SimpleData>
+		<SimpleData name="ISWM_FARMERID">RK103</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SS5-SG6</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.26417999999999608 12.94692000000000043)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.26418,12.94692</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AEA___Lowland_2022_kml">
+		<SimpleData name="nbr">51</SimpleData>
+		<SimpleData name="ID">36</SimpleData>
+		<SimpleData name="Farmer name">Soun Leng</SimpleData>
+		<SimpleData name="Block">B</SimpleData>
+		<SimpleData name="Village">Wat Kandal</SimpleData>
+		<SimpleData name="Code of the plot">WD_Soun Leng</SimpleData>
+		<SimpleData name="Surface (ha)">0.85</SimpleData>
+		<SimpleData name="Contact">092 625 961</SimpleData>
+		<SimpleData name="Latitude">12.91885</SimpleData>
+		<SimpleData name="Longtitude">103.28442</SimpleData>
+		<SimpleData name="ISWM ID plot">SC4-2211</SimpleData>
+		<SimpleData name="Diversification">Mungbean</SimpleData>
+		<SimpleData name="Cropping system">Mungbean/NTP</SimpleData>
+		<SimpleData name="ISWM_WUG">SC4</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG6</SimpleData>
+		<SimpleData name="PlotID">SC4-2211</SimpleData>
+		<SimpleData name="ISWM_Surface">0,81</SimpleData>
+		<SimpleData name="ISWM_FARMERID">WK214</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC4-SG6</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.28441999999999723 12.91885000000000083)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.28442,12.91885</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AEA___Lowland_2022_kml">
+		<SimpleData name="nbr">52</SimpleData>
+		<SimpleData name="ID">37</SimpleData>
+		<SimpleData name="Farmer name">Conv 06 (Soeum Vuthy)</SimpleData>
+		<SimpleData name="Block">B</SimpleData>
+		<SimpleData name="Village">Wat Kandal</SimpleData>
+		<SimpleData name="Code of the plot">CT</SimpleData>
+		<SimpleData name="Surface (ha)">0.789</SimpleData>
+		<SimpleData name="Dei Meas">CT</SimpleData>
+		<SimpleData name="Latitude">12.91823</SimpleData>
+		<SimpleData name="Longtitude">103.28395</SimpleData>
+		<SimpleData name="ISWM ID plot">SC4-2202</SimpleData>
+		<SimpleData name="Diversification">Conventional</SimpleData>
+		<SimpleData name="Cropping system">Conventional</SimpleData>
+		<SimpleData name="ISWM_WUG">SC4</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG6</SimpleData>
+		<SimpleData name="PlotID">SC4-2202</SimpleData>
+		<SimpleData name="ISWM_Surface">0,86</SimpleData>
+		<SimpleData name="ISWM_FARMERID">WK164</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC4-SG6</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.28395000000000437 12.91822999999999944)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.28395,12.91823</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AEA___Lowland_2022_kml">
+		<SimpleData name="nbr">53</SimpleData>
+		<SimpleData name="ID">38</SimpleData>
+		<SimpleData name="Farmer name">Nhil Khon </SimpleData>
+		<SimpleData name="Block">A</SimpleData>
+		<SimpleData name="Village">Wat Kandal</SimpleData>
+		<SimpleData name="Code of the plot">WD_Nhil khon</SimpleData>
+		<SimpleData name="Surface (ha)">0.55</SimpleData>
+		<SimpleData name="Contact">092 401 445</SimpleData>
+		<SimpleData name="Latitude">12.91198</SimpleData>
+		<SimpleData name="Longtitude">103.28351</SimpleData>
+		<SimpleData name="ISWM ID plot">SC3-1541</SimpleData>
+		<SimpleData name="Diversification">Mungbean</SimpleData>
+		<SimpleData name="Cropping system">Mungbean/Broadcast</SimpleData>
+		<SimpleData name="ISWM_WUG">SC3</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG4</SimpleData>
+		<SimpleData name="PlotID">SC3-1541</SimpleData>
+		<SimpleData name="ISWM_Surface">0,56</SimpleData>
+		<SimpleData name="ISWM_FARMERID">WK054</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC3-SG4</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.28351000000000681 12.91197999999999979)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.28351,12.91198</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AEA___Lowland_2022_kml">
+		<SimpleData name="nbr">54</SimpleData>
+		<SimpleData name="ID">38</SimpleData>
+		<SimpleData name="Farmer name">Nhil Khon</SimpleData>
+		<SimpleData name="Block">B</SimpleData>
+		<SimpleData name="Village">Wat Kandal</SimpleData>
+		<SimpleData name="Code of the plot">WD_Nhil khon</SimpleData>
+		<SimpleData name="Surface (ha)">1.19</SimpleData>
+		<SimpleData name="Contact">092 401 445</SimpleData>
+		<SimpleData name="Latitude">12.9196</SimpleData>
+		<SimpleData name="Longtitude">103.28694</SimpleData>
+		<SimpleData name="ISWM ID plot">SC4-2214</SimpleData>
+		<SimpleData name="Diversification">Mungbean</SimpleData>
+		<SimpleData name="Cropping system">Mungbean/Broadcast</SimpleData>
+		<SimpleData name="ISWM_WUG">SC4</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG6</SimpleData>
+		<SimpleData name="PlotID">SC4-2214</SimpleData>
+		<SimpleData name="ISWM_Surface">0,96</SimpleData>
+		<SimpleData name="ISWM_FARMERID">WK054</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC4-SG6</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.28694000000000131 12.91960000000000086)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.28694,12.9196</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AEA___Lowland_2022_kml">
+		<SimpleData name="nbr">55</SimpleData>
+		<SimpleData name="ID">39</SimpleData>
+		<SimpleData name="Farmer name">Conv 25 (Yoy Roeurn)</SimpleData>
+		<SimpleData name="Block">B</SimpleData>
+		<SimpleData name="Village">Wat Kandal</SimpleData>
+		<SimpleData name="Code of the plot">CT</SimpleData>
+		<SimpleData name="Surface (ha)">1.63</SimpleData>
+		<SimpleData name="Latitude">12.91928</SimpleData>
+		<SimpleData name="Longtitude">103.286</SimpleData>
+		<SimpleData name="ISWM ID plot">SC4-2213</SimpleData>
+		<SimpleData name="Diversification">Conventional</SimpleData>
+		<SimpleData name="Cropping system">Conventional</SimpleData>
+		<SimpleData name="ISWM_WUG">SC4</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG6</SimpleData>
+		<SimpleData name="PlotID">SC4-2213</SimpleData>
+		<SimpleData name="ISWM_Surface">1,00</SimpleData>
+		<SimpleData name="ISWM_FARMERID">SO174</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC4-SG6</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.28600000000000136 12.91928000000000054)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.286,12.91928</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AEA___Lowland_2022_kml">
+		<SimpleData name="nbr">56</SimpleData>
+		<SimpleData name="ID">40</SimpleData>
+		<SimpleData name="Farmer name">Conv 07 (Arn Seando)</SimpleData>
+		<SimpleData name="Block">A</SimpleData>
+		<SimpleData name="Village">Wat Kandal</SimpleData>
+		<SimpleData name="Code of the plot">CT</SimpleData>
+		<SimpleData name="Surface (ha)">0.518</SimpleData>
+		<SimpleData name="Dei Meas">CT</SimpleData>
+		<SimpleData name="Latitude">12.91207</SimpleData>
+		<SimpleData name="Longtitude">103.28393</SimpleData>
+		<SimpleData name="ISWM ID plot">SC3-1552</SimpleData>
+		<SimpleData name="Diversification">Conventional</SimpleData>
+		<SimpleData name="Cropping system">Conventional</SimpleData>
+		<SimpleData name="ISWM_WUG">SC3</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG4</SimpleData>
+		<SimpleData name="PlotID">SC3-1552</SimpleData>
+		<SimpleData name="ISWM_Surface">0,51</SimpleData>
+		<SimpleData name="ISWM_FARMERID">WK075</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC3-SG4</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.28392999999999802 12.91206999999999994)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.28393,12.91207</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AEA___Lowland_2022_kml">
+		<SimpleData name="nbr">57</SimpleData>
+		<SimpleData name="ID">41</SimpleData>
+		<SimpleData name="Farmer name">Leck Oun 01</SimpleData>
+		<SimpleData name="Block">B</SimpleData>
+		<SimpleData name="Village">Wat Kandal</SimpleData>
+		<SimpleData name="Code of the plot">WD_Leck Oun 01</SimpleData>
+		<SimpleData name="Surface (ha)">1.2</SimpleData>
+		<SimpleData name="Contact">089 322 878</SimpleData>
+		<SimpleData name="Latitude">12.92851</SimpleData>
+		<SimpleData name="Longtitude">103.2851</SimpleData>
+		<SimpleData name="ISWM ID plot">SC3-3148</SimpleData>
+		<SimpleData name="Diversification">Mungbean</SimpleData>
+		<SimpleData name="Cropping system">Mungbean/Broadcast</SimpleData>
+		<SimpleData name="ISWM_WUG">SC3</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG1</SimpleData>
+		<SimpleData name="PlotID">SC3-3148</SimpleData>
+		<SimpleData name="ISWM_Surface">1,67</SimpleData>
+		<SimpleData name="ISWM_FARMERID">WK084</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC3-SG1</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.28509999999999991 12.92850999999999928)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.2851,12.92851</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AEA___Lowland_2022_kml">
+		<SimpleData name="nbr">58</SimpleData>
+		<SimpleData name="ID">41</SimpleData>
+		<SimpleData name="Farmer name">Conv 08 (Leck Oun)</SimpleData>
+		<SimpleData name="Block">B</SimpleData>
+		<SimpleData name="Village">Wat Kandal</SimpleData>
+		<SimpleData name="Code of the plot">CT</SimpleData>
+		<SimpleData name="Surface (ha)">1.37</SimpleData>
+		<SimpleData name="Dei Meas">CT</SimpleData>
+		<SimpleData name="Latitude">12.92968</SimpleData>
+		<SimpleData name="Longtitude">103.28523</SimpleData>
+		<SimpleData name="ISWM ID plot">SC5-3356</SimpleData>
+		<SimpleData name="Diversification">Conventional</SimpleData>
+		<SimpleData name="Cropping system">Conventional</SimpleData>
+		<SimpleData name="ISWM_WUG">SC5</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG2</SimpleData>
+		<SimpleData name="PlotID">SC5-3356</SimpleData>
+		<SimpleData name="ISWM_Surface">1,47</SimpleData>
+		<SimpleData name="ISWM_FARMERID">WK076</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC5-SG2</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.28522999999999854 12.9296799999999994)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.28523,12.92968</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AEA___Lowland_2022_kml">
+		<SimpleData name="nbr">59</SimpleData>
+		<SimpleData name="ID">42</SimpleData>
+		<SimpleData name="Farmer name">Saom Sokhorm </SimpleData>
+		<SimpleData name="Block">E</SimpleData>
+		<SimpleData name="Village">Domnak Dangkor</SimpleData>
+		<SimpleData name="Code of the plot">DD_Saom Sokhom 01</SimpleData>
+		<SimpleData name="Surface (ha)">0.58</SimpleData>
+		<SimpleData name="Contact">098 676 576</SimpleData>
+		<SimpleData name="Latitude">12.98874</SimpleData>
+		<SimpleData name="Longtitude">103.26163</SimpleData>
+		<SimpleData name="Diversification">ShortCC</SimpleData>
+		<SimpleData name="Cropping system">Short cycle/Broadcast</SimpleData>
+		<SimpleData name="ISWM_WUG">SC9</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG3</SimpleData>
+		<SimpleData name="PlotID">SG3-6324</SimpleData>
+		<SimpleData name="ISWM_Surface">0,80</SimpleData>
+		<SimpleData name="ISWM_FARMERID">DK089</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC9-SG3</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.2616299999999967 12.98873999999999995)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.26163,12.98874</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AEA___Lowland_2022_kml">
+		<SimpleData name="nbr">60</SimpleData>
+		<SimpleData name="ID">41</SimpleData>
+		<SimpleData name="Farmer name">Leck Oun 03</SimpleData>
+		<SimpleData name="Block">C</SimpleData>
+		<SimpleData name="Village">Wat Kandal</SimpleData>
+		<SimpleData name="Code of the plot">WD_Leck Oun 03</SimpleData>
+		<SimpleData name="Surface (ha)">0.359</SimpleData>
+		<SimpleData name="Contact">089 322 878</SimpleData>
+		<SimpleData name="Latitude">12.93513</SimpleData>
+		<SimpleData name="Longtitude">103.26565</SimpleData>
+		<SimpleData name="ISWM ID plot">SS4-3663</SimpleData>
+		<SimpleData name="Diversification">ShortCC</SimpleData>
+		<SimpleData name="Cropping system">Short cycle/Broadcast</SimpleData>
+		<SimpleData name="ISWM_WUG">SS4</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG2</SimpleData>
+		<SimpleData name="PlotID">SS4-3663</SimpleData>
+		<SimpleData name="ISWM_Surface">0,36</SimpleData>
+		<SimpleData name="ISWM_FARMERID">WK084</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SS4-SG2</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.26564999999999372 12.93512999999999913)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.26565,12.93513</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AEA___Lowland_2022_kml">
+		<SimpleData name="nbr">61</SimpleData>
+		<SimpleData name="ID">42</SimpleData>
+		<SimpleData name="Farmer name">Conv 09 (Eng Samnang)</SimpleData>
+		<SimpleData name="Block">E</SimpleData>
+		<SimpleData name="Village">Domnak Dangkor</SimpleData>
+		<SimpleData name="Code of the plot">CT</SimpleData>
+		<SimpleData name="Surface (ha)">0.786</SimpleData>
+		<SimpleData name="Dei Meas">CT</SimpleData>
+		<SimpleData name="Latitude">12.98806</SimpleData>
+		<SimpleData name="Longtitude">103.26134</SimpleData>
+		<SimpleData name="Diversification">Conventional</SimpleData>
+		<SimpleData name="Cropping system">Conventional</SimpleData>
+		<SimpleData name="ISWM_WUG">SC8</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG10</SimpleData>
+		<SimpleData name="PlotID">SG10-5545</SimpleData>
+		<SimpleData name="ISWM_Surface">0,79</SimpleData>
+		<SimpleData name="ISWM_FARMERID">DK087</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC8-SG10</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.26134000000000412 12.98806000000000083)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.26134,12.98806</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AEA___Lowland_2022_kml">
+		<SimpleData name="nbr">62</SimpleData>
+		<SimpleData name="ID">43</SimpleData>
+		<SimpleData name="Farmer name">Ton Savoeuy </SimpleData>
+		<SimpleData name="Block">E</SimpleData>
+		<SimpleData name="Village">Reang Kessei</SimpleData>
+		<SimpleData name="Code of the plot">RK_Ton Savoeuy </SimpleData>
+		<SimpleData name="Surface (ha)">0.79</SimpleData>
+		<SimpleData name="Contact">092 503 360</SimpleData>
+		<SimpleData name="Latitude">12.98986</SimpleData>
+		<SimpleData name="Longtitude">103.26434</SimpleData>
+		<SimpleData name="Diversification">ShortCC</SimpleData>
+		<SimpleData name="Cropping system">Short cycle/Broadcast</SimpleData>
+		<SimpleData name="ISWM_WUG">SC9</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG4</SimpleData>
+		<SimpleData name="PlotID">SG4-6417</SimpleData>
+		<SimpleData name="ISWM_Surface">0,78</SimpleData>
+		<SimpleData name="ISWM_FARMERID">RK014</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC9-SG4</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.26434000000000424 12.98986000000000018)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.26434,12.98986</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AEA___Lowland_2022_kml">
+		<SimpleData name="nbr">63</SimpleData>
+		<SimpleData name="ID">44</SimpleData>
+		<SimpleData name="Farmer name">Conv 10 (Sorl Phurn )</SimpleData>
+		<SimpleData name="Block">E</SimpleData>
+		<SimpleData name="Village">Domnak Dangkor</SimpleData>
+		<SimpleData name="Code of the plot">CT</SimpleData>
+		<SimpleData name="Surface (ha)">0.486</SimpleData>
+		<SimpleData name="Dei Meas">CT</SimpleData>
+		<SimpleData name="Latitude">12.98989</SimpleData>
+		<SimpleData name="Longtitude">103.26537</SimpleData>
+		<SimpleData name="Diversification">Conventional</SimpleData>
+		<SimpleData name="Cropping system">Conventional</SimpleData>
+		<SimpleData name="ISWM_WUG">SC9</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG4</SimpleData>
+		<SimpleData name="PlotID">SG4-6418</SimpleData>
+		<SimpleData name="ISWM_Surface">0,45</SimpleData>
+		<SimpleData name="ISWM_FARMERID">DK080</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC9-SG4</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.26537000000000432 12.98989000000000082)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.26537,12.98989</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AEA___Lowland_2022_kml">
+		<SimpleData name="nbr">64</SimpleData>
+		<SimpleData name="ID">45</SimpleData>
+		<SimpleData name="Farmer name">Eng Kong</SimpleData>
+		<SimpleData name="Block">E</SimpleData>
+		<SimpleData name="Village">Domnak Dangkor</SimpleData>
+		<SimpleData name="Code of the plot">DD_Eng Kong 02</SimpleData>
+		<SimpleData name="Surface (ha)">0.76</SimpleData>
+		<SimpleData name="Contact">070 933 736</SimpleData>
+		<SimpleData name="Latitude">12.98303</SimpleData>
+		<SimpleData name="Longtitude">103.26357</SimpleData>
+		<SimpleData name="Diversification">ShortCC</SimpleData>
+		<SimpleData name="Cropping system">Short cycle/Broadcast</SimpleData>
+		<SimpleData name="ISWM_WUG">SC8</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG11</SimpleData>
+		<SimpleData name="PlotID">SG11-5627</SimpleData>
+		<SimpleData name="ISWM_Surface">0,82</SimpleData>
+		<SimpleData name="ISWM_FARMERID">DK086</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC8-SG11</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.26357000000000141 12.9830299999999994)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.26357,12.98303</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AEA___Lowland_2022_kml">
+		<SimpleData name="nbr">65</SimpleData>
+		<SimpleData name="ID">1</SimpleData>
+		<SimpleData name="Farmer name">Conv 11(Sao Samuth)</SimpleData>
+		<SimpleData name="Block">E</SimpleData>
+		<SimpleData name="Village">Domnak Dangkor</SimpleData>
+		<SimpleData name="Code of the plot">CT</SimpleData>
+		<SimpleData name="Surface (ha)">0.776</SimpleData>
+		<SimpleData name="Dei Meas">CT</SimpleData>
+		<SimpleData name="Latitude">12.98316</SimpleData>
+		<SimpleData name="Longtitude">103.26448</SimpleData>
+		<SimpleData name="Diversification">Conventional</SimpleData>
+		<SimpleData name="Cropping system">Conventional</SimpleData>
+		<SimpleData name="ISWM_WUG">SC8</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG11</SimpleData>
+		<SimpleData name="PlotID">SG11-5626</SimpleData>
+		<SimpleData name="ISWM_Surface">0,81</SimpleData>
+		<SimpleData name="ISWM_FARMERID">DK081</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC8-SG11</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.26448000000000604 12.98315999999999981)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.26448,12.98316</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AEA___Lowland_2022_kml">
+		<SimpleData name="nbr">66</SimpleData>
+		<SimpleData name="ID">46</SimpleData>
+		<SimpleData name="Farmer name">Soeun Bunna</SimpleData>
+		<SimpleData name="Block">Os Touk</SimpleData>
+		<SimpleData name="Village">Os Tuk</SimpleData>
+		<SimpleData name="Code of the plot">OT_Soeun Bunna 01</SimpleData>
+		<SimpleData name="Surface (ha)">0.89</SimpleData>
+		<SimpleData name="Dei Meas">No</SimpleData>
+		<SimpleData name="Contact">093 522 423</SimpleData>
+		<SimpleData name="Latitude">12.96348</SimpleData>
+		<SimpleData name="Longtitude">103.34358</SimpleData>
+		<SimpleData name="Diversification">ShortCC</SimpleData>
+		<SimpleData name="Cropping system">Short cycle/Broadcast</SimpleData>
+		<SimpleData name="ISWM_WUG">0</SimpleData>
+		<SimpleData name="ISWM_WUSG">0</SimpleData>
+		<SimpleData name="PlotID">0</SimpleData>
+		<SimpleData name="ISWM_Surface">0</SimpleData>
+		<SimpleData name="ISWM_FARMERID">0</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">0</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.34358000000000288 12.96348000000000056)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.34358,12.96348</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AEA___Lowland_2022_kml">
+		<SimpleData name="nbr">67</SimpleData>
+		<SimpleData name="ID">47</SimpleData>
+		<SimpleData name="Farmer name">Conv 12 (Turng Dos)</SimpleData>
+		<SimpleData name="Block">Os Touk</SimpleData>
+		<SimpleData name="Village">Os Tuk</SimpleData>
+		<SimpleData name="Code of the plot">CT</SimpleData>
+		<SimpleData name="Surface (ha)">0.921</SimpleData>
+		<SimpleData name="Dei Meas">CT</SimpleData>
+		<SimpleData name="Contact">096 231 3744</SimpleData>
+		<SimpleData name="Latitude">12.96385</SimpleData>
+		<SimpleData name="Longtitude">103.34339</SimpleData>
+		<SimpleData name="Diversification">Conventional</SimpleData>
+		<SimpleData name="Cropping system">Conventional</SimpleData>
+		<SimpleData name="ISWM_WUG">0</SimpleData>
+		<SimpleData name="ISWM_WUSG">0</SimpleData>
+		<SimpleData name="PlotID">0</SimpleData>
+		<SimpleData name="ISWM_Surface">0</SimpleData>
+		<SimpleData name="ISWM_FARMERID">0</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">0</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.34338999999999942 12.96385000000000076)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.34339,12.96385</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AEA___Lowland_2022_kml">
+		<SimpleData name="nbr">68</SimpleData>
+		<SimpleData name="ID">48</SimpleData>
+		<SimpleData name="Farmer name">Yang Thy</SimpleData>
+		<SimpleData name="Block">Os Touk</SimpleData>
+		<SimpleData name="Village">Os Tuk</SimpleData>
+		<SimpleData name="Code of the plot">OT_Yang Thy 01</SimpleData>
+		<SimpleData name="Surface (ha)">0.7</SimpleData>
+		<SimpleData name="Dei Meas">No</SimpleData>
+		<SimpleData name="Contact">096 308 6055</SimpleData>
+		<SimpleData name="Latitude">12.96896</SimpleData>
+		<SimpleData name="Longtitude">103.34762</SimpleData>
+		<SimpleData name="Diversification">ShortCC</SimpleData>
+		<SimpleData name="Cropping system">Short cycle (Green sowing)</SimpleData>
+		<SimpleData name="ISWM_WUG">0</SimpleData>
+		<SimpleData name="ISWM_WUSG">0</SimpleData>
+		<SimpleData name="PlotID">0</SimpleData>
+		<SimpleData name="ISWM_Surface">0</SimpleData>
+		<SimpleData name="ISWM_FARMERID">0</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">0</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.34762000000000626 12.96895999999999916)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.34762,12.96896</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AEA___Lowland_2022_kml">
+		<SimpleData name="nbr">69</SimpleData>
+		<SimpleData name="ID">49</SimpleData>
+		<SimpleData name="Farmer name">Conv 13 (Kim Koeun)</SimpleData>
+		<SimpleData name="Block">Os Touk</SimpleData>
+		<SimpleData name="Village">Os Tuk</SimpleData>
+		<SimpleData name="Code of the plot">CT</SimpleData>
+		<SimpleData name="Surface (ha)">1.13</SimpleData>
+		<SimpleData name="Dei Meas">CT</SimpleData>
+		<SimpleData name="Contact">098 551 047</SimpleData>
+		<SimpleData name="Latitude">12.96872</SimpleData>
+		<SimpleData name="Longtitude">103.3473</SimpleData>
+		<SimpleData name="Diversification">Conventional</SimpleData>
+		<SimpleData name="Cropping system">Conventional</SimpleData>
+		<SimpleData name="ISWM_WUG">0</SimpleData>
+		<SimpleData name="ISWM_WUSG">0</SimpleData>
+		<SimpleData name="PlotID">0</SimpleData>
+		<SimpleData name="ISWM_Surface">0</SimpleData>
+		<SimpleData name="ISWM_FARMERID">0</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">0</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.34730000000000416 12.96871999999999936)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.3473,12.96872</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AEA___Lowland_2022_kml">
+		<SimpleData name="nbr">70</SimpleData>
+		<SimpleData name="ID">50</SimpleData>
+		<SimpleData name="Farmer name">Eak Rorm</SimpleData>
+		<SimpleData name="Block">D</SimpleData>
+		<SimpleData name="Village">Reang Kessei</SimpleData>
+		<SimpleData name="Code of the plot">RK_Eak Rorm 03</SimpleData>
+		<SimpleData name="Surface (ha)">0.85</SimpleData>
+		<SimpleData name="Contact">096 735 3145</SimpleData>
+		<SimpleData name="Latitude">12.95969</SimpleData>
+		<SimpleData name="Longtitude">103.2602</SimpleData>
+		<SimpleData name="ISWM ID plot">SC7-4822</SimpleData>
+		<SimpleData name="Diversification">ShortCC</SimpleData>
+		<SimpleData name="Cropping system">Short cycle/Broadcast</SimpleData>
+		<SimpleData name="ISWM_WUG">SC7</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG2</SimpleData>
+		<SimpleData name="PlotID">SC7-4822</SimpleData>
+		<SimpleData name="ISWM_Surface">0,84</SimpleData>
+		<SimpleData name="ISWM_FARMERID">RK136</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC7-SG2</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.26019999999999754 12.95969000000000015)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.2602,12.95969</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AEA___Lowland_2022_kml">
+		<SimpleData name="nbr">71</SimpleData>
+		<SimpleData name="ID">51</SimpleData>
+		<SimpleData name="Farmer name">Chenda Sakteka</SimpleData>
+		<SimpleData name="Block">D</SimpleData>
+		<SimpleData name="Village">Reang Kessei</SimpleData>
+		<SimpleData name="Code of the plot">CT</SimpleData>
+		<SimpleData name="Surface (ha)">1.13</SimpleData>
+		<SimpleData name="Contact">096 209 3223</SimpleData>
+		<SimpleData name="Latitude">12.95991</SimpleData>
+		<SimpleData name="Longtitude">103.26292</SimpleData>
+		<SimpleData name="ISWM ID plot">SC7-4964</SimpleData>
+		<SimpleData name="Diversification">Conventional</SimpleData>
+		<SimpleData name="Cropping system">Conventional</SimpleData>
+		<SimpleData name="ISWM_WUG">SC7</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG3</SimpleData>
+		<SimpleData name="PlotID">SC7-4964</SimpleData>
+		<SimpleData name="ISWM_Surface">1,10</SimpleData>
+		<SimpleData name="ISWM_FARMERID">RL168</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC7-SG3</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.26291999999999405 12.95991000000000071)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.26292,12.95991</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AEA___Lowland_2022_kml">
+		<SimpleData name="nbr">73</SimpleData>
+		<SimpleData name="ID">50</SimpleData>
+		<SimpleData name="Farmer name">Eak Rorm</SimpleData>
+		<SimpleData name="Block">D</SimpleData>
+		<SimpleData name="Village">Reang Kessei</SimpleData>
+		<SimpleData name="Code of the plot">RK_Eak Rorm 07</SimpleData>
+		<SimpleData name="Surface (ha)">0.52</SimpleData>
+		<SimpleData name="Contact">096 735 3145</SimpleData>
+		<SimpleData name="Latitude">12.95703</SimpleData>
+		<SimpleData name="Longtitude">103.26319</SimpleData>
+		<SimpleData name="ISWM ID plot">SC7-4939</SimpleData>
+		<SimpleData name="Diversification">ShortCC</SimpleData>
+		<SimpleData name="Cropping system">Short cycle/NTP/Silicon</SimpleData>
+		<SimpleData name="ISWM_WUG">SC7</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG3</SimpleData>
+		<SimpleData name="PlotID">SC7-4939</SimpleData>
+		<SimpleData name="ISWM_Surface">0,53</SimpleData>
+		<SimpleData name="ISWM_FARMERID">RK136</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC7-SG3</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.26318999999999448 12.9570299999999996)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.26319,12.95703</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AEA___Lowland_2022_kml">
+		<SimpleData name="nbr">74</SimpleData>
+		<SimpleData name="ID">53</SimpleData>
+		<SimpleData name="Farmer name">Conv15 (Oeung Pov)</SimpleData>
+		<SimpleData name="Block">D</SimpleData>
+		<SimpleData name="Village">Reang Kessei</SimpleData>
+		<SimpleData name="Code of the plot">CT</SimpleData>
+		<SimpleData name="Surface (ha)">0.72</SimpleData>
+		<SimpleData name="Dei Meas">CT</SimpleData>
+		<SimpleData name="Latitude">12.957</SimpleData>
+		<SimpleData name="Longtitude">103.264</SimpleData>
+		<SimpleData name="ISWM ID plot">SC7-4805</SimpleData>
+		<SimpleData name="Diversification">Conventional</SimpleData>
+		<SimpleData name="Cropping system">Conventional</SimpleData>
+		<SimpleData name="ISWM_WUG">SC7</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG3</SimpleData>
+		<SimpleData name="PlotID">SC7-4940</SimpleData>
+		<SimpleData name="ISWM_Surface">0,78</SimpleData>
+		<SimpleData name="ISWM_FARMERID">RK023</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC7-SG3</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.26399999999999579 12.95700000000000074)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.264,12.957</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AEA___Lowland_2022_kml">
+		<SimpleData name="nbr">75</SimpleData>
+		<SimpleData name="ID">54</SimpleData>
+		<SimpleData name="Farmer name">Sorl Romphat</SimpleData>
+		<SimpleData name="Block">A</SimpleData>
+		<SimpleData name="Village">Wat Kandal</SimpleData>
+		<SimpleData name="Code of the plot">WD_Sorl Romphat 01</SimpleData>
+		<SimpleData name="Surface (ha)">1.05</SimpleData>
+		<SimpleData name="Contact">070 663 619</SimpleData>
+		<SimpleData name="Latitude">12.91624</SimpleData>
+		<SimpleData name="Longtitude">103.28199</SimpleData>
+		<SimpleData name="ISWM ID plot">SC3-1533</SimpleData>
+		<SimpleData name="Diversification">ShortCC</SimpleData>
+		<SimpleData name="Cropping system">Short cycle/NTP</SimpleData>
+		<SimpleData name="ISWM_WUG">SC3</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG4</SimpleData>
+		<SimpleData name="PlotID">SC3-1533</SimpleData>
+		<SimpleData name="ISWM_Surface">0,69</SimpleData>
+		<SimpleData name="ISWM_FARMERID">SC056</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC3-SG4</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.2819899999999933 12.91624000000000017)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.28199,12.91624</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AEA___Lowland_2022_kml">
+		<SimpleData name="nbr">76</SimpleData>
+		<SimpleData name="ID">55</SimpleData>
+		<SimpleData name="Farmer name">Conv16 (Ny Vanneth)</SimpleData>
+		<SimpleData name="Block">A</SimpleData>
+		<SimpleData name="Village">Wat Kandal</SimpleData>
+		<SimpleData name="Code of the plot">CT</SimpleData>
+		<SimpleData name="Surface (ha)">0.45</SimpleData>
+		<SimpleData name="Dei Meas">CT</SimpleData>
+		<SimpleData name="Latitude">12.91649</SimpleData>
+		<SimpleData name="Longtitude">103.28252</SimpleData>
+		<SimpleData name="ISWM ID plot">SC3-1545</SimpleData>
+		<SimpleData name="Diversification">Conventional</SimpleData>
+		<SimpleData name="Cropping system">Conventional</SimpleData>
+		<SimpleData name="ISWM_WUG">SC3</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG4</SimpleData>
+		<SimpleData name="PlotID">SC3-1545</SimpleData>
+		<SimpleData name="ISWM_Surface">0,49</SimpleData>
+		<SimpleData name="ISWM_FARMERID">WK054</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC3-SG4</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.28252000000000521 12.91648999999999958)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.28252,12.91649</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AEA___Lowland_2022_kml">
+		<SimpleData name="nbr">77</SimpleData>
+		<SimpleData name="ID">56</SimpleData>
+		<SimpleData name="Farmer name">Kong Seyha</SimpleData>
+		<SimpleData name="Block">A</SimpleData>
+		<SimpleData name="Village">Svay Cheat</SimpleData>
+		<SimpleData name="Code of the plot">SC_Kong Seyha 01</SimpleData>
+		<SimpleData name="Surface (ha)">1.1</SimpleData>
+		<SimpleData name="Dei Meas">No</SimpleData>
+		<SimpleData name="Contact">016 849 872</SimpleData>
+		<SimpleData name="Latitude">12.90307</SimpleData>
+		<SimpleData name="Longtitude">103.25623</SimpleData>
+		<SimpleData name="ISWM ID plot">SC3-1207</SimpleData>
+		<SimpleData name="Diversification">LongCC</SimpleData>
+		<SimpleData name="Cropping system">Long CC/Broadcast</SimpleData>
+		<SimpleData name="ISWM_WUG">SC3</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG1</SimpleData>
+		<SimpleData name="PlotID">SC3-1207</SimpleData>
+		<SimpleData name="ISWM_Surface">1,15</SimpleData>
+		<SimpleData name="ISWM_FARMERID">SC035</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC3-SG1</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.25623000000000218 12.9030699999999996)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.25623,12.90307</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AEA___Lowland_2022_kml">
+		<SimpleData name="nbr">78</SimpleData>
+		<SimpleData name="ID">57</SimpleData>
+		<SimpleData name="Farmer name">Conv17 (Kong Chantha)</SimpleData>
+		<SimpleData name="Block">A</SimpleData>
+		<SimpleData name="Village">Svay Cheat</SimpleData>
+		<SimpleData name="Code of the plot">CT</SimpleData>
+		<SimpleData name="Surface (ha)">0.31</SimpleData>
+		<SimpleData name="Dei Meas">CT</SimpleData>
+		<SimpleData name="Latitude">12.90354</SimpleData>
+		<SimpleData name="Longtitude">103.25697</SimpleData>
+		<SimpleData name="ISWM ID plot">SC3-1209</SimpleData>
+		<SimpleData name="Diversification">Conventional</SimpleData>
+		<SimpleData name="Cropping system">Conventional</SimpleData>
+		<SimpleData name="ISWM_WUG">SC3</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG1</SimpleData>
+		<SimpleData name="PlotID">SC3-1209</SimpleData>
+		<SimpleData name="ISWM_Surface">0,35</SimpleData>
+		<SimpleData name="ISWM_FARMERID">SC035</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC3-SG1</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.25696999999999548 12.90353999999999957)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.25697,12.90354</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AEA___Lowland_2022_kml">
+		<SimpleData name="nbr">79</SimpleData>
+		<SimpleData name="ID">58</SimpleData>
+		<SimpleData name="Farmer name">Yin Pheakey</SimpleData>
+		<SimpleData name="Block">B</SimpleData>
+		<SimpleData name="Village">Svay Cheat</SimpleData>
+		<SimpleData name="Code of the plot">SC_Yin Pheakdey</SimpleData>
+		<SimpleData name="Surface (ha)">0.75</SimpleData>
+		<SimpleData name="Dei Meas">No</SimpleData>
+		<SimpleData name="Contact">086 897 996</SimpleData>
+		<SimpleData name="Latitude">12.90683</SimpleData>
+		<SimpleData name="Longtitude">103.25772</SimpleData>
+		<SimpleData name="ISWM ID plot">SC4-1715</SimpleData>
+		<SimpleData name="Diversification">LongCC</SimpleData>
+		<SimpleData name="Cropping system">Long CC/Broadcast</SimpleData>
+		<SimpleData name="ISWM_WUG">SC4</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG1</SimpleData>
+		<SimpleData name="PlotID">SC4-1715</SimpleData>
+		<SimpleData name="ISWM_Surface">0,77</SimpleData>
+		<SimpleData name="ISWM_FARMERID">SC044</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC4-SG1</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.25772000000000617 12.90682999999999936)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.25772,12.90683</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AEA___Lowland_2022_kml">
+		<SimpleData name="nbr">80</SimpleData>
+		<SimpleData name="ID">59</SimpleData>
+		<SimpleData name="Farmer name">Conv18 (Yin Borey)</SimpleData>
+		<SimpleData name="Block">B</SimpleData>
+		<SimpleData name="Village">Svay Cheat</SimpleData>
+		<SimpleData name="Code of the plot">CT</SimpleData>
+		<SimpleData name="Surface (ha)">0.7</SimpleData>
+		<SimpleData name="Dei Meas">CT</SimpleData>
+		<SimpleData name="Latitude">12.90752</SimpleData>
+		<SimpleData name="Longtitude">103.25723</SimpleData>
+		<SimpleData name="ISWM ID plot">SC4-1716</SimpleData>
+		<SimpleData name="Diversification">Conventional</SimpleData>
+		<SimpleData name="Cropping system">Conventional</SimpleData>
+		<SimpleData name="ISWM_WUG">SC4</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG1</SimpleData>
+		<SimpleData name="PlotID">SC4-1716</SimpleData>
+		<SimpleData name="ISWM_Surface">0,76</SimpleData>
+		<SimpleData name="ISWM_FARMERID">SC042</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC4-SG1</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.25723000000000695 12.90751999999999988)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.25723,12.90752</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AEA___Lowland_2022_kml">
+		<SimpleData name="nbr">81</SimpleData>
+		<SimpleData name="ID">60</SimpleData>
+		<SimpleData name="Farmer name">Tong Channou</SimpleData>
+		<SimpleData name="Block">A</SimpleData>
+		<SimpleData name="Village">Svay Cheat</SimpleData>
+		<SimpleData name="Code of the plot">SC_Tong Channou 01</SimpleData>
+		<SimpleData name="Surface (ha)">0.45</SimpleData>
+		<SimpleData name="Dei Meas">No</SimpleData>
+		<SimpleData name="Contact">096 529 2929</SimpleData>
+		<SimpleData name="Latitude">12.9053</SimpleData>
+		<SimpleData name="Longtitude">103.25627</SimpleData>
+		<SimpleData name="ISWM ID plot">SC3-1216</SimpleData>
+		<SimpleData name="Diversification">LongCC</SimpleData>
+		<SimpleData name="Cropping system">Long CC/Broadcast</SimpleData>
+		<SimpleData name="ISWM_WUG">SC3</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG1</SimpleData>
+		<SimpleData name="PlotID">SC3-1216</SimpleData>
+		<SimpleData name="ISWM_Surface">0,49</SimpleData>
+		<SimpleData name="ISWM_FARMERID">SC010</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC3-SG1</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.25627000000000066 12.90530000000000044)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.25627,12.9053</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AEA___Lowland_2022_kml">
+		<SimpleData name="nbr">82</SimpleData>
+		<SimpleData name="ID">61</SimpleData>
+		<SimpleData name="Farmer name">Conv19 (Kea Phoert)</SimpleData>
+		<SimpleData name="Block">A</SimpleData>
+		<SimpleData name="Village">Svay Cheat</SimpleData>
+		<SimpleData name="Code of the plot">CT</SimpleData>
+		<SimpleData name="Surface (ha)">0.28</SimpleData>
+		<SimpleData name="Dei Meas">CT</SimpleData>
+		<SimpleData name="Latitude">12.90492</SimpleData>
+		<SimpleData name="Longtitude">103.25643</SimpleData>
+		<SimpleData name="ISWM ID plot">SC3-1217</SimpleData>
+		<SimpleData name="Diversification">Conventional</SimpleData>
+		<SimpleData name="Cropping system">Conventional</SimpleData>
+		<SimpleData name="ISWM_WUG">SC3</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG1</SimpleData>
+		<SimpleData name="PlotID">SC3-1217</SimpleData>
+		<SimpleData name="ISWM_Surface">0,33</SimpleData>
+		<SimpleData name="ISWM_FARMERID">SC020</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC3-SG1</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.25642999999999461 12.90492000000000061)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.25643,12.90492</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AEA___Lowland_2022_kml">
+		<SimpleData name="nbr">83</SimpleData>
+		<SimpleData name="ID">62</SimpleData>
+		<SimpleData name="Farmer name">Chork Yoeurm</SimpleData>
+		<SimpleData name="Block">B</SimpleData>
+		<SimpleData name="Village">Svay Cheat</SimpleData>
+		<SimpleData name="Code of the plot">SC_Chork Yoeurm 03</SimpleData>
+		<SimpleData name="Surface (ha)">0.631</SimpleData>
+		<SimpleData name="Dei Meas">YES</SimpleData>
+		<SimpleData name="Contact">096 205 3853</SimpleData>
+		<SimpleData name="Latitude">12.90648</SimpleData>
+		<SimpleData name="Longtitude">103.257</SimpleData>
+		<SimpleData name="ISWM ID plot">SC4-1714</SimpleData>
+		<SimpleData name="Diversification">LongCC</SimpleData>
+		<SimpleData name="Cropping system">Long CC/Broadcast</SimpleData>
+		<SimpleData name="ISWM_WUG">SC4</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG1</SimpleData>
+		<SimpleData name="PlotID">SC4-1714</SimpleData>
+		<SimpleData name="ISWM_Surface">0,61</SimpleData>
+		<SimpleData name="ISWM_FARMERID">SC016</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC4-SG1</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.257000000000005 12.90648000000000017)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.257,12.90648</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AEA___Lowland_2022_kml">
+		<SimpleData name="nbr">84</SimpleData>
+		<SimpleData name="ID">63</SimpleData>
+		<SimpleData name="Farmer name">Koeng Doeurn (Roller)</SimpleData>
+		<SimpleData name="Block">C</SimpleData>
+		<SimpleData name="Village">Wat Kandal</SimpleData>
+		<SimpleData name="Code of the plot">WD_Koeung Doeun 02</SimpleData>
+		<SimpleData name="Surface (ha)">0.64</SimpleData>
+		<SimpleData name="Dei Meas">Yes</SimpleData>
+		<SimpleData name="Contact">096 378 9910</SimpleData>
+		<SimpleData name="Latitude">12.93485</SimpleData>
+		<SimpleData name="Longtitude">103.26167</SimpleData>
+		<SimpleData name="Diversification">LongCC</SimpleData>
+		<SimpleData name="Cropping system">Long CC/Broadcast</SimpleData>
+		<SimpleData name="ISWM_WUG">SS4</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG2</SimpleData>
+		<SimpleData name="PlotID">SS4-3714</SimpleData>
+		<SimpleData name="ISWM_Surface">0,62</SimpleData>
+		<SimpleData name="ISWM_FARMERID">WK003</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SS4-SG2</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.26166999999999518 12.93485000000000085)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.26167,12.93485</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AEA___Lowland_2022_kml">
+		<SimpleData name="nbr">85</SimpleData>
+		<SimpleData name="ID">64</SimpleData>
+		<SimpleData name="Farmer name">Conv 31 (Khorn Sokhoeurn)</SimpleData>
+		<SimpleData name="Block">B</SimpleData>
+		<SimpleData name="Village">Wat Kandal</SimpleData>
+		<SimpleData name="Code of the plot">CT</SimpleData>
+		<SimpleData name="Surface (ha)">0.68</SimpleData>
+		<SimpleData name="Contact">096 329 4604</SimpleData>
+		<SimpleData name="Latitude">12.92545</SimpleData>
+		<SimpleData name="Longtitude">103.26463</SimpleData>
+		<SimpleData name="Diversification">Conventional</SimpleData>
+		<SimpleData name="Cropping system">Conventional</SimpleData>
+		<SimpleData name="ISWM_WUG">SC5</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG1</SimpleData>
+		<SimpleData name="PlotID">SC5-2487</SimpleData>
+		<SimpleData name="ISWM_Surface">1,12</SimpleData>
+		<SimpleData name="ISWM_FARMERID">WK192</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC5-SG1</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.26462999999999681 12.92544999999999966)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.26463,12.92545</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AEA___Lowland_2022_kml">
+		<SimpleData name="nbr">86</SimpleData>
+		<SimpleData name="ID">65</SimpleData>
+		<SimpleData name="Farmer name">Conv26 (Khorn Sokhoeurn)</SimpleData>
+		<SimpleData name="Block">C</SimpleData>
+		<SimpleData name="Village">Wat Kandal</SimpleData>
+		<SimpleData name="Code of the plot">CT</SimpleData>
+		<SimpleData name="Surface (ha)">0.27</SimpleData>
+		<SimpleData name="Contact">096 329 4604</SimpleData>
+		<SimpleData name="Latitude">12.93561</SimpleData>
+		<SimpleData name="Longtitude">103.26338</SimpleData>
+		<SimpleData name="Diversification">Conventional</SimpleData>
+		<SimpleData name="Cropping system">Conventional</SimpleData>
+		<SimpleData name="ISWM_WUG">SS4</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG2</SimpleData>
+		<SimpleData name="PlotID">SS4-3681</SimpleData>
+		<SimpleData name="ISWM_Surface">0,49</SimpleData>
+		<SimpleData name="ISWM_FARMERID">SC058</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SS4-SG2</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.26337999999999795 12.9356100000000005)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.26338,12.93561</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AEA___Lowland_2022_kml">
+		<SimpleData name="nbr">87</SimpleData>
+		<SimpleData name="ID">66</SimpleData>
+		<SimpleData name="Farmer name">Conv 28 (Tum Ban)</SimpleData>
+		<SimpleData name="Block">C</SimpleData>
+		<SimpleData name="Village">Wat Kandal</SimpleData>
+		<SimpleData name="Code of the plot">CT</SimpleData>
+		<SimpleData name="Surface (ha)">0.85</SimpleData>
+		<SimpleData name="Latitude">12.93545</SimpleData>
+		<SimpleData name="Longtitude">103.26502</SimpleData>
+		<SimpleData name="Diversification">Conventional</SimpleData>
+		<SimpleData name="Cropping system">Conventional</SimpleData>
+		<SimpleData name="ISWM_WUG">SS4</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG2</SimpleData>
+		<SimpleData name="PlotID">SS4-3669</SimpleData>
+		<SimpleData name="ISWM_Surface">0,84</SimpleData>
+		<SimpleData name="ISWM_FARMERID">WK031</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SS4-SG2</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.26502000000000692 12.93544999999999945)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.26502,12.93545</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AEA___Lowland_2022_kml">
+		<SimpleData name="nbr">88</SimpleData>
+		<SimpleData name="ID">67</SimpleData>
+		<SimpleData name="Farmer name">Conv 22 (Soeurng Soeum)</SimpleData>
+		<SimpleData name="Block">B</SimpleData>
+		<SimpleData name="Village">Wat Kandal</SimpleData>
+		<SimpleData name="Code of the plot">CT</SimpleData>
+		<SimpleData name="Surface (ha)">0.38</SimpleData>
+		<SimpleData name="Latitude">12.92375</SimpleData>
+		<SimpleData name="Longtitude">103.26388</SimpleData>
+		<SimpleData name="Diversification">Conventional</SimpleData>
+		<SimpleData name="Cropping system">Conventional</SimpleData>
+		<SimpleData name="ISWM_WUG">SC5</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG1</SimpleData>
+		<SimpleData name="PlotID">SC5-2390</SimpleData>
+		<SimpleData name="ISWM_Surface">0,32</SimpleData>
+		<SimpleData name="ISWM_FARMERID">WK073</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC5-SG1</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.26388000000000034 12.92375000000000007)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.26388,12.92375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AEA___Lowland_2022_kml">
+		<SimpleData name="nbr">89</SimpleData>
+		<SimpleData name="ID">68</SimpleData>
+		<SimpleData name="Farmer name">Conv23(Raen Rat)</SimpleData>
+		<SimpleData name="Block">B</SimpleData>
+		<SimpleData name="Village">Wat Kandal</SimpleData>
+		<SimpleData name="Code of the plot">CT</SimpleData>
+		<SimpleData name="Surface (ha)">0.7</SimpleData>
+		<SimpleData name="Contact">096 367 1937</SimpleData>
+		<SimpleData name="Latitude">12.92685</SimpleData>
+		<SimpleData name="Longtitude">103.26119</SimpleData>
+		<SimpleData name="Diversification">Conventional</SimpleData>
+		<SimpleData name="Cropping system">Conventional</SimpleData>
+		<SimpleData name="ISWM_WUG">SC5</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG1</SimpleData>
+		<SimpleData name="PlotID">SC5-2435</SimpleData>
+		<SimpleData name="ISWM_Surface">0,73</SimpleData>
+		<SimpleData name="ISWM_FARMERID">SC050</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC5-SG1</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.26118999999999915 12.92684999999999995)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.26119,12.92685</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AEA___Lowland_2022_kml">
+		<SimpleData name="nbr">90</SimpleData>
+		<SimpleData name="ID">69</SimpleData>
+		<SimpleData name="Farmer name">Conv20(Thoeng Chanthu)</SimpleData>
+		<SimpleData name="Block">E</SimpleData>
+		<SimpleData name="Village">Domnak Dangkor</SimpleData>
+		<SimpleData name="Code of the plot">CT</SimpleData>
+		<SimpleData name="Surface (ha)">0.75</SimpleData>
+		<SimpleData name="Contact">096 391 7118</SimpleData>
+		<SimpleData name="Latitude">12.97799</SimpleData>
+		<SimpleData name="Longtitude">103.26782</SimpleData>
+		<SimpleData name="Diversification">Conventional</SimpleData>
+		<SimpleData name="Cropping system">Conventional</SimpleData>
+		<SimpleData name="ISWM_WUG">SC8</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG11</SimpleData>
+		<SimpleData name="PlotID">SG11-5677</SimpleData>
+		<SimpleData name="ISWM_Surface">1,22</SimpleData>
+		<SimpleData name="ISWM_FARMERID">DK069</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC8-SG11</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.26782000000000039 12.97799000000000014)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.26782,12.97799</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#AEA___Lowland_2022_kml">
+		<SimpleData name="nbr">91</SimpleData>
+		<SimpleData name="ID">70</SimpleData>
+		<SimpleData name="Farmer name">Conv 27 (Ra Sina)</SimpleData>
+		<SimpleData name="Block">B</SimpleData>
+		<SimpleData name="Village">Wat Kandal</SimpleData>
+		<SimpleData name="Code of the plot">CT</SimpleData>
+		<SimpleData name="Surface (ha)">1</SimpleData>
+		<SimpleData name="Contact">096 827 6509</SimpleData>
+		<SimpleData name="Latitude">12.92316</SimpleData>
+		<SimpleData name="Longtitude">103.2699</SimpleData>
+		<SimpleData name="Diversification">Conventional</SimpleData>
+		<SimpleData name="Cropping system">Conventional</SimpleData>
+		<SimpleData name="ISWM_WUG">SC5</SimpleData>
+		<SimpleData name="ISWM_WUSG">SG2</SimpleData>
+		<SimpleData name="PlotID">SC5-2523</SimpleData>
+		<SimpleData name="ISWM_Surface">1,12</SimpleData>
+		<SimpleData name="ISWM_FARMERID">WK016</SimpleData>
+		<SimpleData name="ISWM_WUG-WUSG">SC5-SG2</SimpleData>
+		<SimpleData name="wkt_geom">Point (103.26990000000000691 12.92315999999999931)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>103.2699,12.92316</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
